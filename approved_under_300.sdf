@@ -14,7 +14,9 @@ M  END
 CHEMBL2068408
 
 > <chembl_pref_name>
-SILICATE $$$$
+SILICATE
+
+$$$$
 
      RDKit          2D
 
@@ -52,7 +54,9 @@ M  END
 CHEMBL1024
 
 > <chembl_pref_name>
-IFOSFAMIDE $$$$
+IFOSFAMIDE
+
+$$$$
 
      RDKit          2D
 
@@ -67,7 +71,9 @@ M  END
 CHEMBL545
 
 > <chembl_pref_name>
-ALCOHOL $$$$
+ALCOHOL
+
+$$$$
 
      RDKit          2D
 
@@ -113,7 +119,9 @@ M  END
 CHEMBL58323
 
 > <chembl_pref_name>
-ERLOSAMIDE $$$$
+ERLOSAMIDE
+
+$$$$
 
      RDKit          2D
 
@@ -155,7 +163,9 @@ M  END
 CHEMBL2105233
 
 > <chembl_pref_name>
-PROXIBARBAL $$$$
+PROXIBARBAL
+
+$$$$
 
      RDKit          2D
 
@@ -204,7 +214,9 @@ M  END
 CHEMBL2107817
 
 > <chembl_pref_name>
-AVIBACTAM SODIUM $$$$
+AVIBACTAM SODIUM
+
+$$$$
 
      RDKit          2D
 
@@ -240,7 +252,9 @@ M  END
 CHEMBL1200869
 
 > <chembl_pref_name>
-METRONIDAZOLE HYDROCHLORIDE $$$$
+METRONIDAZOLE HYDROCHLORIDE
+
+$$$$
 
      RDKit          2D
 
@@ -282,7 +296,9 @@ M  END
 CHEMBL1229908
 
 > <chembl_pref_name>
-ETHAMIVAN $$$$
+ETHAMIVAN
+
+$$$$
 
      RDKit          2D
 
@@ -314,7 +330,9 @@ M  END
 CHEMBL877
 
 > <chembl_pref_name>
-TRANEXAMIC ACID $$$$
+TRANEXAMIC ACID
+
+$$$$
 
      RDKit          2D
 
@@ -348,7 +366,9 @@ M  END
 CHEMBL1200381
 
 > <chembl_pref_name>
-ARGININE HYDROCHLORIDE $$$$
+ARGININE HYDROCHLORIDE
+
+$$$$
 
      RDKit          2D
 
@@ -397,7 +417,9 @@ M  END
 CHEMBL1118
 
 > <chembl_pref_name>
-DESVENLAFAXINE $$$$
+DESVENLAFAXINE
+
+$$$$
 
      RDKit          2D
 
@@ -437,7 +459,9 @@ M  END
 CHEMBL1200365
 
 > <chembl_pref_name>
-AMINOHIPPURATE SODIUM $$$$
+AMINOHIPPURATE SODIUM
+
+$$$$
 
      RDKit          2D
 
@@ -489,7 +513,9 @@ M  END
 CHEMBL1195
 
 > <chembl_pref_name>
-PROPOXYCAINE $$$$
+PROPOXYCAINE
+
+$$$$
 
      RDKit          2D
 
@@ -530,7 +556,9 @@ M  END
 CHEMBL284906
 
 > <chembl_pref_name>
-NICORANDIL $$$$
+NICORANDIL
+
+$$$$
 
      RDKit          2D
 
@@ -582,7 +610,9 @@ M  END
 CHEMBL986
 
 > <chembl_pref_name>
-RETINOL $$$$
+RETINOL
+
+$$$$
 
      RDKit          2D
 
@@ -611,7 +641,9 @@ M  END
 CHEMBL1314
 
 > <chembl_pref_name>
-TIOPRONIN $$$$
+TIOPRONIN
+
+$$$$
 
      RDKit          2D
 
@@ -663,7 +695,9 @@ M  END
 CHEMBL847
 
 > <chembl_pref_name>
-OXAMNIQUINE $$$$
+OXAMNIQUINE
+
+$$$$
 
      RDKit          2D
 
@@ -696,7 +730,9 @@ M  END
 CHEMBL1200695
 
 > <chembl_pref_name>
-PHENYLPROPANOLAMINE HYDROCHLORIDE $$$$
+PHENYLPROPANOLAMINE HYDROCHLORIDE
+
+$$$$
 
      RDKit          2D
 
@@ -745,7 +781,9 @@ M  END
 CHEMBL1243
 
 > <chembl_pref_name>
-SULFABENZAMIDE $$$$
+SULFABENZAMIDE
+
+$$$$
 
      RDKit          2D
 
@@ -793,7 +831,9 @@ M  END
 CHEMBL242580
 
 > <chembl_pref_name>
-CICLOPIROX OLAMINE $$$$
+CICLOPIROX OLAMINE
+
+$$$$
 
      RDKit          2D
 
@@ -846,7 +886,9 @@ M  END
 CHEMBL511
 
 > <chembl_pref_name>
-PYRILAMINE $$$$
+PYRILAMINE
+
+$$$$
 
      RDKit          2D
 
@@ -884,7 +926,9 @@ M  END
 CHEMBL1009
 
 > <chembl_pref_name>
-LEVODOPA $$$$
+LEVODOPA
+
+$$$$
 
      RDKit          2D
 
@@ -915,7 +959,9 @@ M  END
 CHEMBL396416
 
 > <chembl_pref_name>
-CARBOCYSTEINE $$$$
+CARBOCYSTEINE
+
+$$$$
 
      RDKit          2D
 
@@ -948,7 +994,9 @@ M  END
 CHEMBL1201015
 
 > <chembl_pref_name>
-ALUMINUM ACETATE $$$$
+ALUMINUM ACETATE
+
+$$$$
 
      RDKit          2D
 
@@ -990,7 +1038,9 @@ M  END
 CHEMBL1194
 
 > <chembl_pref_name>
-PRILOCAINE $$$$
+PRILOCAINE
+
+$$$$
 
      RDKit          2D
 
@@ -1035,7 +1085,9 @@ M  END
 CHEMBL1200868
 
 > <chembl_pref_name>
-PHENYL AMINOSALICYLATE $$$$
+PHENYL AMINOSALICYLATE
+
+$$$$
 
      RDKit          2D
 
@@ -1073,7 +1125,9 @@ M  END
 CHEMBL684
 
 > <chembl_pref_name>
-DIETHYLCARBAMAZINE $$$$
+DIETHYLCARBAMAZINE
+
+$$$$
 
      RDKit          2D
 
@@ -1103,7 +1157,9 @@ M  END
 CHEMBL64
 
 > <chembl_pref_name>
-ISONIAZID $$$$
+ISONIAZID
+
+$$$$
 
      RDKit          2D
 
@@ -1129,7 +1185,9 @@ M  END
 CHEMBL537
 
 > <chembl_pref_name>
-HYDROQUINONE $$$$
+HYDROQUINONE
+
+$$$$
 
      RDKit          2D
 
@@ -1169,7 +1227,9 @@ M  END
 CHEMBL94081
 
 > <chembl_pref_name>
-ALCLOFENAC $$$$
+ALCLOFENAC
+
+$$$$
 
      RDKit          2D
 
@@ -1217,7 +1277,9 @@ M  END
 CHEMBL24
 
 > <chembl_pref_name>
-ATENOLOL $$$$
+ATENOLOL
+
+$$$$
 
      RDKit          2D
 
@@ -1254,7 +1316,9 @@ M  END
 CHEMBL1177
 
 > <chembl_pref_name>
-PEMOLINE $$$$
+PEMOLINE
+
+$$$$
 
      RDKit          2D
 
@@ -1298,7 +1362,9 @@ M  END
 CHEMBL447
 
 > <chembl_pref_name>
-SECOBARBITAL $$$$
+SECOBARBITAL
+
+$$$$
 
      RDKit          2D
 
@@ -1343,7 +1409,9 @@ M  END
 CHEMBL443
 
 > <chembl_pref_name>
-SULFAMETHOXAZOLE $$$$
+SULFAMETHOXAZOLE
+
+$$$$
 
      RDKit          2D
 
@@ -1388,7 +1456,9 @@ M  END
 CHEMBL374731
 
 > <chembl_pref_name>
-TELBIVUDINE $$$$
+TELBIVUDINE
+
+$$$$
 
      RDKit          2D
 
@@ -1441,7 +1511,9 @@ M  END
 CHEMBL1201237
 
 > <chembl_pref_name>
-LEVOBUNOLOL $$$$
+LEVOBUNOLOL
+
+$$$$
 
      RDKit          2D
 
@@ -1465,7 +1537,9 @@ M  END
 CHEMBL2107560
 
 > <chembl_pref_name>
-SODIUM PHOSPHATE, DIBASIC $$$$
+SODIUM PHOSPHATE, DIBASIC
+
+$$$$
 
      RDKit          2D
 
@@ -1521,7 +1595,9 @@ M  END
 CHEMBL1186610
 
 > <chembl_pref_name>
-ANISOTROPINE $$$$
+ANISOTROPINE
+
+$$$$
 
      RDKit          2D
 
@@ -1569,7 +1645,9 @@ M  END
 CHEMBL904
 
 > <chembl_pref_name>
-DEXMETHYLPHENIDATE HYDROCHLORIDE $$$$
+DEXMETHYLPHENIDATE HYDROCHLORIDE
+
+$$$$
 
      RDKit          2D
 
@@ -1589,7 +1667,9 @@ M  END
 CHEMBL1200826
 
 > <chembl_pref_name>
-LITHIUM CARBONATE $$$$
+LITHIUM CARBONATE
+
+$$$$
 
      RDKit          2D
 
@@ -1612,7 +1692,9 @@ M  END
 CHEMBL2107525
 
 > <chembl_pref_name>
-SODIUM PHOSPHATE P 32 $$$$
+SODIUM PHOSPHATE P 32
+
+$$$$
 
      RDKit          2D
 
@@ -1639,7 +1721,9 @@ M  END
 CHEMBL113178
 
 > <chembl_pref_name>
-SELENOMETHIONINE $$$$
+SELENOMETHIONINE
+
+$$$$
 
      RDKit          2D
 
@@ -1681,7 +1765,9 @@ M  END
 CHEMBL1321
 
 > <chembl_pref_name>
-PROCARBAZINE $$$$
+PROCARBAZINE
+
+$$$$
 
      RDKit          2D
 
@@ -1735,7 +1821,9 @@ M  END
 CHEMBL597
 
 > <chembl_pref_name>
-PHENTOLAMINE $$$$
+PHENTOLAMINE
+
+$$$$
 
      RDKit          2D
 
@@ -1756,7 +1844,9 @@ M  END
 CHEMBL1597
 
 > <chembl_pref_name>
-DIMERCAPROL $$$$
+DIMERCAPROL
+
+$$$$
 
      RDKit          2D
 
@@ -1812,7 +1902,9 @@ M  END
 CHEMBL1096
 
 > <chembl_pref_name>
-AMLEXANOX $$$$
+AMLEXANOX
+
+$$$$
 
      RDKit          2D
 
@@ -1857,7 +1949,9 @@ M  END
 CHEMBL917
 
 > <chembl_pref_name>
-FLOXURIDINE $$$$
+FLOXURIDINE
+
+$$$$
 
      RDKit          2D
 
@@ -1918,7 +2012,9 @@ M  END
 CHEMBL386630
 
 > <chembl_pref_name>
-TESTOSTERONE $$$$
+TESTOSTERONE
+
+$$$$
 
      RDKit          2D
 
@@ -1965,7 +2061,9 @@ M  END
 CHEMBL607
 
 > <chembl_pref_name>
-MEPERIDINE $$$$
+MEPERIDINE
+
+$$$$
 
      RDKit          2D
 
@@ -2000,7 +2098,9 @@ M  END
 CHEMBL1201037
 
 > <chembl_pref_name>
-EFLORNITHINE HYDROCHLORIDE $$$$
+EFLORNITHINE HYDROCHLORIDE
+
+$$$$
 
      RDKit          2D
 
@@ -2013,7 +2113,9 @@ M  END
 CHEMBL1616046
 
 > <chembl_pref_name>
-HYPOCHLOROUS ACID $$$$
+HYPOCHLOROUS ACID
+
+$$$$
 
      RDKit          2D
 
@@ -2052,7 +2154,9 @@ M  END
 CHEMBL1626223
 
 > <chembl_pref_name>
-PYRANTEL $$$$
+PYRANTEL
+
+$$$$
 
      RDKit          2D
 
@@ -2103,7 +2207,9 @@ M  END
 CHEMBL1201313
 
 > <chembl_pref_name>
-CHLOPHEDIANOL $$$$
+CHLOPHEDIANOL
+
+$$$$
 
      RDKit          2D
 
@@ -2149,7 +2255,9 @@ M  END
 CHEMBL1201212
 
 > <chembl_pref_name>
-MIDODRINE $$$$
+MIDODRINE
+
+$$$$
 
      RDKit          2D
 
@@ -2203,7 +2311,9 @@ M  END
 CHEMBL1492500
 
 > <chembl_pref_name>
-DOTHIEPIN $$$$
+DOTHIEPIN
+
+$$$$
 
      RDKit          2D
 
@@ -2257,7 +2367,9 @@ M  END
 CHEMBL1492
 
 > <chembl_pref_name>
-DIPHENYLPYRALINE $$$$
+DIPHENYLPYRALINE
+
+$$$$
 
      RDKit          2D
 
@@ -2303,7 +2415,9 @@ M  END
 CHEMBL1460
 
 > <chembl_pref_name>
-DIDANOSINE $$$$
+DIDANOSINE
+
+$$$$
 
      RDKit          2D
 
@@ -2335,7 +2449,9 @@ M  END
 CHEMBL1574
 
 > <chembl_pref_name>
-PHENTERMINE $$$$
+PHENTERMINE
+
+$$$$
 
      RDKit          2D
 
@@ -2369,7 +2485,9 @@ M  END
 CHEMBL1222250
 
 > <chembl_pref_name>
-DEXTROSE $$$$
+DEXTROSE
+
+$$$$
 
      RDKit          2D
 
@@ -2400,7 +2518,9 @@ M  END
 CHEMBL2105248
 
 > <chembl_pref_name>
-POTASSIUM BITARTRATE $$$$
+POTASSIUM BITARTRATE
+
+$$$$
 
      RDKit          2D
 
@@ -2436,7 +2556,9 @@ M  END
 CHEMBL476
 
 > <chembl_pref_name>
-DACARBAZINE $$$$
+DACARBAZINE
+
+$$$$
 
      RDKit          2D
 
@@ -2492,7 +2614,9 @@ M  END
 CHEMBL2110816
 
 > <chembl_pref_name>
-BUTRIPTYLINE $$$$
+BUTRIPTYLINE
+
+$$$$
 
      RDKit          2D
 
@@ -2528,7 +2652,9 @@ M  END
 CHEMBL64195
 
 > <chembl_pref_name>
-BECLAMIDE $$$$
+BECLAMIDE
+
+$$$$
 
      RDKit          2D
 
@@ -2591,7 +2717,9 @@ M  END
 CHEMBL691
 
 > <chembl_pref_name>
-ETHINYL ESTRADIOL $$$$
+ETHINYL ESTRADIOL
+
+$$$$
 
      RDKit          2D
 
@@ -2628,7 +2756,9 @@ M  END
 CHEMBL1115
 
 > <chembl_pref_name>
-PYRIDOSTIGMINE $$$$
+PYRIDOSTIGMINE
+
+$$$$
 
      RDKit          2D
 
@@ -2667,7 +2797,9 @@ M  END
 CHEMBL1256391
 
 > <chembl_pref_name>
-PIRFENIDONE $$$$
+PIRFENIDONE
+
+$$$$
 
      RDKit          2D
 
@@ -2728,7 +2860,9 @@ M  END
 CHEMBL193482
 
 > <chembl_pref_name>
-ESTRIOL $$$$
+ESTRIOL
+
+$$$$
 
      RDKit          2D
 
@@ -2783,7 +2917,9 @@ M  END
 CHEMBL285674
 
 > <chembl_pref_name>
-ESTAZOLAM $$$$
+ESTAZOLAM
+
+$$$$
 
      RDKit          2D
 
@@ -2832,7 +2968,9 @@ M  END
 CHEMBL203266
 
 > <chembl_pref_name>
-TRIMETAZIDINE $$$$
+TRIMETAZIDINE
+
+$$$$
 
      RDKit          2D
 
@@ -2855,7 +2993,9 @@ M  END
 CHEMBL455917
 
 > <chembl_pref_name>
-CHLORAL HYDRATE $$$$
+CHLORAL HYDRATE
+
+$$$$
 
      RDKit          2D
 
@@ -2905,7 +3045,9 @@ M  END
 CHEMBL468
 
 > <chembl_pref_name>
-THALIDOMIDE $$$$
+THALIDOMIDE
+
+$$$$
 
      RDKit          2D
 
@@ -2950,7 +3092,9 @@ M  END
 CHEMBL700
 
 > <chembl_pref_name>
-SULFAPYRIDINE $$$$
+SULFAPYRIDINE
+
+$$$$
 
      RDKit          2D
 
@@ -2964,7 +3108,9 @@ M  END
 CHEMBL2219640
 
 > <chembl_pref_name>
-STRONTIUM CHLORIDE $$$$
+STRONTIUM CHLORIDE
+
+$$$$
 
      RDKit          2D
 
@@ -2978,7 +3124,9 @@ M  END
 CHEMBL2219642
 
 > <chembl_pref_name>
-MAGNESIUM CHLORIDE $$$$
+MAGNESIUM CHLORIDE
+
+$$$$
 
      RDKit          2D
 
@@ -3029,7 +3177,9 @@ M  END
 CHEMBL864
 
 > <chembl_pref_name>
-CARBINOXAMINE $$$$
+CARBINOXAMINE
+
+$$$$
 
      RDKit          2D
 
@@ -3060,7 +3210,9 @@ M  END
 CHEMBL433
 
 > <chembl_pref_name>
-VALPROATE SODIUM $$$$
+VALPROATE SODIUM
+
+$$$$
 
      RDKit          2D
 
@@ -3107,7 +3259,9 @@ M  END
 CHEMBL888
 
 > <chembl_pref_name>
-GEMCITABINE $$$$
+GEMCITABINE
+
+$$$$
 
      RDKit          2D
 
@@ -3145,7 +3299,9 @@ M  END
 CHEMBL812
 
 > <chembl_pref_name>
-PYRIDOSTIGMINE BROMIDE $$$$
+PYRIDOSTIGMINE BROMIDE
+
+$$$$
 
      RDKit          2D
 
@@ -3196,7 +3352,9 @@ M  END
 CHEMBL1200434
 
 > <chembl_pref_name>
-OXTRIPHYLLINE $$$$
+OXTRIPHYLLINE
+
+$$$$
 
      RDKit          2D
 
@@ -3217,7 +3375,9 @@ M  END
 CHEMBL1200696
 
 > <chembl_pref_name>
-POTASSIUM PERCHLORATE $$$$
+POTASSIUM PERCHLORATE
+
+$$$$
 
      RDKit          2D
 
@@ -3273,7 +3433,9 @@ M  END
 CHEMBL1071
 
 > <chembl_pref_name>
-OXAPROZIN $$$$
+OXAPROZIN
+
+$$$$
 
      RDKit          2D
 
@@ -3297,7 +3459,9 @@ M  END
 CHEMBL1200630
 
 > <chembl_pref_name>
-CYSTEINE HYDROCHLORIDE $$$$
+CYSTEINE HYDROCHLORIDE
+
+$$$$
 
      RDKit          2D
 
@@ -3337,7 +3501,9 @@ M  END
 CHEMBL1159717
 
 > <chembl_pref_name>
-TULOBUTEROL $$$$
+TULOBUTEROL
+
+$$$$
 
      RDKit          2D
 
@@ -3400,7 +3566,9 @@ M  END
 CHEMBL1200623
 
 > <chembl_pref_name>
-ETHYLESTRENOL $$$$
+ETHYLESTRENOL
+
+$$$$
 
      RDKit          2D
 
@@ -3455,7 +3623,9 @@ M  END
 CHEMBL13209
 
 > <chembl_pref_name>
-NITRAZEPAM $$$$
+NITRAZEPAM
+
+$$$$
 
      RDKit          2D
 
@@ -3502,7 +3672,9 @@ M  END
 CHEMBL1200377
 
 > <chembl_pref_name>
-AMPHETAMINE ASPARTATE $$$$
+AMPHETAMINE ASPARTATE
+
+$$$$
 
      RDKit          2D
 
@@ -3534,7 +3706,9 @@ M  END
 CHEMBL704
 
 > <chembl_pref_name>
-MESALAMINE $$$$
+MESALAMINE
+
+$$$$
 
      RDKit          2D
 
@@ -3576,7 +3750,9 @@ M  END
 CHEMBL95
 
 > <chembl_pref_name>
-TACRINE $$$$
+TACRINE
+
+$$$$
 
      RDKit          2D
 
@@ -3616,7 +3792,9 @@ M  END
 CHEMBL1697744
 
 > <chembl_pref_name>
-ERDOSTEINE $$$$
+ERDOSTEINE
+
+$$$$
 
      RDKit          2D
 
@@ -3635,7 +3813,9 @@ M  END
 CHEMBL1354
 
 > <chembl_pref_name>
-SODIUM ACETATE $$$$
+SODIUM ACETATE
+
+$$$$
 
      RDKit          2D
 
@@ -3668,7 +3848,9 @@ M  END
 CHEMBL1200694
 
 > <chembl_pref_name>
-SEVOFLURANE $$$$
+SEVOFLURANE
+
+$$$$
 
      RDKit          2D
 
@@ -3707,7 +3889,9 @@ M  END
 CHEMBL20883
 
 > <chembl_pref_name>
-TEGAFUR $$$$
+TEGAFUR
+
+$$$$
 
      RDKit          2D
 
@@ -3721,7 +3905,9 @@ M  END
 CHEMBL2106388
 
 > <chembl_pref_name>
-CALCIUM HYDROXIDE $$$$
+CALCIUM HYDROXIDE
+
+$$$$
 
      RDKit          2D
 
@@ -3751,7 +3937,9 @@ M  END
 CHEMBL24441
 
 > <chembl_pref_name>
-BETAHISTINE $$$$
+BETAHISTINE
+
+$$$$
 
      RDKit          2D
 
@@ -3800,7 +3988,9 @@ M  END
 CHEMBL85231
 
 > <chembl_pref_name>
-MEDIFOXAMINE $$$$
+MEDIFOXAMINE
+
+$$$$
 
      RDKit          2D
 
@@ -3821,7 +4011,9 @@ M  END
 CHEMBL1229937
 
 > <chembl_pref_name>
-DIHYDROXYACETONE $$$$
+DIHYDROXYACETONE
+
+$$$$
 
      RDKit          2D
 
@@ -3857,7 +4049,9 @@ M  END
 CHEMBL542541
 
 > <chembl_pref_name>
-HYDRALAZINE HYDROCHLORIDE $$$$
+HYDRALAZINE HYDROCHLORIDE
+
+$$$$
 
      RDKit          2D
 
@@ -3889,7 +4083,9 @@ M  END
 CHEMBL1100
 
 > <chembl_pref_name>
-PARAMETHADIONE $$$$
+PARAMETHADIONE
+
+$$$$
 
      RDKit          2D
 
@@ -3934,7 +4130,9 @@ M  END
 CHEMBL306700
 
 > <chembl_pref_name>
-VILOXAZINE $$$$
+VILOXAZINE
+
+$$$$
 
      RDKit          2D
 
@@ -3979,7 +4177,9 @@ M  END
 CHEMBL1697760
 
 > <chembl_pref_name>
-MUZOLIMINE $$$$
+MUZOLIMINE
+
+$$$$
 
      RDKit          2D
 
@@ -4016,7 +4216,9 @@ M  END
 CHEMBL360328
 
 > <chembl_pref_name>
-LORCASERIN $$$$
+LORCASERIN
+
+$$$$
 
      RDKit          2D
 
@@ -4028,7 +4230,9 @@ M  END
 CHEMBL1201096
 
 > <chembl_pref_name>
-KRYPTON KR 81M $$$$
+KRYPTON KR 81M
+
+$$$$
 
      RDKit          2D
 
@@ -4069,7 +4273,9 @@ M  END
 CHEMBL46917
 
 > <chembl_pref_name>
-CARBARIL $$$$
+CARBARIL
+
+$$$$
 
      RDKit          2D
 
@@ -4096,7 +4302,9 @@ M  END
 CHEMBL1201798
 
 > <chembl_pref_name>
-SEVELAMER $$$$
+SEVELAMER
+
+$$$$
 
      RDKit          2D
 
@@ -4130,7 +4338,9 @@ M  END
 CHEMBL211456
 
 > <chembl_pref_name>
-EPHEDRINE $$$$
+EPHEDRINE
+
+$$$$
 
      RDKit          2D
 
@@ -4178,7 +4388,9 @@ M  END
 CHEMBL1282
 
 > <chembl_pref_name>
-IMIQUIMOD $$$$
+IMIQUIMOD
+
+$$$$
 
      RDKit          2D
 
@@ -4232,7 +4444,9 @@ M  END
 CHEMBL3833312
 
 > <chembl_pref_name>
-METHENAMINE MANDELATE $$$$
+METHENAMINE MANDELATE
+
+$$$$
 
      RDKit          2D
 
@@ -4275,7 +4489,9 @@ M  END
 CHEMBL350221
 
 > <chembl_pref_name>
-OXITRIPTAN $$$$
+OXITRIPTAN
+
+$$$$
 
      RDKit          2D
 
@@ -4317,7 +4533,9 @@ M  END
 CHEMBL1697856
 
 > <chembl_pref_name>
-BUCETIN $$$$
+BUCETIN
+
+$$$$
 
      RDKit          2D
 
@@ -4368,7 +4586,9 @@ M  END
 CHEMBL637
 
 > <chembl_pref_name>
-VENLAFAXINE $$$$
+VENLAFAXINE
+
+$$$$
 
      RDKit          2D
 
@@ -4381,7 +4601,9 @@ M  END
 CHEMBL2110557
 
 > <chembl_pref_name>
-RUBIDIUM CHLORIDE $$$$
+RUBIDIUM CHLORIDE
+
+$$$$
 
      RDKit          2D
 
@@ -4430,7 +4652,9 @@ M  END
 CHEMBL1020
 
 > <chembl_pref_name>
-TOLMETIN $$$$
+TOLMETIN
+
+$$$$
 
      RDKit          2D
 
@@ -4460,7 +4684,9 @@ M  END
 CHEMBL502135
 
 > <chembl_pref_name>
-XYLOSE $$$$
+XYLOSE
+
+$$$$
 
      RDKit          2D
 
@@ -4516,7 +4742,9 @@ M  END
 CHEMBL87992
 
 > <chembl_pref_name>
-ESLICARBAZEPINE ACETATE $$$$
+ESLICARBAZEPINE ACETATE
+
+$$$$
 
      RDKit          2D
 
@@ -4561,7 +4789,9 @@ M  END
 CHEMBL1201051
 
 > <chembl_pref_name>
-CIMETIDINE HYDROCHLORIDE $$$$
+CIMETIDINE HYDROCHLORIDE
+
+$$$$
 
      RDKit          2D
 
@@ -4599,7 +4829,9 @@ M  END
 CHEMBL4297620
 
 > <chembl_pref_name>
-SOLRIAMFETOL $$$$
+SOLRIAMFETOL
+
+$$$$
 
      RDKit          2D
 
@@ -4629,7 +4861,9 @@ M  END
 CHEMBL667
 
 > <chembl_pref_name>
-ACETYLCHOLINE $$$$
+ACETYLCHOLINE
+
+$$$$
 
      RDKit          2D
 
@@ -4672,7 +4906,9 @@ M  END
 CHEMBL1242
 
 > <chembl_pref_name>
-PHENAZOPYRIDINE $$$$
+PHENAZOPYRIDINE
+
+$$$$
 
      RDKit          2D
 
@@ -4691,7 +4927,9 @@ M  END
 CHEMBL1353
 
 > <chembl_pref_name>
-SODIUM BICARBONATE $$$$
+SODIUM BICARBONATE
+
+$$$$
 
      RDKit          2D
 
@@ -4738,7 +4976,9 @@ M  END
 CHEMBL86304
 
 > <chembl_pref_name>
-MOCLOBEMIDE $$$$
+MOCLOBEMIDE
+
+$$$$
 
      RDKit          2D
 
@@ -4784,7 +5024,9 @@ M  END
 CHEMBL1271
 
 > <chembl_pref_name>
-PENTOLINIUM $$$$
+PENTOLINIUM
+
+$$$$
 
      RDKit          2D
 
@@ -4828,7 +5070,9 @@ M  END
 CHEMBL1697686
 
 > <chembl_pref_name>
-CLOFOREX $$$$
+CLOFOREX
+
+$$$$
 
      RDKit          2D
 
@@ -4862,7 +5106,9 @@ M  END
 CHEMBL1232131
 
 > <chembl_pref_name>
-DOBESILIC ACID $$$$
+DOBESILIC ACID
+
+$$$$
 
      RDKit          2D
 
@@ -4892,7 +5138,9 @@ M  END
 CHEMBL965
 
 > <chembl_pref_name>
-CARBACHOL $$$$
+CARBACHOL
+
+$$$$
 
      RDKit          2D
 
@@ -4946,7 +5194,9 @@ M  END
 CHEMBL126224
 
 > <chembl_pref_name>
-IPRINDOLE $$$$
+IPRINDOLE
+
+$$$$
 
      RDKit          2D
 
@@ -4980,7 +5230,9 @@ M  END
 CHEMBL1909286
 
 > <chembl_pref_name>
-PHENOXYPROPAZINE $$$$
+PHENOXYPROPAZINE
+
+$$$$
 
      RDKit          2D
 
@@ -5021,7 +5273,9 @@ M  END
 CHEMBL54976
 
 > <chembl_pref_name>
-TRYPTOPHAN $$$$
+TRYPTOPHAN
+
+$$$$
 
      RDKit          2D
 
@@ -5036,7 +5290,9 @@ M  END
 CHEMBL2311071
 
 > <chembl_pref_name>
-VINYL CHLORIDE $$$$
+VINYL CHLORIDE
+
+$$$$
 
      RDKit          2D
 
@@ -5083,7 +5339,9 @@ M  END
 CHEMBL121626
 
 > <chembl_pref_name>
-TOLFENAMIC ACID $$$$
+TOLFENAMIC ACID
+
+$$$$
 
      RDKit          2D
 
@@ -5132,7 +5390,9 @@ M  END
 CHEMBL641
 
 > <chembl_pref_name>
-ATOMOXETINE $$$$
+ATOMOXETINE
+
+$$$$
 
      RDKit          2D
 
@@ -5155,7 +5415,9 @@ M  END
 CHEMBL306823
 
 > <chembl_pref_name>
-SODIUM DICHLOROACETATE $$$$
+SODIUM DICHLOROACETATE
+
+$$$$
 
      RDKit          2D
 
@@ -5199,7 +5461,9 @@ M  END
 CHEMBL440
 
 > <chembl_pref_name>
-THIAMYLAL $$$$
+THIAMYLAL
+
+$$$$
 
      RDKit          2D
 
@@ -5251,7 +5515,9 @@ M  END
 CHEMBL768
 
 > <chembl_pref_name>
-ESMOLOL $$$$
+ESMOLOL
+
+$$$$
 
      RDKit          2D
 
@@ -5272,7 +5538,9 @@ M  END
 CHEMBL1368
 
 > <chembl_pref_name>
-SODIUM PHOSPHATE, MONOBASIC $$$$
+SODIUM PHOSPHATE, MONOBASIC
+
+$$$$
 
      RDKit          2D
 
@@ -5283,7 +5551,9 @@ M  END
 CHEMBL1098659
 
 > <chembl_pref_name>
-WATER $$$$
+WATER
+
+$$$$
 
      RDKit          2D
 
@@ -5326,7 +5596,9 @@ M  END
 CHEMBL2106217
 
 > <chembl_pref_name>
-FENFLURAMINE HYDROCHLORIDE $$$$
+FENFLURAMINE HYDROCHLORIDE
+
+$$$$
 
      RDKit          2D
 
@@ -5370,7 +5642,9 @@ M  END
 CHEMBL416
 
 > <chembl_pref_name>
-METHOXSALEN $$$$
+METHOXSALEN
+
+$$$$
 
      RDKit          2D
 
@@ -5415,7 +5689,9 @@ M  END
 CHEMBL1643
 
 > <chembl_pref_name>
-RIBAVIRIN $$$$
+RIBAVIRIN
+
+$$$$
 
      RDKit          2D
 
@@ -5465,7 +5741,9 @@ M  END
 CHEMBL86
 
 > <chembl_pref_name>
-METOCLOPRAMIDE $$$$
+METOCLOPRAMIDE
+
+$$$$
 
      RDKit          2D
 
@@ -5514,7 +5792,9 @@ M  END
 CHEMBL1201353
 
 > <chembl_pref_name>
-DEXCHLORPHENIRAMINE $$$$
+DEXCHLORPHENIRAMINE
+
+$$$$
 
      RDKit          2D
 
@@ -5533,7 +5813,9 @@ M  END
 CHEMBL279816
 
 > <chembl_pref_name>
-TRICHLOROETHYLENE $$$$
+TRICHLOROETHYLENE
+
+$$$$
 
      RDKit          2D
 
@@ -5578,7 +5860,9 @@ M  END
 CHEMBL1200920
 
 > <chembl_pref_name>
-ISOETHARINE HYDROCHLORIDE $$$$
+ISOETHARINE HYDROCHLORIDE
+
+$$$$
 
      RDKit          2D
 
@@ -5628,7 +5912,9 @@ M  END
 CHEMBL1671
 
 > <chembl_pref_name>
-PROPRANOLOL HYDROCHLORIDE $$$$
+PROPRANOLOL HYDROCHLORIDE
+
+$$$$
 
      RDKit          2D
 
@@ -5663,7 +5949,9 @@ M  END
 CHEMBL2106939
 
 > <chembl_pref_name>
-POLIHEXANIDE $$$$
+POLIHEXANIDE
+
+$$$$
 
      RDKit          2D
 
@@ -5710,7 +5998,9 @@ M  END
 CHEMBL453
 
 > <chembl_pref_name>
-SULFISOXAZOLE $$$$
+SULFISOXAZOLE
+
+$$$$
 
      RDKit          2D
 
@@ -5754,7 +6044,9 @@ M  END
 CHEMBL1079
 
 > <chembl_pref_name>
-TIZANIDINE $$$$
+TIZANIDINE
+
+$$$$
 
      RDKit          2D
 
@@ -5781,7 +6073,9 @@ M  END
 CHEMBL754
 
 > <chembl_pref_name>
-FOSCARNET SODIUM $$$$
+FOSCARNET SODIUM
+
+$$$$
 
      RDKit          2D
 
@@ -5834,7 +6128,9 @@ M  END
 CHEMBL1201156
 
 > <chembl_pref_name>
-NORTRIPTYLINE HYDROCHLORIDE $$$$
+NORTRIPTYLINE HYDROCHLORIDE
+
+$$$$
 
      RDKit          2D
 
@@ -5875,7 +6171,9 @@ M  END
 CHEMBL964
 
 > <chembl_pref_name>
-DISULFIRAM $$$$
+DISULFIRAM
+
+$$$$
 
      RDKit          2D
 
@@ -5904,7 +6202,9 @@ M  END
 CHEMBL2105970
 
 > <chembl_pref_name>
-AMMONIUM BENZOATE $$$$
+AMMONIUM BENZOATE
+
+$$$$
 
      RDKit          2D
 
@@ -5939,7 +6239,9 @@ M  END
 CHEMBL1569
 
 > <chembl_pref_name>
-AMANTADINE HYDROCHLORIDE $$$$
+AMANTADINE HYDROCHLORIDE
+
+$$$$
 
      RDKit          2D
 
@@ -5991,7 +6293,9 @@ M  END
 CHEMBL1611
 
 > <chembl_pref_name>
-PHENYTOIN SODIUM $$$$
+PHENYTOIN SODIUM
+
+$$$$
 
      RDKit          2D
 
@@ -6043,7 +6347,9 @@ M  END
 CHEMBL75880
 
 > <chembl_pref_name>
-PERHEXILINE $$$$
+PERHEXILINE
+
+$$$$
 
      RDKit          2D
 
@@ -6078,7 +6384,9 @@ M  END
 CHEMBL276832
 
 > <chembl_pref_name>
-HYDRALAZINE $$$$
+HYDRALAZINE
+
+$$$$
 
      RDKit          2D
 
@@ -6132,7 +6440,9 @@ M  END
 CHEMBL2104993
 
 > <chembl_pref_name>
-VORTIOXETINE $$$$
+VORTIOXETINE
+
+$$$$
 
      RDKit          2D
 
@@ -6165,7 +6475,9 @@ M  END
 CHEMBL1371
 
 > <chembl_pref_name>
-CHLORZOXAZONE $$$$
+CHLORZOXAZONE
+
+$$$$
 
      RDKit          2D
 
@@ -6208,7 +6520,9 @@ M  END
 CHEMBL856
 
 > <chembl_pref_name>
-PRIMIDONE $$$$
+PRIMIDONE
+
+$$$$
 
      RDKit          2D
 
@@ -6255,7 +6569,9 @@ M  END
 CHEMBL1297
 
 > <chembl_pref_name>
-FENOPROFEN $$$$
+FENOPROFEN
+
+$$$$
 
      RDKit          2D
 
@@ -6299,7 +6615,9 @@ M  END
 CHEMBL1377
 
 > <chembl_pref_name>
-CHLOROGUANIDE $$$$
+CHLOROGUANIDE
+
+$$$$
 
      RDKit          2D
 
@@ -6329,7 +6647,9 @@ M  END
 CHEMBL1740513
 
 > <chembl_pref_name>
-ISAXONINE $$$$
+ISAXONINE
+
+$$$$
 
      RDKit          2D
 
@@ -6381,7 +6701,9 @@ M  END
 CHEMBL1324
 
 > <chembl_pref_name>
-TOLCAPONE $$$$
+TOLCAPONE
+
+$$$$
 
      RDKit          2D
 
@@ -6414,7 +6736,9 @@ M  END
 CHEMBL1200952
 
 > <chembl_pref_name>
-METHAMPHETAMINE HYDROCHLORIDE $$$$
+METHAMPHETAMINE HYDROCHLORIDE
+
+$$$$
 
      RDKit          2D
 
@@ -6466,7 +6790,9 @@ M  END
 CHEMBL2105458
 
 > <chembl_pref_name>
-THENALIDINE $$$$
+THENALIDINE
+
+$$$$
 
      RDKit          2D
 
@@ -6504,7 +6830,9 @@ M  END
 CHEMBL19
 
 > <chembl_pref_name>
-METHAZOLAMIDE $$$$
+METHAZOLAMIDE
+
+$$$$
 
      RDKit          2D
 
@@ -6553,7 +6881,9 @@ M  END
 CHEMBL15677
 
 > <chembl_pref_name>
-FENCLOFENAC $$$$
+FENCLOFENAC
+
+$$$$
 
      RDKit          2D
 
@@ -6584,7 +6914,9 @@ M  END
 CHEMBL871
 
 > <chembl_pref_name>
-ETIDRONIC ACID $$$$
+ETIDRONIC ACID
+
+$$$$
 
      RDKit          2D
 
@@ -6600,7 +6932,9 @@ M  END
 CHEMBL1234579
 
 > <chembl_pref_name>
-NITROUS OXIDE $$$$
+NITROUS OXIDE
+
+$$$$
 
      RDKit          2D
 
@@ -6648,7 +6982,9 @@ M  END
 CHEMBL1200578
 
 > <chembl_pref_name>
-THEOPHYLLINE SODIUM GLYCINATE $$$$
+THEOPHYLLINE SODIUM GLYCINATE
+
+$$$$
 
      RDKit          2D
 
@@ -6695,7 +7031,9 @@ M  END
 CHEMBL857
 
 > <chembl_pref_name>
-BIOTIN $$$$
+BIOTIN
+
+$$$$
 
      RDKit          2D
 
@@ -6723,7 +7061,9 @@ M  END
 CHEMBL307145
 
 > <chembl_pref_name>
-PYROGALLOL $$$$
+PYROGALLOL
+
+$$$$
 
      RDKit          2D
 
@@ -6770,7 +7110,9 @@ M  END
 CHEMBL182
 
 > <chembl_pref_name>
-GANCICLOVIR $$$$
+GANCICLOVIR
+
+$$$$
 
      RDKit          2D
 
@@ -6822,7 +7164,9 @@ M  END
 CHEMBL643
 
 > <chembl_pref_name>
-PROMETHAZINE $$$$
+PROMETHAZINE
+
+$$$$
 
      RDKit          2D
 
@@ -6841,7 +7185,9 @@ M  END
 CHEMBL467
 
 > <chembl_pref_name>
-HYDROXYUREA $$$$
+HYDROXYUREA
+
+$$$$
 
      RDKit          2D
 
@@ -6860,7 +7206,9 @@ M  END
 CHEMBL734
 
 > <chembl_pref_name>
-ACETOHYDROXAMIC ACID $$$$
+ACETOHYDROXAMIC ACID
+
+$$$$
 
      RDKit          2D
 
@@ -6921,7 +7269,9 @@ M  END
 CHEMBL1627367
 
 > <chembl_pref_name>
-FLUOROESTRADIOL $$$$
+FLUOROESTRADIOL
+
+$$$$
 
      RDKit          2D
 
@@ -6938,7 +7288,9 @@ M  END
 CHEMBL93268
 
 > <chembl_pref_name>
-SODIUM NITRITE $$$$
+SODIUM NITRITE
+
+$$$$
 
      RDKit          2D
 
@@ -6967,7 +7319,9 @@ M  END
 CHEMBL8085
 
 > <chembl_pref_name>
-LYSINE $$$$
+LYSINE
+
+$$$$
 
      RDKit          2D
 
@@ -7002,7 +7356,9 @@ M  END
 CHEMBL1104
 
 > <chembl_pref_name>
-EDROPHONIUM $$$$
+EDROPHONIUM
+
+$$$$
 
      RDKit          2D
 
@@ -7055,7 +7411,9 @@ M  END
 CHEMBL3546271
 
 > <chembl_pref_name>
-FLORTAUCIPIR $$$$
+FLORTAUCIPIR
+
+$$$$
 
      RDKit          2D
 
@@ -7103,7 +7461,9 @@ M  END
 CHEMBL1279
 
 > <chembl_pref_name>
-FROVATRIPTAN $$$$
+FROVATRIPTAN
+
+$$$$
 
      RDKit          2D
 
@@ -7159,7 +7519,9 @@ M  END
 CHEMBL626
 
 > <chembl_pref_name>
-NAFTIFINE $$$$
+NAFTIFINE
+
+$$$$
 
      RDKit          2D
 
@@ -7213,7 +7575,9 @@ M  END
 CHEMBL669
 
 > <chembl_pref_name>
-CYCLOBENZAPRINE $$$$
+CYCLOBENZAPRINE
+
+$$$$
 
      RDKit          2D
 
@@ -7239,7 +7603,9 @@ M  END
 CHEMBL2095207
 
 > <chembl_pref_name>
-CHOLINE C-11 $$$$
+CHOLINE C-11
+
+$$$$
 
      RDKit          2D
 
@@ -7278,7 +7644,9 @@ M  END
 CHEMBL1200904
 
 > <chembl_pref_name>
-SELEGILINE HYDROCHLORIDE $$$$
+SELEGILINE HYDROCHLORIDE
+
+$$$$
 
      RDKit          2D
 
@@ -7290,7 +7658,9 @@ M  END
 CHEMBL1200673
 
 > <chembl_pref_name>
-XENON XE 127 $$$$
+XENON XE 127
+
+$$$$
 
      RDKit          2D
 
@@ -7330,7 +7700,9 @@ M  END
 CHEMBL514
 
 > <chembl_pref_name>
-LOMUSTINE $$$$
+LOMUSTINE
+
+$$$$
 
      RDKit          2D
 
@@ -7353,7 +7725,9 @@ M  END
 CHEMBL2106441
 
 > <chembl_pref_name>
-NOXYTIOLIN $$$$
+NOXYTIOLIN
+
+$$$$
 
      RDKit          2D
 
@@ -7372,7 +7746,9 @@ M  END
 CHEMBL1208642
 
 > <chembl_pref_name>
-THIOSULFURIC ACID $$$$
+THIOSULFURIC ACID
+
+$$$$
 
      RDKit          2D
 
@@ -7410,7 +7786,9 @@ M  END
 CHEMBL2095211
 
 > <chembl_pref_name>
-LORCASERIN HYDROCHLORIDE $$$$
+LORCASERIN HYDROCHLORIDE
+
+$$$$
 
      RDKit          2D
 
@@ -7456,7 +7834,9 @@ M  END
 CHEMBL1201065
 
 > <chembl_pref_name>
-THIAMYLAL SODIUM $$$$
+THIAMYLAL SODIUM
+
+$$$$
 
      RDKit          2D
 
@@ -7490,7 +7870,9 @@ M  END
 CHEMBL3707281
 
 > <chembl_pref_name>
-MAGNESIUM LACTATE $$$$
+MAGNESIUM LACTATE
+
+$$$$
 
      RDKit          2D
 
@@ -7541,7 +7923,9 @@ M  END
 CHEMBL1004
 
 > <chembl_pref_name>
-DOXYLAMINE $$$$
+DOXYLAMINE
+
+$$$$
 
      RDKit          2D
 
@@ -7586,7 +7970,9 @@ M  END
 CHEMBL188952
 
 > <chembl_pref_name>
-PIRPROFEN $$$$
+PIRPROFEN
+
+$$$$
 
      RDKit          2D
 
@@ -7641,7 +8027,9 @@ M  END
 CHEMBL53
 
 > <chembl_pref_name>
-APOMORPHINE $$$$
+APOMORPHINE
+
+$$$$
 
      RDKit          2D
 
@@ -7687,7 +8075,9 @@ M  END
 CHEMBL2106483
 
 > <chembl_pref_name>
-VILOXAZINE HYDROCHLORIDE $$$$
+VILOXAZINE HYDROCHLORIDE
+
+$$$$
 
      RDKit          2D
 
@@ -7724,7 +8114,9 @@ M  END
 CHEMBL1200979
 
 > <chembl_pref_name>
-DEXPANTHENOL $$$$
+DEXPANTHENOL
+
+$$$$
 
      RDKit          2D
 
@@ -7772,7 +8164,9 @@ M  END
 CHEMBL1637
 
 > <chembl_pref_name>
-GEMCITABINE HYDROCHLORIDE $$$$
+GEMCITABINE HYDROCHLORIDE
+
+$$$$
 
      RDKit          2D
 
@@ -7813,7 +8207,9 @@ M  END
 CHEMBL1200494
 
 > <chembl_pref_name>
-GUANFACINE HYDROCHLORIDE $$$$
+GUANFACINE HYDROCHLORIDE
+
+$$$$
 
      RDKit          2D
 
@@ -7847,7 +8243,9 @@ M  END
 CHEMBL419
 
 > <chembl_pref_name>
-MAFENIDE $$$$
+MAFENIDE
+
+$$$$
 
      RDKit          2D
 
@@ -7885,7 +8283,9 @@ M  END
 CHEMBL591665
 
 > <chembl_pref_name>
-SODIUM ASCORBATE $$$$
+SODIUM ASCORBATE
+
+$$$$
 
      RDKit          2D
 
@@ -7928,7 +8328,9 @@ M  END
 CHEMBL1909282
 
 > <chembl_pref_name>
-FENCLOZIC ACID $$$$
+FENCLOZIC ACID
+
+$$$$
 
      RDKit          2D
 
@@ -7975,7 +8377,9 @@ M  END
 CHEMBL1087
 
 > <chembl_pref_name>
-MEPIVACAINE $$$$
+MEPIVACAINE
+
+$$$$
 
      RDKit          2D
 
@@ -8037,7 +8441,9 @@ M  END
 CHEMBL70
 
 > <chembl_pref_name>
-MORPHINE $$$$
+MORPHINE
+
+$$$$
 
      RDKit          2D
 
@@ -8070,7 +8476,9 @@ M  END
 CHEMBL6466
 
 > <chembl_pref_name>
-COUMARIN $$$$
+COUMARIN
+
+$$$$
 
      RDKit          2D
 
@@ -8101,7 +8509,9 @@ M  END
 CHEMBL119423
 
 > <chembl_pref_name>
-TISOPURINE $$$$
+TISOPURINE
+
+$$$$
 
      RDKit          2D
 
@@ -8124,7 +8534,9 @@ M  END
 CHEMBL239243
 
 > <chembl_pref_name>
-TAURINE $$$$
+TAURINE
+
+$$$$
 
      RDKit          2D
 
@@ -8166,7 +8578,9 @@ M  END
 CHEMBL1311
 
 > <chembl_pref_name>
-ISOSORBIDE MONONITRATE $$$$
+ISOSORBIDE MONONITRATE
+
+$$$$
 
      RDKit          2D
 
@@ -8220,7 +8634,9 @@ M  END
 CHEMBL100116
 
 > <chembl_pref_name>
-PENTAZOCINE $$$$
+PENTAZOCINE
+
+$$$$
 
      RDKit          2D
 
@@ -8263,7 +8679,9 @@ M  END
 CHEMBL1514715
 
 > <chembl_pref_name>
-ETHAMSYLATE $$$$
+ETHAMSYLATE
+
+$$$$
 
      RDKit          2D
 
@@ -8303,7 +8721,9 @@ M  END
 CHEMBL48449
 
 > <chembl_pref_name>
-CANTHARIDIN $$$$
+CANTHARIDIN
+
+$$$$
 
      RDKit          2D
 
@@ -8341,7 +8761,9 @@ M  END
 CHEMBL338802
 
 > <chembl_pref_name>
-SULFAGUANIDINE $$$$
+SULFAGUANIDINE
+
+$$$$
 
      RDKit          2D
 
@@ -8373,7 +8795,9 @@ M  END
 CHEMBL112
 
 > <chembl_pref_name>
-ACETAMINOPHEN $$$$
+ACETAMINOPHEN
+
+$$$$
 
      RDKit          2D
 
@@ -8419,7 +8843,9 @@ M  END
 CHEMBL1475
 
 > <chembl_pref_name>
-TRIOXSALEN $$$$
+TRIOXSALEN
+
+$$$$
 
      RDKit          2D
 
@@ -8458,7 +8884,9 @@ M  END
 CHEMBL2106678
 
 > <chembl_pref_name>
-ETAFEDRINE HYDROCHLORIDE $$$$
+ETAFEDRINE HYDROCHLORIDE
+
+$$$$
 
      RDKit          2D
 
@@ -8490,7 +8918,9 @@ M  END
 CHEMBL1441
 
 > <chembl_pref_name>
-ETHIONAMIDE $$$$
+ETHIONAMIDE
+
+$$$$
 
      RDKit          2D
 
@@ -8535,7 +8965,9 @@ M  END
 CHEMBL1070
 
 > <chembl_pref_name>
-NABUMETONE $$$$
+NABUMETONE
+
+$$$$
 
      RDKit          2D
 
@@ -8569,7 +9001,9 @@ M  END
 CHEMBL671
 
 > <chembl_pref_name>
-THIOTEPA $$$$
+THIOTEPA
+
+$$$$
 
      RDKit          2D
 
@@ -8595,7 +9029,9 @@ M  END
 CHEMBL720
 
 > <chembl_pref_name>
-BENZYL ALCOHOL $$$$
+BENZYL ALCOHOL
+
+$$$$
 
      RDKit          2D
 
@@ -8637,7 +9073,9 @@ M  END
 CHEMBL1200802
 
 > <chembl_pref_name>
-TALBUTAL $$$$
+TALBUTAL
+
+$$$$
 
      RDKit          2D
 
@@ -8671,7 +9109,9 @@ M  END
 CHEMBL673
 
 > <chembl_pref_name>
-PARGYLINE $$$$
+PARGYLINE
+
+$$$$
 
      RDKit          2D
 
@@ -8691,7 +9131,9 @@ M  END
 CHEMBL1200627
 
 > <chembl_pref_name>
-PROPIOLACTONE $$$$
+PROPIOLACTONE
+
+$$$$
 
      RDKit          2D
 
@@ -8738,7 +9180,9 @@ M  END
 CHEMBL898
 
 > <chembl_pref_name>
-DIFLUNISAL $$$$
+DIFLUNISAL
+
+$$$$
 
      RDKit          2D
 
@@ -8776,7 +9220,9 @@ M  END
 CHEMBL1200862
 
 > <chembl_pref_name>
-METYROSINE $$$$
+METYROSINE
+
+$$$$
 
      RDKit          2D
 
@@ -8818,7 +9264,9 @@ M  END
 CHEMBL1200379
 
 > <chembl_pref_name>
-APRACLONIDINE HYDROCHLORIDE $$$$
+APRACLONIDINE HYDROCHLORIDE
+
+$$$$
 
      RDKit          2D
 
@@ -8854,7 +9302,9 @@ M  END
 CHEMBL558
 
 > <chembl_pref_name>
-MEXILETINE $$$$
+MEXILETINE
+
+$$$$
 
      RDKit          2D
 
@@ -8905,7 +9355,9 @@ M  END
 CHEMBL329522
 
 > <chembl_pref_name>
-EXIFONE $$$$
+EXIFONE
+
+$$$$
 
      RDKit          2D
 
@@ -8952,7 +9404,9 @@ M  END
 CHEMBL1193
 
 > <chembl_pref_name>
-PHENIRAMINE $$$$
+PHENIRAMINE
+
+$$$$
 
      RDKit          2D
 
@@ -9003,7 +9457,9 @@ M  END
 CHEMBL404108
 
 > <chembl_pref_name>
-LUMIRACOXIB $$$$
+LUMIRACOXIB
+
+$$$$
 
      RDKit          2D
 
@@ -9055,7 +9511,9 @@ M  END
 CHEMBL905
 
 > <chembl_pref_name>
-RIZATRIPTAN $$$$
+RIZATRIPTAN
+
+$$$$
 
      RDKit          2D
 
@@ -9072,7 +9530,9 @@ M  END
 CHEMBL44618
 
 > <chembl_pref_name>
-CHLOROFORM $$$$
+CHLOROFORM
+
+$$$$
 
      RDKit          2D
 
@@ -9106,7 +9566,9 @@ M  END
 CHEMBL1201799
 
 > <chembl_pref_name>
-SEVELAMER CARBONATE $$$$
+SEVELAMER CARBONATE
+
+$$$$
 
      RDKit          2D
 
@@ -9157,7 +9619,9 @@ M  END
 CHEMBL1201056
 
 > <chembl_pref_name>
-SULFACYTINE $$$$
+SULFACYTINE
+
+$$$$
 
      RDKit          2D
 
@@ -9205,7 +9669,9 @@ M  END
 CHEMBL1201766
 
 > <chembl_pref_name>
-FOSPROPOFOL $$$$
+FOSPROPOFOL
+
+$$$$
 
      RDKit          2D
 
@@ -9245,7 +9711,9 @@ M  END
 CHEMBL404422
 
 > <chembl_pref_name>
-BUTETHAL $$$$
+BUTETHAL
+
+$$$$
 
      RDKit          2D
 
@@ -9281,7 +9749,9 @@ M  END
 CHEMBL526
 
 > <chembl_pref_name>
-PROPOFOL $$$$
+PROPOFOL
+
+$$$$
 
      RDKit          2D
 
@@ -9303,7 +9773,9 @@ M  END
 CHEMBL1308
 
 > <chembl_pref_name>
-FOMEPIZOLE $$$$
+FOMEPIZOLE
+
+$$$$
 
      RDKit          2D
 
@@ -9367,7 +9839,9 @@ M  END
 CHEMBL485
 
 > <chembl_pref_name>
-CODEINE $$$$
+CODEINE
+
+$$$$
 
      RDKit          2D
 
@@ -9418,7 +9892,9 @@ M  END
 CHEMBL434200
 
 > <chembl_pref_name>
-TERTATOLOL $$$$
+TERTATOLOL
+
+$$$$
 
      RDKit          2D
 
@@ -9454,7 +9930,9 @@ M  END
 CHEMBL1237082
 
 > <chembl_pref_name>
-MECAMYLAMINE HYDROCHLORIDE $$$$
+MECAMYLAMINE HYDROCHLORIDE
+
+$$$$
 
      RDKit          2D
 
@@ -9473,7 +9951,9 @@ M  END
 CHEMBL177367
 
 > <chembl_pref_name>
-SILVER NITRATE $$$$
+SILVER NITRATE
+
+$$$$
 
      RDKit          2D
 
@@ -9491,7 +9971,9 @@ M  END
 CHEMBL1256137
 
 > <chembl_pref_name>
-CYSTEAMINE HYDROCHLORIDE $$$$
+CYSTEAMINE HYDROCHLORIDE
+
+$$$$
 
      RDKit          2D
 
@@ -9542,7 +10024,9 @@ M  END
 CHEMBL19490
 
 > <chembl_pref_name>
-ZOMEPIRAC $$$$
+ZOMEPIRAC
+
+$$$$
 
      RDKit          2D
 
@@ -9587,7 +10071,9 @@ M  END
 CHEMBL796
 
 > <chembl_pref_name>
-METHYLPHENIDATE $$$$
+METHYLPHENIDATE
+
+$$$$
 
      RDKit          2D
 
@@ -9636,7 +10122,9 @@ M  END
 CHEMBL1213136
 
 > <chembl_pref_name>
-PILOCARPINE NITRATE $$$$
+PILOCARPINE NITRATE
+
+$$$$
 
      RDKit          2D
 
@@ -9674,7 +10162,9 @@ M  END
 CHEMBL1453317
 
 > <chembl_pref_name>
-DIETHYLTOLUAMIDE $$$$
+DIETHYLTOLUAMIDE
+
+$$$$
 
      RDKit          2D
 
@@ -9729,7 +10219,9 @@ M  END
 CHEMBL1399
 
 > <chembl_pref_name>
-ANASTROZOLE $$$$
+ANASTROZOLE
+
+$$$$
 
      RDKit          2D
 
@@ -9769,7 +10261,9 @@ M  END
 CHEMBL521
 
 > <chembl_pref_name>
-IBUPROFEN $$$$
+IBUPROFEN
+
+$$$$
 
      RDKit          2D
 
@@ -9813,7 +10307,9 @@ M  END
 CHEMBL640
 
 > <chembl_pref_name>
-PROCAINAMIDE $$$$
+PROCAINAMIDE
+
+$$$$
 
      RDKit          2D
 
@@ -9866,7 +10362,9 @@ M  END
 CHEMBL654
 
 > <chembl_pref_name>
-MIRTAZAPINE $$$$
+MIRTAZAPINE
+
+$$$$
 
      RDKit          2D
 
@@ -9911,7 +10409,9 @@ M  END
 CHEMBL439
 
 > <chembl_pref_name>
-SULFADIAZINE $$$$
+SULFADIAZINE
+
+$$$$
 
      RDKit          2D
 
@@ -9945,7 +10445,9 @@ M  END
 CHEMBL2106111
 
 > <chembl_pref_name>
-CALCIUM LACTATE $$$$
+CALCIUM LACTATE
+
+$$$$
 
      RDKit          2D
 
@@ -9975,7 +10477,9 @@ M  END
 CHEMBL424
 
 > <chembl_pref_name>
-SALICYLIC ACID $$$$
+SALICYLIC ACID
+
+$$$$
 
      RDKit          2D
 
@@ -10027,7 +10531,9 @@ M  END
 CHEMBL1200400
 
 > <chembl_pref_name>
-AZATHIOPRINE SODIUM $$$$
+AZATHIOPRINE SODIUM
+
+$$$$
 
      RDKit          2D
 
@@ -10080,7 +10586,9 @@ M  END
 CHEMBL1198
 
 > <chembl_pref_name>
-PRAMOXINE $$$$
+PRAMOXINE
+
+$$$$
 
      RDKit          2D
 
@@ -10118,7 +10626,9 @@ M  END
 CHEMBL765
 
 > <chembl_pref_name>
-GUANETHIDINE $$$$
+GUANETHIDINE
+
+$$$$
 
      RDKit          2D
 
@@ -10171,7 +10681,9 @@ M  END
 CHEMBL253371
 
 > <chembl_pref_name>
-ALVERINE $$$$
+ALVERINE
+
+$$$$
 
      RDKit          2D
 
@@ -10185,7 +10697,9 @@ M  END
 CHEMBL1200689
 
 > <chembl_pref_name>
-NITRIC OXIDE $$$$
+NITRIC OXIDE
+
+$$$$
 
      RDKit          2D
 
@@ -10225,7 +10739,9 @@ M  END
 CHEMBL1201785
 
 > <chembl_pref_name>
-HEXAMINOLEVULINATE HYDROCHLORIDE $$$$
+HEXAMINOLEVULINATE HYDROCHLORIDE
+
+$$$$
 
      RDKit          2D
 
@@ -10277,7 +10793,9 @@ M  END
 CHEMBL244888
 
 > <chembl_pref_name>
-NIFUROXAZIDE $$$$
+NIFUROXAZIDE
+
+$$$$
 
      RDKit          2D
 
@@ -10325,7 +10843,9 @@ M  END
 CHEMBL1201050
 
 > <chembl_pref_name>
-PEMIROLAST POTASSIUM $$$$
+PEMIROLAST POTASSIUM
+
+$$$$
 
      RDKit          2D
 
@@ -10358,7 +10878,9 @@ M  END
 CHEMBL830
 
 > <chembl_pref_name>
-EFLORNITHINE $$$$
+EFLORNITHINE
+
+$$$$
 
      RDKit          2D
 
@@ -10380,7 +10902,9 @@ M  END
 CHEMBL1200747
 
 > <chembl_pref_name>
-AMMONIUM LACTATE $$$$
+AMMONIUM LACTATE
+
+$$$$
 
      RDKit          2D
 
@@ -10426,7 +10950,9 @@ M  END
 CHEMBL152
 
 > <chembl_pref_name>
-CIDOFOVIR $$$$
+CIDOFOVIR
+
+$$$$
 
      RDKit          2D
 
@@ -10462,7 +10988,9 @@ M  END
 CHEMBL2104607
 
 > <chembl_pref_name>
-NIKETHAMIDE $$$$
+NIKETHAMIDE
+
+$$$$
 
      RDKit          2D
 
@@ -10505,7 +11033,9 @@ M  END
 CHEMBL395091
 
 > <chembl_pref_name>
-ESKETAMINE $$$$
+ESKETAMINE
+
+$$$$
 
      RDKit          2D
 
@@ -10528,7 +11058,9 @@ M  END
 CHEMBL14053
 
 > <chembl_pref_name>
-TRICHLOROACETIC ACID $$$$
+TRICHLOROACETIC ACID
+
+$$$$
 
      RDKit          2D
 
@@ -10560,7 +11092,9 @@ M  END
 CHEMBL256087
 
 > <chembl_pref_name>
-MENTHOL $$$$
+MENTHOL
+
+$$$$
 
      RDKit          2D
 
@@ -10609,7 +11143,9 @@ M  END
 CHEMBL1200850
 
 > <chembl_pref_name>
-GANCICLOVIR SODIUM $$$$
+GANCICLOVIR SODIUM
+
+$$$$
 
      RDKit          2D
 
@@ -10642,7 +11178,9 @@ M  END
 CHEMBL1682
 
 > <chembl_pref_name>
-SORBITOL $$$$
+SORBITOL
+
+$$$$
 
      RDKit          2D
 
@@ -10691,7 +11229,9 @@ M  END
 CHEMBL154111
 
 > <chembl_pref_name>
-SALSALATE $$$$
+SALSALATE
+
+$$$$
 
      RDKit          2D
 
@@ -10741,7 +11281,9 @@ M  END
 CHEMBL848
 
 > <chembl_pref_name>
-LENALIDOMIDE $$$$
+LENALIDOMIDE
+
+$$$$
 
      RDKit          2D
 
@@ -10772,7 +11314,9 @@ M  END
 CHEMBL1025
 
 > <chembl_pref_name>
-ISOFLUROPHATE $$$$
+ISOFLUROPHATE
+
+$$$$
 
      RDKit          2D
 
@@ -10800,7 +11344,9 @@ M  END
 CHEMBL1140
 
 > <chembl_pref_name>
-NIACINAMIDE $$$$
+NIACINAMIDE
+
+$$$$
 
      RDKit          2D
 
@@ -10825,7 +11371,9 @@ M  END
 CHEMBL975
 
 > <chembl_pref_name>
-MESNA $$$$
+MESNA
+
+$$$$
 
      RDKit          2D
 
@@ -10838,7 +11386,9 @@ M  END
 CHEMBL142438
 
 > <chembl_pref_name>
-NITROGEN $$$$
+NITROGEN
+
+$$$$
 
      RDKit          2D
 
@@ -10878,7 +11428,9 @@ M  END
 CHEMBL2218917
 
 > <chembl_pref_name>
-CEVIMELINE HYDROCHLORIDE $$$$
+CEVIMELINE HYDROCHLORIDE
+
+$$$$
 
      RDKit          2D
 
@@ -10921,7 +11473,9 @@ M  END
 CHEMBL278020
 
 > <chembl_pref_name>
-NEOSTIGMINE $$$$
+NEOSTIGMINE
+
+$$$$
 
      RDKit          2D
 
@@ -10970,7 +11524,9 @@ M  END
 CHEMBL509
 
 > <chembl_pref_name>
-MECLOFENAMIC ACID $$$$
+MECLOFENAMIC ACID
+
+$$$$
 
      RDKit          2D
 
@@ -11009,7 +11565,9 @@ M  END
 CHEMBL1201170
 
 > <chembl_pref_name>
-LITHIUM CITRATE $$$$
+LITHIUM CITRATE
+
+$$$$
 
      RDKit          2D
 
@@ -11059,7 +11617,9 @@ M  END
 CHEMBL1316
 
 > <chembl_pref_name>
-CARPROFEN $$$$
+CARPROFEN
+
+$$$$
 
      RDKit          2D
 
@@ -11111,7 +11671,9 @@ M  END
 CHEMBL713
 
 > <chembl_pref_name>
-ENTECAVIR $$$$
+ENTECAVIR
+
+$$$$
 
      RDKit          2D
 
@@ -11138,7 +11700,9 @@ M  END
 CHEMBL42336
 
 > <chembl_pref_name>
-METHIONINE $$$$
+METHIONINE
+
+$$$$
 
      RDKit          2D
 
@@ -11182,7 +11746,9 @@ M  END
 CHEMBL761
 
 > <chembl_pref_name>
-NAPHAZOLINE $$$$
+NAPHAZOLINE
+
+$$$$
 
      RDKit          2D
 
@@ -11215,7 +11781,9 @@ M  END
 CHEMBL3707333
 
 > <chembl_pref_name>
-SODIUM PERBORATE $$$$
+SODIUM PERBORATE
+
+$$$$
 
      RDKit          2D
 
@@ -11253,7 +11821,9 @@ M  END
 CHEMBL443605
 
 > <chembl_pref_name>
-HEXYLRESORCINOL $$$$
+HEXYLRESORCINOL
+
+$$$$
 
      RDKit          2D
 
@@ -11277,7 +11847,9 @@ M  END
 CHEMBL1515
 
 > <chembl_pref_name>
-METHIMAZOLE $$$$
+METHIMAZOLE
+
+$$$$
 
      RDKit          2D
 
@@ -11331,7 +11903,9 @@ M  END
 CHEMBL15870
 
 > <chembl_pref_name>
-INDOPROFEN $$$$
+INDOPROFEN
+
+$$$$
 
      RDKit          2D
 
@@ -11384,7 +11958,9 @@ M  END
 CHEMBL1200604
 
 > <chembl_pref_name>
-TROPICAMIDE $$$$
+TROPICAMIDE
+
+$$$$
 
      RDKit          2D
 
@@ -11432,7 +12008,9 @@ M  END
 CHEMBL24924
 
 > <chembl_pref_name>
-FLUINDIONE $$$$
+FLUINDIONE
+
+$$$$
 
   SciTegic12091219252D
 
@@ -11455,7 +12033,9 @@ M  END
 CHEMBL863
 
 > <chembl_pref_name>
-CYSTEINE $$$$
+CYSTEINE
+
+$$$$
 
      RDKit          2D
 
@@ -11508,7 +12088,9 @@ M  END
 CHEMBL1201217
 
 > <chembl_pref_name>
-DYCLONINE $$$$
+DYCLONINE
+
+$$$$
 
      RDKit          2D
 
@@ -11564,7 +12146,9 @@ M  END
 CHEMBL644
 
 > <chembl_pref_name>
-TRIMIPRAMINE $$$$
+TRIMIPRAMINE
+
+$$$$
 
      RDKit          2D
 
@@ -11612,7 +12196,9 @@ M  END
 CHEMBL1909285
 
 > <chembl_pref_name>
-NITREFAZOLE $$$$
+NITREFAZOLE
+
+$$$$
 
      RDKit          2D
 
@@ -11661,7 +12247,9 @@ M  END
 CHEMBL259571
 
 > <chembl_pref_name>
-TAPINAROF $$$$
+TAPINAROF
+
+$$$$
 
      RDKit          2D
 
@@ -11716,7 +12304,9 @@ M  END
 CHEMBL1201340
 
 > <chembl_pref_name>
-DIPHEMANIL $$$$
+DIPHEMANIL
+
+$$$$
 
      RDKit          2D
 
@@ -11762,7 +12352,9 @@ M  END
 CHEMBL711
 
 > <chembl_pref_name>
-PHENINDIONE $$$$
+PHENINDIONE
+
+$$$$
 
      RDKit          2D
 
@@ -11814,7 +12406,9 @@ M  END
 CHEMBL2111030
 
 > <chembl_pref_name>
-PROTHIPENDYL $$$$
+PROTHIPENDYL
+
+$$$$
 
      RDKit          2D
 
@@ -11851,7 +12445,9 @@ M  END
 CHEMBL1985928
 
 > <chembl_pref_name>
-METHOXYPHENAMINE HYDROCHLORIDE $$$$
+METHOXYPHENAMINE HYDROCHLORIDE
+
+$$$$
 
      RDKit          2D
 
@@ -11897,7 +12493,9 @@ M  END
 CHEMBL572
 
 > <chembl_pref_name>
-NITROFURANTOIN $$$$
+NITROFURANTOIN
+
+$$$$
 
      RDKit          2D
 
@@ -11925,7 +12523,9 @@ M  END
 CHEMBL1908917
 
 > <chembl_pref_name>
-FLUCICLOVINE $$$$
+FLUCICLOVINE
+
+$$$$
 
      RDKit          2D
 
@@ -11956,7 +12556,9 @@ M  END
 CHEMBL2104251
 
 > <chembl_pref_name>
-ENBUCRILATE $$$$
+ENBUCRILATE
+
+$$$$
 
      RDKit          2D
 
@@ -12007,7 +12609,9 @@ M  END
 CHEMBL23588
 
 > <chembl_pref_name>
-FLUFENAMIC ACID $$$$
+FLUFENAMIC ACID
+
+$$$$
 
      RDKit          2D
 
@@ -12055,7 +12659,9 @@ M  END
 CHEMBL1200440
 
 > <chembl_pref_name>
-MEPIVACAINE HYDROCHLORIDE $$$$
+MEPIVACAINE HYDROCHLORIDE
+
+$$$$
 
      RDKit          2D
 
@@ -12100,7 +12706,9 @@ M  END
 CHEMBL45
 
 > <chembl_pref_name>
-MELATONIN $$$$
+MELATONIN
+
+$$$$
 
      RDKit          2D
 
@@ -12131,7 +12739,9 @@ M  END
 CHEMBL3989777
 
 > <chembl_pref_name>
-TRIENTINE HYDROCHLORIDE $$$$
+TRIENTINE HYDROCHLORIDE
+
+$$$$
 
      RDKit          2D
 
@@ -12166,7 +12776,9 @@ M  END
 CHEMBL1200595
 
 > <chembl_pref_name>
-CHLORPHENTERMINE HYDROCHLORIDE $$$$
+CHLORPHENTERMINE HYDROCHLORIDE
+
+$$$$
 
      RDKit          2D
 
@@ -12205,7 +12817,9 @@ M  END
 CHEMBL675
 
 > <chembl_pref_name>
-ALENDRONATE SODIUM $$$$
+ALENDRONATE SODIUM
+
+$$$$
 
      RDKit          2D
 
@@ -12232,7 +12846,9 @@ M  END
 CHEMBL89598
 
 > <chembl_pref_name>
-VIGABATRIN $$$$
+VIGABATRIN
+
+$$$$
 
      RDKit          2D
 
@@ -12276,7 +12892,9 @@ M  END
 CHEMBL49080
 
 > <chembl_pref_name>
-CLENBUTEROL $$$$
+CLENBUTEROL
+
+$$$$
 
      RDKit          2D
 
@@ -12319,7 +12937,9 @@ M  END
 CHEMBL437
 
 > <chembl_pref_name>
-SULFATHIAZOLE $$$$
+SULFATHIAZOLE
+
+$$$$
 
      RDKit          2D
 
@@ -12360,7 +12980,9 @@ M  END
 CHEMBL1693
 
 > <chembl_pref_name>
-DIETHYLPROPION HYDROCHLORIDE $$$$
+DIETHYLPROPION HYDROCHLORIDE
+
+$$$$
 
      RDKit          2D
 
@@ -12388,7 +13010,9 @@ M  END
 CHEMBL1410743
 
 > <chembl_pref_name>
-PARALDEHYDE $$$$
+PARALDEHYDE
+
+$$$$
 
      RDKit          2D
 
@@ -12431,7 +13055,9 @@ M  END
 CHEMBL1102
 
 > <chembl_pref_name>
-GLUTETHIMIDE $$$$
+GLUTETHIMIDE
+
+$$$$
 
      RDKit          2D
 
@@ -12470,7 +13096,9 @@ M  END
 CHEMBL869
 
 > <chembl_pref_name>
-NITROFURAZONE $$$$
+NITROFURAZONE
+
+$$$$
 
      RDKit          2D
 
@@ -12507,7 +13135,9 @@ M  END
 CHEMBL169901
 
 > <chembl_pref_name>
-DEBRISOQUIN $$$$
+DEBRISOQUIN
+
+$$$$
 
      RDKit          2D
 
@@ -12539,7 +13169,9 @@ M  END
 CHEMBL61006
 
 > <chembl_pref_name>
-PHENYLPROPANOLAMINE $$$$
+PHENYLPROPANOLAMINE
+
+$$$$
 
      RDKit          2D
 
@@ -12585,7 +13217,9 @@ M  END
 CHEMBL1180003
 
 > <chembl_pref_name>
-CETRIMIDE $$$$
+CETRIMIDE
+
+$$$$
 
      RDKit          2D
 
@@ -12629,7 +13263,9 @@ M  END
 CHEMBL65375
 
 > <chembl_pref_name>
-TIPIRACIL HYDROCHLORIDE $$$$
+TIPIRACIL HYDROCHLORIDE
+
+$$$$
 
      RDKit          2D
 
@@ -12681,7 +13317,9 @@ M  END
 CHEMBL564
 
 > <chembl_pref_name>
-PROMAZINE $$$$
+PROMAZINE
+
+$$$$
 
      RDKit          2D
 
@@ -12712,7 +13350,9 @@ M  END
 CHEMBL1059
 
 > <chembl_pref_name>
-PREGABALIN $$$$
+PREGABALIN
+
+$$$$
 
      RDKit          2D
 
@@ -12758,7 +13398,9 @@ M  END
 CHEMBL46469
 
 > <chembl_pref_name>
-ANTHRALIN $$$$
+ANTHRALIN
+
+$$$$
 
      RDKit          2D
 
@@ -12799,7 +13441,9 @@ M  END
 CHEMBL1037
 
 > <chembl_pref_name>
-GUANADREL $$$$
+GUANADREL
+
+$$$$
 
      RDKit          2D
 
@@ -12853,7 +13497,9 @@ M  END
 CHEMBL1201227
 
 > <chembl_pref_name>
-CYCRIMINE $$$$
+CYCRIMINE
+
+$$$$
 
      RDKit          2D
 
@@ -12894,7 +13540,9 @@ M  END
 CHEMBL550
 
 > <chembl_pref_name>
-PILOCARPINE $$$$
+PILOCARPINE
+
+$$$$
 
      RDKit          2D
 
@@ -12936,7 +13584,9 @@ M  END
 CHEMBL1760
 
 > <chembl_pref_name>
-TERBUTALINE $$$$
+TERBUTALINE
+
+$$$$
 
      RDKit          2D
 
@@ -12983,7 +13633,9 @@ M  END
 CHEMBL328560
 
 > <chembl_pref_name>
-SULTHIAME $$$$
+SULTHIAME
+
+$$$$
 
      RDKit          2D
 
@@ -13019,7 +13671,9 @@ M  END
 CHEMBL2107168
 
 > <chembl_pref_name>
-POTASSIUM SODIUM TARTRATE $$$$
+POTASSIUM SODIUM TARTRATE
+
+$$$$
 
      RDKit          2D
 
@@ -13051,7 +13705,9 @@ M  END
 CHEMBL108545
 
 > <chembl_pref_name>
-METHYL SALICYLATE $$$$
+METHYL SALICYLATE
+
+$$$$
 
      RDKit          2D
 
@@ -13096,7 +13752,9 @@ M  END
 CHEMBL1200432
 
 > <chembl_pref_name>
-METHYLDOPATE HYDROCHLORIDE $$$$
+METHYLDOPATE HYDROCHLORIDE
+
+$$$$
 
      RDKit          2D
 
@@ -13146,7 +13804,9 @@ M  END
 CHEMBL492
 
 > <chembl_pref_name>
-ETIDOCAINE $$$$
+ETIDOCAINE
+
+$$$$
 
      RDKit          2D
 
@@ -13174,7 +13834,9 @@ M  END
 CHEMBL573
 
 > <chembl_pref_name>
-NIACIN $$$$
+NIACIN
+
+$$$$
 
      RDKit          2D
 
@@ -13208,7 +13870,9 @@ M  END
 CHEMBL660
 
 > <chembl_pref_name>
-AMANTADINE $$$$
+AMANTADINE
+
+$$$$
 
      RDKit          2D
 
@@ -13258,7 +13922,9 @@ M  END
 CHEMBL1090
 
 > <chembl_pref_name>
-VIDARABINE $$$$
+VIDARABINE
+
+$$$$
 
      RDKit          2D
 
@@ -13315,7 +13981,9 @@ M  END
 CHEMBL659
 
 > <chembl_pref_name>
-GALANTAMINE $$$$
+GALANTAMINE
+
+$$$$
 
      RDKit          2D
 
@@ -13346,7 +14014,9 @@ M  END
 CHEMBL1467
 
 > <chembl_pref_name>
-ALLOPURINOL $$$$
+ALLOPURINOL
+
+$$$$
 
      RDKit          2D
 
@@ -13394,7 +14064,9 @@ M  END
 CHEMBL273575
 
 > <chembl_pref_name>
-NOMIFENSINE $$$$
+NOMIFENSINE
+
+$$$$
 
      RDKit          2D
 
@@ -13441,7 +14113,9 @@ M  END
 CHEMBL312448
 
 > <chembl_pref_name>
-XYLOMETAZOLINE $$$$
+XYLOMETAZOLINE
+
+$$$$
 
      RDKit          2D
 
@@ -13473,7 +14147,9 @@ M  END
 CHEMBL29411
 
 > <chembl_pref_name>
-THYMOL $$$$
+THYMOL
+
+$$$$
 
      RDKit          2D
 
@@ -13486,7 +14162,9 @@ M  END
 CHEMBL1201225
 
 > <chembl_pref_name>
-IODINE $$$$
+IODINE
+
+$$$$
 
      RDKit          2D
 
@@ -13528,7 +14206,9 @@ M  END
 CHEMBL607710
 
 > <chembl_pref_name>
-CHLORPHENESIN CARBAMATE $$$$
+CHLORPHENESIN CARBAMATE
+
+$$$$
 
      RDKit          2D
 
@@ -13575,7 +14255,9 @@ M  END
 CHEMBL563
 
 > <chembl_pref_name>
-FLURBIPROFEN $$$$
+FLURBIPROFEN
+
+$$$$
 
      RDKit          2D
 
@@ -13625,7 +14307,9 @@ M  END
 CHEMBL1200446
 
 > <chembl_pref_name>
-TRIPELENNAMINE HYDROCHLORIDE $$$$
+TRIPELENNAMINE HYDROCHLORIDE
+
+$$$$
 
      RDKit          2D
 
@@ -13678,7 +14362,9 @@ M  END
 CHEMBL57
 
 > <chembl_pref_name>
-NEVIRAPINE $$$$
+NEVIRAPINE
+
+$$$$
 
      RDKit          2D
 
@@ -13711,7 +14397,9 @@ M  END
 CHEMBL1200912
 
 > <chembl_pref_name>
-PHENTERMINE HYDROCHLORIDE $$$$
+PHENTERMINE HYDROCHLORIDE
+
+$$$$
 
      RDKit          2D
 
@@ -13754,7 +14442,9 @@ M  END
 CHEMBL991
 
 > <chembl_pref_name>
-STAVUDINE $$$$
+STAVUDINE
+
+$$$$
 
      RDKit          2D
 
@@ -13801,7 +14491,9 @@ M  END
 CHEMBL10878
 
 > <chembl_pref_name>
-AGOMELATINE $$$$
+AGOMELATINE
+
+$$$$
 
      RDKit          2D
 
@@ -13834,7 +14526,9 @@ M  END
 CHEMBL859
 
 > <chembl_pref_name>
-OXYPURINOL $$$$
+OXYPURINOL
+
+$$$$
 
      RDKit          2D
 
@@ -13873,7 +14567,9 @@ M  END
 CHEMBL181
 
 > <chembl_pref_name>
-DIAZOXIDE $$$$
+DIAZOXIDE
+
+$$$$
 
      RDKit          2D
 
@@ -13894,7 +14590,9 @@ M  END
 CHEMBL692
 
 > <chembl_pref_name>
-GLYCERIN $$$$
+GLYCERIN
+
+$$$$
 
      RDKit          2D
 
@@ -13932,7 +14630,9 @@ M  END
 CHEMBL1561
 
 > <chembl_pref_name>
-MIGLITOL $$$$
+MIGLITOL
+
+$$$$
 
      RDKit          2D
 
@@ -13975,7 +14675,9 @@ M  END
 CHEMBL1200410
 
 > <chembl_pref_name>
-PROCARBAZINE HYDROCHLORIDE $$$$
+PROCARBAZINE HYDROCHLORIDE
+
+$$$$
 
      RDKit          2D
 
@@ -14014,7 +14716,9 @@ M  END
 CHEMBL797
 
 > <chembl_pref_name>
-PHENSUXIMIDE $$$$
+PHENSUXIMIDE
+
+$$$$
 
      RDKit          2D
 
@@ -14033,7 +14737,9 @@ M  END
 CHEMBL773
 
 > <chembl_pref_name>
-GLYCINE $$$$
+GLYCINE
+
+$$$$
 
      RDKit          2D
 
@@ -14076,7 +14782,9 @@ M  END
 CHEMBL1677
 
 > <chembl_pref_name>
-TACRINE HYDROCHLORIDE $$$$
+TACRINE HYDROCHLORIDE
+
+$$$$
 
      RDKit          2D
 
@@ -14123,7 +14831,9 @@ M  END
 CHEMBL1540
 
 > <chembl_pref_name>
-PENCICLOVIR $$$$
+PENCICLOVIR
+
+$$$$
 
      RDKit          2D
 
@@ -14151,7 +14861,9 @@ M  END
 CHEMBL1533310
 
 > <chembl_pref_name>
-HISTAMINE DIHYDROCHLORIDE $$$$
+HISTAMINE DIHYDROCHLORIDE
+
+$$$$
 
      RDKit          2D
 
@@ -14198,7 +14910,9 @@ M  END
 CHEMBL1483
 
 > <chembl_pref_name>
-ALBENDAZOLE $$$$
+ALBENDAZOLE
+
+$$$$
 
      RDKit          2D
 
@@ -14239,7 +14953,9 @@ M  END
 CHEMBL1770
 
 > <chembl_pref_name>
-LEVAMISOLE HYDROCHLORIDE $$$$
+LEVAMISOLE HYDROCHLORIDE
+
+$$$$
 
      RDKit          2D
 
@@ -14276,7 +14992,9 @@ M  END
 CHEMBL590
 
 > <chembl_pref_name>
-MENADIONE $$$$
+MENADIONE
+
+$$$$
 
      RDKit          2D
 
@@ -14306,7 +15024,9 @@ M  END
 CHEMBL3184437
 
 > <chembl_pref_name>
-DICHLOROBENZYL ALCOHOL $$$$
+DICHLOROBENZYL ALCOHOL
+
+$$$$
 
      RDKit          2D
 
@@ -14337,7 +15057,9 @@ M  END
 CHEMBL14
 
 > <chembl_pref_name>
-CARBACHOL $$$$
+CARBACHOL
+
+$$$$
 
      RDKit          2D
 
@@ -14376,7 +15098,9 @@ M  END
 CHEMBL1449676
 
 > <chembl_pref_name>
-ORNIDAZOLE $$$$
+ORNIDAZOLE
+
+$$$$
 
      RDKit          2D
 
@@ -14411,7 +15135,9 @@ M  END
 CHEMBL1200756
 
 > <chembl_pref_name>
-PYRIDOXINE HYDROCHLORIDE $$$$
+PYRIDOXINE HYDROCHLORIDE
+
+$$$$
 
      RDKit          2D
 
@@ -14460,7 +15186,9 @@ M  END
 CHEMBL762
 
 > <chembl_pref_name>
-OXYMETAZOLINE $$$$
+OXYMETAZOLINE
+
+$$$$
 
      RDKit          2D
 
@@ -14486,7 +15214,9 @@ M  END
 CHEMBL24147
 
 > <chembl_pref_name>
-RESORCINOL $$$$
+RESORCINOL
+
+$$$$
 
      RDKit          2D
 
@@ -14516,7 +15246,9 @@ M  END
 CHEMBL398440
 
 > <chembl_pref_name>
-CHLOROXYLENOL $$$$
+CHLOROXYLENOL
+
+$$$$
 
      RDKit          2D
 
@@ -14538,7 +15270,9 @@ M  END
 CHEMBL1200459
 
 > <chembl_pref_name>
-POTASSIUM PHOSPHATE, DIBASIC $$$$
+POTASSIUM PHOSPHATE, DIBASIC
+
+$$$$
 
      RDKit          2D
 
@@ -14585,7 +15319,9 @@ M  END
 CHEMBL557555
 
 > <chembl_pref_name>
-CIPROFIBRATE $$$$
+CIPROFIBRATE
+
+$$$$
 
      RDKit          2D
 
@@ -14620,7 +15356,9 @@ M  END
 CHEMBL267936
 
 > <chembl_pref_name>
-MECAMYLAMINE $$$$
+MECAMYLAMINE
+
+$$$$
 
      RDKit          2D
 
@@ -14633,7 +15371,9 @@ M  END
 CHEMBL1644694
 
 > <chembl_pref_name>
-SODIUM BROMIDE $$$$
+SODIUM BROMIDE
+
+$$$$
 
      RDKit          2D
 
@@ -14660,7 +15400,9 @@ M  END
 CHEMBL1201130
 
 > <chembl_pref_name>
-BETAINE HYDROCHLORIDE $$$$
+BETAINE HYDROCHLORIDE
+
+$$$$
 
      RDKit          2D
 
@@ -14713,7 +15455,9 @@ M  END
 CHEMBL1098
 
 > <chembl_pref_name>
-BUPIVACAINE $$$$
+BUPIVACAINE
+
+$$$$
 
      RDKit          2D
 
@@ -14741,7 +15485,9 @@ M  END
 CHEMBL3989857
 
 > <chembl_pref_name>
-MAGNESIUM SULFATE $$$$
+MAGNESIUM SULFATE
+
+$$$$
 
      RDKit          2D
 
@@ -14792,7 +15538,9 @@ M  END
 CHEMBL128
 
 > <chembl_pref_name>
-SUMATRIPTAN $$$$
+SUMATRIPTAN
+
+$$$$
 
      RDKit          2D
 
@@ -14822,7 +15570,9 @@ M  END
 CHEMBL1356
 
 > <chembl_pref_name>
-SODIUM BENZOATE $$$$
+SODIUM BENZOATE
+
+$$$$
 
      RDKit          2D
 
@@ -14851,7 +15601,9 @@ M  END
 CHEMBL446061
 
 > <chembl_pref_name>
-TROLAMINE $$$$
+TROLAMINE
+
+$$$$
 
      RDKit          2D
 
@@ -14902,7 +15654,9 @@ M  END
 CHEMBL2106829
 
 > <chembl_pref_name>
-METHAQUALONE HYDROCHLORIDE $$$$
+METHAQUALONE HYDROCHLORIDE
+
+$$$$
 
      RDKit          2D
 
@@ -14945,7 +15699,9 @@ M  END
 CHEMBL1079604
 
 > <chembl_pref_name>
-METAXALONE $$$$
+METAXALONE
+
+$$$$
 
      RDKit          2D
 
@@ -14990,7 +15746,9 @@ M  END
 CHEMBL1200714
 
 > <chembl_pref_name>
-CHLORMEZANONE $$$$
+CHLORMEZANONE
+
+$$$$
 
      RDKit          2D
 
@@ -15047,7 +15805,9 @@ M  END
 CHEMBL516
 
 > <chembl_pref_name>
-CYPROHEPTADINE $$$$
+CYPROHEPTADINE
+
+$$$$
 
      RDKit          2D
 
@@ -15101,7 +15861,9 @@ M  END
 CHEMBL1089221
 
 > <chembl_pref_name>
-BENDAZAC $$$$
+BENDAZAC
+
+$$$$
 
      RDKit          2D
 
@@ -15131,7 +15893,9 @@ M  END
 CHEMBL1909283
 
 > <chembl_pref_name>
-MEBANAZINE $$$$
+MEBANAZINE
+
+$$$$
 
      RDKit          2D
 
@@ -15171,7 +15935,9 @@ M  END
 CHEMBL175
 
 > <chembl_pref_name>
-DEXIBUPROFEN $$$$
+DEXIBUPROFEN
+
+$$$$
 
      RDKit          2D
 
@@ -15209,7 +15975,9 @@ M  END
 CHEMBL139877
 
 > <chembl_pref_name>
-SULFACARBAMIDE $$$$
+SULFACARBAMIDE
+
+$$$$
 
      RDKit          2D
 
@@ -15253,7 +16021,9 @@ M  END
 CHEMBL2105941
 
 > <chembl_pref_name>
-AMOBARBITAL SODIUM $$$$
+AMOBARBITAL SODIUM
+
+$$$$
 
      RDKit          2D
 
@@ -15288,7 +16058,9 @@ M  END
 CHEMBL2105614
 
 > <chembl_pref_name>
-TERPIN HYDRATE $$$$
+TERPIN HYDRATE
+
+$$$$
 
      RDKit          2D
 
@@ -15342,7 +16114,9 @@ M  END
 CHEMBL94
 
 > <chembl_pref_name>
-PHYSOSTIGMINE $$$$
+PHYSOSTIGMINE
+
+$$$$
 
      RDKit          2D
 
@@ -15378,7 +16152,9 @@ M  END
 CHEMBL92401
 
 > <chembl_pref_name>
-IPRONIAZID $$$$
+IPRONIAZID
+
+$$$$
 
      RDKit          2D
 
@@ -15422,7 +16198,9 @@ M  END
 CHEMBL55400
 
 > <chembl_pref_name>
-PROFLAVINE $$$$
+PROFLAVINE
+
+$$$$
 
      RDKit          2D
 
@@ -15449,7 +16227,9 @@ M  END
 CHEMBL591
 
 > <chembl_pref_name>
-ETHCHLORVYNOL $$$$
+ETHCHLORVYNOL
+
+$$$$
 
      RDKit          2D
 
@@ -15493,7 +16273,9 @@ M  END
 CHEMBL1094966
 
 > <chembl_pref_name>
-PIRBUTEROL $$$$
+PIRBUTEROL
+
+$$$$
 
      RDKit          2D
 
@@ -15552,7 +16334,9 @@ M  END
 CHEMBL56564
 
 > <chembl_pref_name>
-TROPISETRON $$$$
+TROPISETRON
+
+$$$$
 
      RDKit          2D
 
@@ -15603,7 +16387,9 @@ M  END
 CHEMBL2042122
 
 > <chembl_pref_name>
-FLUTEMETAMOL F 18 $$$$
+FLUTEMETAMOL F 18
+
+$$$$
 
      RDKit          2D
 
@@ -15644,7 +16430,9 @@ M  END
 CHEMBL647
 
 > <chembl_pref_name>
-APRACLONIDINE $$$$
+APRACLONIDINE
+
+$$$$
 
      RDKit          2D
 
@@ -15658,7 +16446,9 @@ M  END
 CHEMBL1201084
 
 > <chembl_pref_name>
-SODIUM IODIDE I 131 $$$$
+SODIUM IODIDE I 131
+
+$$$$
 
      RDKit          2D
 
@@ -15692,7 +16482,9 @@ M  END
 CHEMBL1201234
 
 > <chembl_pref_name>
-MEPHENTERMINE $$$$
+MEPHENTERMINE
+
+$$$$
 
      RDKit          2D
 
@@ -15742,7 +16534,9 @@ M  END
 CHEMBL2096642
 
 > <chembl_pref_name>
-INAMRINONE LACTATE $$$$
+INAMRINONE LACTATE
+
+$$$$
 
      RDKit          2D
 
@@ -15759,7 +16553,9 @@ M  END
 CHEMBL2009089
 
 > <chembl_pref_name>
-SELENIOUS ACID $$$$
+SELENIOUS ACID
+
+$$$$
 
      RDKit          2D
 
@@ -15772,7 +16568,9 @@ M  END
 CHEMBL1234886
 
 > <chembl_pref_name>
-OXYGEN $$$$
+OXYGEN
+
+$$$$
 
      RDKit          2D
 
@@ -15820,7 +16618,9 @@ M  END
 CHEMBL1255739
 
 > <chembl_pref_name>
-METHAPYRILENE HYDROCHLORIDE $$$$
+METHAPYRILENE HYDROCHLORIDE
+
+$$$$
 
      RDKit          2D
 
@@ -15856,7 +16656,9 @@ M  END
 CHEMBL2010507
 
 > <chembl_pref_name>
-METHOXYPHENAMINE $$$$
+METHOXYPHENAMINE
+
+$$$$
 
      RDKit          2D
 
@@ -15885,7 +16687,9 @@ M  END
 CHEMBL609
 
 > <chembl_pref_name>
-TRIENTINE $$$$
+TRIENTINE
+
+$$$$
 
      RDKit          2D
 
@@ -15929,7 +16733,9 @@ M  END
 CHEMBL1201213
 
 > <chembl_pref_name>
-ISOETHARINE $$$$
+ISOETHARINE
+
+$$$$
 
      RDKit          2D
 
@@ -15961,7 +16767,9 @@ M  END
 CHEMBL1200358
 
 > <chembl_pref_name>
-SODIUM PHENYLACETATE $$$$
+SODIUM PHENYLACETATE
+
+$$$$
 
      RDKit          2D
 
@@ -16013,7 +16821,9 @@ M  END
 CHEMBL1200491
 
 > <chembl_pref_name>
-EPINASTINE HYDROCHLORIDE $$$$
+EPINASTINE HYDROCHLORIDE
+
+$$$$
 
      RDKit          2D
 
@@ -16060,7 +16870,9 @@ M  END
 CHEMBL1200370
 
 > <chembl_pref_name>
-BENZOYL PEROXIDE $$$$
+BENZOYL PEROXIDE
+
+$$$$
 
      RDKit          2D
 
@@ -16109,7 +16921,9 @@ M  END
 CHEMBL1525826
 
 > <chembl_pref_name>
-SULFALENE $$$$
+SULFALENE
+
+$$$$
 
      RDKit          2D
 
@@ -16158,7 +16972,9 @@ M  END
 CHEMBL1738
 
 > <chembl_pref_name>
-DEXRAZOXANE $$$$
+DEXRAZOXANE
+
+$$$$
 
      RDKit          2D
 
@@ -16202,7 +17018,9 @@ M  END
 CHEMBL1201117
 
 > <chembl_pref_name>
-METHOCARBAMOL $$$$
+METHOCARBAMOL
+
+$$$$
 
      RDKit          2D
 
@@ -16242,7 +17060,9 @@ M  END
 CHEMBL1194666
 
 > <chembl_pref_name>
-DIETHYLPROPION $$$$
+DIETHYLPROPION
+
+$$$$
 
      RDKit          2D
 
@@ -16273,7 +17093,9 @@ M  END
 CHEMBL1200789
 
 > <chembl_pref_name>
-TRICLOFOS SODIUM $$$$
+TRICLOFOS SODIUM
+
+$$$$
 
      RDKit          2D
 
@@ -16308,7 +17130,9 @@ M  END
 CHEMBL2146102
 
 > <chembl_pref_name>
-EPHEDRINE HYDROCHLORIDE $$$$
+EPHEDRINE HYDROCHLORIDE
+
+$$$$
 
      RDKit          2D
 
@@ -16341,7 +17165,9 @@ M  END
 CHEMBL1200477
 
 > <chembl_pref_name>
-ALLOPURINOL SODIUM $$$$
+ALLOPURINOL SODIUM
+
+$$$$
 
      RDKit          2D
 
@@ -16376,7 +17202,9 @@ M  END
 CHEMBL1200724
 
 > <chembl_pref_name>
-PSEUDOEPHEDRINE HYDROCHLORIDE $$$$
+PSEUDOEPHEDRINE HYDROCHLORIDE
+
+$$$$
 
      RDKit          2D
 
@@ -16404,7 +17232,9 @@ M  END
 CHEMBL614
 
 > <chembl_pref_name>
-PYRAZINAMIDE $$$$
+PYRAZINAMIDE
+
+$$$$
 
      RDKit          2D
 
@@ -16415,7 +17245,9 @@ M  END
 CHEMBL2105487
 
 > <chembl_pref_name>
-SULFUR, PRECIPITATED $$$$
+SULFUR, PRECIPITATED
+
+$$$$
 
      RDKit          2D
 
@@ -16436,7 +17268,9 @@ M  END
 CHEMBL2021423
 
 > <chembl_pref_name>
-MAGNESIUM SULFATE ANHYDROUS $$$$
+MAGNESIUM SULFATE ANHYDROUS
+
+$$$$
 
      RDKit          2D
 
@@ -16478,7 +17312,9 @@ M  END
 CHEMBL565
 
 > <chembl_pref_name>
-CLOFIBRATE $$$$
+CLOFIBRATE
+
+$$$$
 
      RDKit          2D
 
@@ -16512,7 +17348,9 @@ M  END
 CHEMBL1469
 
 > <chembl_pref_name>
-PHENYLBUTANOIC ACID $$$$
+PHENYLBUTANOIC ACID
+
+$$$$
 
      RDKit          2D
 
@@ -16529,7 +17367,9 @@ M  END
 CHEMBL1200706
 
 > <chembl_pref_name>
-ALUMINUM HYDROXIDE $$$$
+ALUMINUM HYDROXIDE
+
+$$$$
 
      RDKit          2D
 
@@ -16555,7 +17395,9 @@ M  END
 CHEMBL354077
 
 > <chembl_pref_name>
-AMIFAMPRIDINE $$$$
+AMIFAMPRIDINE
+
+$$$$
 
      RDKit          2D
 
@@ -16602,7 +17444,9 @@ M  END
 CHEMBL201960
 
 > <chembl_pref_name>
-PYROVALERONE $$$$
+PYROVALERONE
+
+$$$$
 
      RDKit          2D
 
@@ -16646,7 +17490,9 @@ M  END
 CHEMBL24171
 
 > <chembl_pref_name>
-BERGAPTEN $$$$
+BERGAPTEN
+
+$$$$
 
      RDKit          2D
 
@@ -16696,7 +17542,9 @@ M  END
 CHEMBL1631694
 
 > <chembl_pref_name>
-FEXINIDAZOLE $$$$
+FEXINIDAZOLE
+
+$$$$
 
      RDKit          2D
 
@@ -16743,7 +17591,9 @@ M  END
 CHEMBL1689063
 
 > <chembl_pref_name>
-AVIBACTAM $$$$
+AVIBACTAM
+
+$$$$
 
      RDKit          2D
 
@@ -16784,7 +17634,9 @@ M  END
 CHEMBL455186
 
 > <chembl_pref_name>
-TREOSULFAN $$$$
+TREOSULFAN
+
+$$$$
 
      RDKit          2D
 
@@ -16828,7 +17680,9 @@ M  END
 CHEMBL1474889
 
 > <chembl_pref_name>
-CLOBUTINOL $$$$
+CLOBUTINOL
+
+$$$$
 
      RDKit          2D
 
@@ -16863,7 +17717,9 @@ M  END
 CHEMBL3301611
 
 > <chembl_pref_name>
-AMIFAMPRIDINE PHOSPHATE $$$$
+AMIFAMPRIDINE PHOSPHATE
+
+$$$$
 
      RDKit          2D
 
@@ -16901,7 +17757,9 @@ M  END
 CHEMBL450
 
 > <chembl_pref_name>
-METHARBITAL $$$$
+METHARBITAL
+
+$$$$
 
      RDKit          2D
 
@@ -16941,7 +17799,9 @@ M  END
 CHEMBL449
 
 > <chembl_pref_name>
-BUTABARBITAL $$$$
+BUTABARBITAL
+
+$$$$
 
      RDKit          2D
 
@@ -16966,7 +17826,9 @@ M  END
 CHEMBL4594395
 
 > <chembl_pref_name>
-POTASSIUM OXYBATE $$$$
+POTASSIUM OXYBATE
+
+$$$$
 
      RDKit          2D
 
@@ -17005,7 +17867,9 @@ M  END
 CHEMBL4297212
 
 > <chembl_pref_name>
-SOLRIAMFETOL HYDROCHLORIDE $$$$
+SOLRIAMFETOL HYDROCHLORIDE
+
+$$$$
 
      RDKit          2D
 
@@ -17039,7 +17903,9 @@ M  END
 CHEMBL1086863
 
 > <chembl_pref_name>
-FLUDEOXYGLUCOSE $$$$
+FLUDEOXYGLUCOSE
+
+$$$$
 
      RDKit          2D
 
@@ -17078,7 +17944,9 @@ M  END
 CHEMBL113
 
 > <chembl_pref_name>
-CAFFEINE $$$$
+CAFFEINE
+
+$$$$
 
      RDKit          2D
 
@@ -17114,7 +17982,9 @@ M  END
 CHEMBL20
 
 > <chembl_pref_name>
-ACETAZOLAMIDE $$$$
+ACETAZOLAMIDE
+
+$$$$
 
      RDKit          2D
 
@@ -17133,7 +18003,9 @@ M  END
 CHEMBL4594252
 
 > <chembl_pref_name>
-ALUMINIUM OXIDE $$$$
+ALUMINIUM OXIDE
+
+$$$$
 
      RDKit          2D
 
@@ -17147,7 +18019,9 @@ M  END
 CHEMBL1200744
 
 > <chembl_pref_name>
-SODIUM FLUORIDE F 18 $$$$
+SODIUM FLUORIDE F 18
+
+$$$$
 
      RDKit          2D
 
@@ -17173,7 +18047,9 @@ M  END
 CHEMBL1200800
 
 > <chembl_pref_name>
-CALCIUM ACETATE $$$$
+CALCIUM ACETATE
+
+$$$$
 
      RDKit          2D
 
@@ -17228,7 +18104,9 @@ M  END
 CHEMBL822
 
 > <chembl_pref_name>
-TERBINAFINE $$$$
+TERBINAFINE
+
+$$$$
 
      RDKit          2D
 
@@ -17284,7 +18162,9 @@ M  END
 CHEMBL291157
 
 > <chembl_pref_name>
-ROSOXACIN $$$$
+ROSOXACIN
+
+$$$$
 
      RDKit          2D
 
@@ -17330,7 +18210,9 @@ M  END
 CHEMBL471
 
 > <chembl_pref_name>
-SOTALOL $$$$
+SOTALOL
+
+$$$$
 
      RDKit          2D
 
@@ -17375,7 +18257,9 @@ M  END
 CHEMBL934
 
 > <chembl_pref_name>
-METYRAPONE $$$$
+METYRAPONE
+
+$$$$
 
      RDKit          2D
 
@@ -17425,7 +18309,9 @@ M  END
 CHEMBL129
 
 > <chembl_pref_name>
-ZIDOVUDINE $$$$
+ZIDOVUDINE
+
+$$$$
 
      RDKit          2D
 
@@ -17478,7 +18364,9 @@ M  END
 CHEMBL781
 
 > <chembl_pref_name>
-MAZINDOL $$$$
+MAZINDOL
+
+$$$$
 
      RDKit          2D
 
@@ -17514,7 +18402,9 @@ M  END
 CHEMBL1128
 
 > <chembl_pref_name>
-EDROPHONIUM CHLORIDE $$$$
+EDROPHONIUM CHLORIDE
+
+$$$$
 
      RDKit          2D
 
@@ -17548,7 +18438,9 @@ M  END
 CHEMBL1201269
 
 > <chembl_pref_name>
-CHLORPHENTERMINE $$$$
+CHLORPHENTERMINE
+
+$$$$
 
      RDKit          2D
 
@@ -17586,7 +18478,9 @@ M  END
 CHEMBL463
 
 > <chembl_pref_name>
-AMINOHIPPURIC ACID $$$$
+AMINOHIPPURIC ACID
+
+$$$$
 
      RDKit          2D
 
@@ -17604,7 +18498,9 @@ M  END
 CHEMBL504
 
 > <chembl_pref_name>
-DIMETHYL SULFOXIDE $$$$
+DIMETHYL SULFOXIDE
+
+$$$$
 
      RDKit          2D
 
@@ -17645,7 +18541,9 @@ M  END
 CHEMBL1201103
 
 > <chembl_pref_name>
-METHOXAMINE HYDROCHLORIDE $$$$
+METHOXAMINE HYDROCHLORIDE
+
+$$$$
 
      RDKit          2D
 
@@ -17674,7 +18572,9 @@ M  END
 CHEMBL930
 
 > <chembl_pref_name>
-GLUTAMINE $$$$
+GLUTAMINE
+
+$$$$
 
      RDKit          2D
 
@@ -17728,7 +18628,9 @@ M  END
 CHEMBL1628227
 
 > <chembl_pref_name>
-DOXEPIN $$$$
+DOXEPIN
+
+$$$$
 
      RDKit          2D
 
@@ -17774,7 +18676,9 @@ M  END
 CHEMBL833
 
 > <chembl_pref_name>
-TICLOPIDINE $$$$
+TICLOPIDINE
+
+$$$$
 
      RDKit          2D
 
@@ -17812,7 +18716,9 @@ M  END
 CHEMBL2105904
 
 > <chembl_pref_name>
-BARBITAL SODIUM $$$$
+BARBITAL SODIUM
+
+$$$$
 
      RDKit          2D
 
@@ -17857,7 +18763,9 @@ M  END
 CHEMBL154
 
 > <chembl_pref_name>
-NAPROXEN $$$$
+NAPROXEN
+
+$$$$
 
      RDKit          2D
 
@@ -17892,7 +18800,9 @@ M  END
 CHEMBL1261
 
 > <chembl_pref_name>
-CITRIC ACID $$$$
+CITRIC ACID
+
+$$$$
 
      RDKit          2D
 
@@ -17937,7 +18847,9 @@ M  END
 CHEMBL314437
 
 > <chembl_pref_name>
-MEPTAZINOL $$$$
+MEPTAZINOL
+
+$$$$
 
      RDKit          2D
 
@@ -17973,7 +18885,9 @@ M  END
 CHEMBL677
 
 > <chembl_pref_name>
-LEVONORDEFRIN $$$$
+LEVONORDEFRIN
+
+$$$$
 
      RDKit          2D
 
@@ -18023,7 +18937,9 @@ M  END
 CHEMBL1685
 
 > <chembl_pref_name>
-DEZOCINE $$$$
+DEZOCINE
+
+$$$$
 
      RDKit          2D
 
@@ -18060,7 +18976,9 @@ M  END
 CHEMBL2106978
 
 > <chembl_pref_name>
-POTASSIUM GLUCONATE $$$$
+POTASSIUM GLUCONATE
+
+$$$$
 
      RDKit          2D
 
@@ -18092,7 +19010,9 @@ M  END
 CHEMBL1446813
 
 > <chembl_pref_name>
-BETAHISTINE HYDROCHLORIDE $$$$
+BETAHISTINE HYDROCHLORIDE
+
+$$$$
 
      RDKit          2D
 
@@ -18140,7 +19060,9 @@ M  END
 CHEMBL6995
 
 > <chembl_pref_name>
-PRACTOLOL $$$$
+PRACTOLOL
+
+$$$$
 
      RDKit          2D
 
@@ -18173,7 +19095,9 @@ M  END
 CHEMBL1200764
 
 > <chembl_pref_name>
-METHACHOLINE CHLORIDE $$$$
+METHACHOLINE CHLORIDE
+
+$$$$
 
      RDKit          2D
 
@@ -18214,7 +19138,9 @@ M  END
 CHEMBL1615439
 
 > <chembl_pref_name>
-PHENDIMETRAZINE $$$$
+PHENDIMETRAZINE
+
+$$$$
 
      RDKit          2D
 
@@ -18259,7 +19185,9 @@ M  END
 CHEMBL70246
 
 > <chembl_pref_name>
-ACEFYLLINE $$$$
+ACEFYLLINE
+
+$$$$
 
      RDKit          2D
 
@@ -18307,7 +19235,9 @@ M  END
 CHEMBL698
 
 > <chembl_pref_name>
-TETRACAINE $$$$
+TETRACAINE
+
+$$$$
 
      RDKit          2D
 
@@ -18349,7 +19279,9 @@ M  END
 CHEMBL2106195
 
 > <chembl_pref_name>
-DEXMEDETOMIDINE HYDROCHLORIDE $$$$
+DEXMEDETOMIDINE HYDROCHLORIDE
+
+$$$$
 
      RDKit          2D
 
@@ -18391,7 +19323,9 @@ M  END
 CHEMBL87493
 
 > <chembl_pref_name>
-FENFLURAMINE $$$$
+FENFLURAMINE
+
+$$$$
 
      RDKit          2D
 
@@ -18434,7 +19368,9 @@ M  END
 CHEMBL235668
 
 > <chembl_pref_name>
-TIPIRACIL $$$$
+TIPIRACIL
+
+$$$$
 
      RDKit          2D
 
@@ -18483,7 +19419,9 @@ M  END
 CHEMBL1200782
 
 > <chembl_pref_name>
-DEXTROAMPHETAMINE ADIPATE $$$$
+DEXTROAMPHETAMINE ADIPATE
+
+$$$$
 
      RDKit          2D
 
@@ -18497,7 +19435,9 @@ M  END
 CHEMBL1201083
 
 > <chembl_pref_name>
-SODIUM IODIDE I 123 $$$$
+SODIUM IODIDE I 123
+
+$$$$
 
      RDKit          2D
 
@@ -18551,7 +19491,9 @@ M  END
 CHEMBL3545253
 
 > <chembl_pref_name>
-FLORTAUCIPIR F 18 $$$$
+FLORTAUCIPIR F 18
+
+$$$$
 
      RDKit          2D
 
@@ -18590,7 +19532,9 @@ M  END
 CHEMBL2004297
 
 > <chembl_pref_name>
-SULFIRAM $$$$
+SULFIRAM
+
+$$$$
 
      RDKit          2D
 
@@ -18635,7 +19579,9 @@ M  END
 CHEMBL288470
 
 > <chembl_pref_name>
-AMINOPYRINE $$$$
+AMINOPYRINE
+
+$$$$
 
      RDKit          2D
 
@@ -18686,7 +19632,9 @@ M  END
 CHEMBL4297517
 
 > <chembl_pref_name>
-MAVACAMTEN $$$$
+MAVACAMTEN
+
+$$$$
 
      RDKit          2D
 
@@ -18726,7 +19674,9 @@ M  END
 CHEMBL1330792
 
 > <chembl_pref_name>
-ACETARSONE $$$$
+ACETARSONE
+
+$$$$
 
      RDKit          2D
 
@@ -18772,7 +19722,9 @@ M  END
 CHEMBL2104045
 
 > <chembl_pref_name>
-CINOXATE $$$$
+CINOXATE
+
+$$$$
 
      RDKit          2D
 
@@ -18806,7 +19758,9 @@ M  END
 CHEMBL940
 
 > <chembl_pref_name>
-GABAPENTIN $$$$
+GABAPENTIN
+
+$$$$
 
      RDKit          2D
 
@@ -18851,7 +19805,9 @@ M  END
 CHEMBL1396
 
 > <chembl_pref_name>
-VARENICLINE $$$$
+VARENICLINE
+
+$$$$
 
      RDKit          2D
 
@@ -18900,7 +19856,9 @@ M  END
 CHEMBL444186
 
 > <chembl_pref_name>
-RAZOXANE $$$$
+RAZOXANE
+
+$$$$
 
      RDKit          2D
 
@@ -18958,7 +19916,9 @@ M  END
 CHEMBL1331216
 
 > <chembl_pref_name>
-HYOSCYAMINE $$$$
+HYOSCYAMINE
+
+$$$$
 
      RDKit          2D
 
@@ -19007,7 +19967,9 @@ M  END
 CHEMBL571
 
 > <chembl_pref_name>
-KETOPROFEN $$$$
+KETOPROFEN
+
+$$$$
 
      RDKit          2D
 
@@ -19020,7 +19982,9 @@ M  END
 CHEMBL1255
 
 > <chembl_pref_name>
-FORMALDEHYDE $$$$
+FORMALDEHYDE
+
+$$$$
 
      RDKit          2D
 
@@ -19069,7 +20033,9 @@ M  END
 CHEMBL1419
 
 > <chembl_pref_name>
-SIBUTRAMINE $$$$
+SIBUTRAMINE
+
+$$$$
 
      RDKit          2D
 
@@ -19105,7 +20071,9 @@ M  END
 CHEMBL679
 
 > <chembl_pref_name>
-EPINEPHRINE $$$$
+EPINEPHRINE
+
+$$$$
 
      RDKit          2D
 
@@ -19147,7 +20115,9 @@ M  END
 CHEMBL1201236
 
 > <chembl_pref_name>
-CARBIDOPA $$$$
+CARBIDOPA
+
+$$$$
 
      RDKit          2D
 
@@ -19192,7 +20162,9 @@ M  END
 CHEMBL37390
 
 > <chembl_pref_name>
-PROXYPHYLLINE $$$$
+PROXYPHYLLINE
+
+$$$$
 
      RDKit          2D
 
@@ -19215,7 +20187,9 @@ M  END
 CHEMBL1200664
 
 > <chembl_pref_name>
-POTASSIUM LACTATE $$$$
+POTASSIUM LACTATE
+
+$$$$
 
      RDKit          2D
 
@@ -19262,7 +20236,9 @@ M  END
 CHEMBL827
 
 > <chembl_pref_name>
-DEXMETHYLPHENIDATE $$$$
+DEXMETHYLPHENIDATE
+
+$$$$
 
      RDKit          2D
 
@@ -19308,7 +20284,9 @@ M  END
 CHEMBL3989944
 
 > <chembl_pref_name>
-DIROXIMEL FUMARATE $$$$
+DIROXIMEL FUMARATE
+
+$$$$
 
      RDKit          2D
 
@@ -19355,7 +20333,9 @@ M  END
 CHEMBL1201000
 
 > <chembl_pref_name>
-NITROFURANTOIN SODIUM $$$$
+NITROFURANTOIN SODIUM
+
+$$$$
 
      RDKit          2D
 
@@ -19382,7 +20362,9 @@ M  END
 CHEMBL589586
 
 > <chembl_pref_name>
-MONOMETHYL FUMARATE $$$$
+MONOMETHYL FUMARATE
+
+$$$$
 
      RDKit          2D
 
@@ -19416,7 +20398,9 @@ M  END
 CHEMBL1576
 
 > <chembl_pref_name>
-ETHINAMATE $$$$
+ETHINAMATE
+
+$$$$
 
      RDKit          2D
 
@@ -19431,7 +20415,9 @@ M  END
 CHEMBL2111187
 
 > <chembl_pref_name>
-RADIUM DICHLORIDE $$$$
+RADIUM DICHLORIDE
+
+$$$$
 
      RDKit          2D
 
@@ -19480,7 +20466,9 @@ M  END
 CHEMBL506
 
 > <chembl_pref_name>
-PRIMAQUINE $$$$
+PRIMAQUINE
+
+$$$$
 
      RDKit          2D
 
@@ -19521,7 +20509,9 @@ M  END
 CHEMBL3400972
 
 > <chembl_pref_name>
-FLUORODOPA F 18 $$$$
+FLUORODOPA F 18
+
+$$$$
 
      RDKit          2D
 
@@ -19554,7 +20544,9 @@ M  END
 CHEMBL443052
 
 > <chembl_pref_name>
-TAVABOROLE $$$$
+TAVABOROLE
+
+$$$$
 
      RDKit          2D
 
@@ -19608,7 +20600,9 @@ M  END
 CHEMBL2110805
 
 > <chembl_pref_name>
-EMEPRONIUM $$$$
+EMEPRONIUM
+
+$$$$
 
      RDKit          2D
 
@@ -19647,7 +20641,9 @@ M  END
 CHEMBL1201784
 
 > <chembl_pref_name>
-HEXAMINOLEVULINATE $$$$
+HEXAMINOLEVULINATE
+
+$$$$
 
      RDKit          2D
 
@@ -19685,7 +20681,9 @@ M  END
 CHEMBL1697733
 
 > <chembl_pref_name>
-ACETYLCARNITINE $$$$
+ACETYLCARNITINE
+
+$$$$
 
      RDKit          2D
 
@@ -19736,7 +20734,9 @@ M  END
 CHEMBL1480987
 
 > <chembl_pref_name>
-CYCLANDELATE $$$$
+CYCLANDELATE
+
+$$$$
 
      RDKit          2D
 
@@ -19753,7 +20753,9 @@ M  END
 CHEMBL3833401
 
 > <chembl_pref_name>
-ALUMINUM CHLORIDE $$$$
+ALUMINUM CHLORIDE
+
+$$$$
 
      RDKit          2D
 
@@ -19791,7 +20793,9 @@ M  END
 CHEMBL701
 
 > <chembl_pref_name>
-BACLOFEN $$$$
+BACLOFEN
+
+$$$$
 
      RDKit          2D
 
@@ -19841,7 +20845,9 @@ M  END
 CHEMBL1620
 
 > <chembl_pref_name>
-DIPHENHYDRAMINE HYDROCHLORIDE $$$$
+DIPHENHYDRAMINE HYDROCHLORIDE
+
+$$$$
 
      RDKit          2D
 
@@ -19852,7 +20858,9 @@ M  END
 CHEMBL2146121
 
 > <chembl_pref_name>
-CALCIUM $$$$
+CALCIUM
+
+$$$$
 
      RDKit          2D
 
@@ -19895,7 +20903,9 @@ M  END
 CHEMBL17860
 
 > <chembl_pref_name>
-LOFEXIDINE $$$$
+LOFEXIDINE
+
+$$$$
 
      RDKit          2D
 
@@ -19908,7 +20918,9 @@ M  END
 CHEMBL1644030
 
 > <chembl_pref_name>
-POTASSIUM BROMIDE $$$$
+POTASSIUM BROMIDE
+
+$$$$
 
      RDKit          2D
 
@@ -19960,7 +20972,9 @@ M  END
 CHEMBL1305
 
 > <chembl_pref_name>
-ANTAZOLINE $$$$
+ANTAZOLINE
+
+$$$$
 
      RDKit          2D
 
@@ -19998,7 +21012,9 @@ M  END
 CHEMBL1560
 
 > <chembl_pref_name>
-CAPTOPRIL $$$$
+CAPTOPRIL
+
+$$$$
 
      RDKit          2D
 
@@ -20037,7 +21053,9 @@ M  END
 CHEMBL1200796
 
 > <chembl_pref_name>
-CYCLOPHOSPHAMIDE $$$$
+CYCLOPHOSPHAMIDE
+
+$$$$
 
      RDKit          2D
 
@@ -20058,7 +21076,9 @@ M  END
 CHEMBL1200559
 
 > <chembl_pref_name>
-LACTIC ACID $$$$
+LACTIC ACID
+
+$$$$
 
      RDKit          2D
 
@@ -20097,7 +21117,9 @@ M  END
 CHEMBL134
 
 > <chembl_pref_name>
-CLONIDINE $$$$
+CLONIDINE
+
+$$$$
 
      RDKit          2D
 
@@ -20134,7 +21156,9 @@ M  END
 CHEMBL1201208
 
 > <chembl_pref_name>
-PHENMETRAZINE $$$$
+PHENMETRAZINE
+
+$$$$
 
      RDKit          2D
 
@@ -20176,7 +21200,9 @@ M  END
 CHEMBL894
 
 > <chembl_pref_name>
-BUPROPION $$$$
+BUPROPION
+
+$$$$
 
      RDKit          2D
 
@@ -20206,7 +21232,9 @@ M  END
 CHEMBL1201093
 
 > <chembl_pref_name>
-METHYL AMINOLEVULINATE HYDROCHLORIDE $$$$
+METHYL AMINOLEVULINATE HYDROCHLORIDE
+
+$$$$
 
      RDKit          2D
 
@@ -20245,7 +21273,9 @@ M  END
 CHEMBL277474
 
 > <chembl_pref_name>
-ANTIPYRINE $$$$
+ANTIPYRINE
+
+$$$$
 
      RDKit          2D
 
@@ -20285,7 +21315,9 @@ M  END
 CHEMBL3833339
 
 > <chembl_pref_name>
-AMYL NITRITE $$$$
+AMYL NITRITE
+
+$$$$
 
      RDKit          2D
 
@@ -20336,7 +21368,9 @@ M  END
 CHEMBL1998966
 
 > <chembl_pref_name>
-PIFOXIME $$$$
+PIFOXIME
+
+$$$$
 
      RDKit          2D
 
@@ -20357,7 +21391,9 @@ M  END
 CHEMBL2105897
 
 > <chembl_pref_name>
-BARIUM SULFATE $$$$
+BARIUM SULFATE
+
+$$$$
 
      RDKit          2D
 
@@ -20395,7 +21431,9 @@ M  END
 CHEMBL2110926
 
 > <chembl_pref_name>
-ETAFEDRINE $$$$
+ETAFEDRINE
+
+$$$$
 
      RDKit          2D
 
@@ -20434,7 +21472,9 @@ M  END
 CHEMBL2205807
 
 > <chembl_pref_name>
-ABAMETAPIR $$$$
+ABAMETAPIR
+
+$$$$
 
      RDKit          2D
 
@@ -20474,7 +21514,9 @@ M  END
 CHEMBL3547132
 
 > <chembl_pref_name>
-FLUORODOPA $$$$
+FLUORODOPA
+
+$$$$
 
      RDKit          2D
 
@@ -20512,7 +21554,9 @@ M  END
 CHEMBL980
 
 > <chembl_pref_name>
-GUAIFENESIN $$$$
+GUAIFENESIN
+
+$$$$
 
      RDKit          2D
 
@@ -20555,7 +21599,9 @@ M  END
 CHEMBL184
 
 > <chembl_pref_name>
-ACYCLOVIR $$$$
+ACYCLOVIR
+
+$$$$
 
      RDKit          2D
 
@@ -20587,7 +21633,9 @@ M  END
 CHEMBL1201201
 
 > <chembl_pref_name>
-METHAMPHETAMINE $$$$
+METHAMPHETAMINE
+
+$$$$
 
      RDKit          2D
 
@@ -20617,7 +21665,9 @@ M  END
 CHEMBL379845
 
 > <chembl_pref_name>
-METHYL NICOTINATE $$$$
+METHYL NICOTINATE
+
+$$$$
 
      RDKit          2D
 
@@ -20662,7 +21712,9 @@ M  END
 CHEMBL1201129
 
 > <chembl_pref_name>
-DECITABINE $$$$
+DECITABINE
+
+$$$$
 
      RDKit          2D
 
@@ -20698,7 +21750,9 @@ M  END
 CHEMBL1512677
 
 > <chembl_pref_name>
-AMYLMETACRESOL $$$$
+AMYLMETACRESOL
+
+$$$$
 
      RDKit          2D
 
@@ -20732,7 +21786,9 @@ M  END
 CHEMBL1378024
 
 > <chembl_pref_name>
-PROTIONAMIDE $$$$
+PROTIONAMIDE
+
+$$$$
 
      RDKit          2D
 
@@ -20771,7 +21827,9 @@ M  END
 CHEMBL535396
 
 > <chembl_pref_name>
-RIMANTADINE HYDROCHLORIDE $$$$
+RIMANTADINE HYDROCHLORIDE
+
+$$$$
 
      RDKit          2D
 
@@ -20809,7 +21867,9 @@ M  END
 CHEMBL127516
 
 > <chembl_pref_name>
-BUTAMBEN $$$$
+BUTAMBEN
+
+$$$$
 
      RDKit          2D
 
@@ -20853,7 +21913,9 @@ M  END
 CHEMBL2364609
 
 > <chembl_pref_name>
-ESKETAMINE HYDROCHLORIDE $$$$
+ESKETAMINE HYDROCHLORIDE
+
+$$$$
 
      RDKit          2D
 
@@ -20898,7 +21960,9 @@ M  END
 CHEMBL488
 
 > <chembl_pref_name>
-AMINOGLUTETHIMIDE $$$$
+AMINOGLUTETHIMIDE
+
+$$$$
 
      RDKit          2D
 
@@ -20946,7 +22010,9 @@ M  END
 CHEMBL2105732
 
 > <chembl_pref_name>
-LEVOMILNACIPRAN HYDROCHLORIDE $$$$
+LEVOMILNACIPRAN HYDROCHLORIDE
+
+$$$$
 
      RDKit          2D
 
@@ -20975,7 +22041,9 @@ M  END
 CHEMBL1256
 
 > <chembl_pref_name>
-ISOFLURANE $$$$
+ISOFLURANE
+
+$$$$
 
      RDKit          2D
 
@@ -21027,7 +22095,9 @@ M  END
 CHEMBL12
 
 > <chembl_pref_name>
-DIAZEPAM $$$$
+DIAZEPAM
+
+$$$$
 
      RDKit          2D
 
@@ -21073,7 +22143,9 @@ M  END
 CHEMBL1722
 
 > <chembl_pref_name>
-METHYLPHENIDATE HYDROCHLORIDE $$$$
+METHYLPHENIDATE HYDROCHLORIDE
+
+$$$$
 
      RDKit          2D
 
@@ -21108,7 +22180,9 @@ M  END
 CHEMBL3
 
 > <chembl_pref_name>
-NICOTINE $$$$
+NICOTINE
+
+$$$$
 
      RDKit          2D
 
@@ -21121,7 +22195,9 @@ M  END
 CHEMBL1200572
 
 > <chembl_pref_name>
-MAGNESIUM OXIDE $$$$
+MAGNESIUM OXIDE
+
+$$$$
 
      RDKit          2D
 
@@ -21134,7 +22210,9 @@ M  END
 CHEMBL71595
 
 > <chembl_pref_name>
-HYDROGEN PEROXIDE $$$$
+HYDROGEN PEROXIDE
+
+$$$$
 
      RDKit          2D
 
@@ -21167,7 +22245,9 @@ M  END
 CHEMBL345714
 
 > <chembl_pref_name>
-ACIPIMOX $$$$
+ACIPIMOX
+
+$$$$
 
      RDKit          2D
 
@@ -21232,7 +22312,9 @@ M  END
 CHEMBL1162
 
 > <chembl_pref_name>
-NORETHINDRONE $$$$
+NORETHINDRONE
+
+$$$$
 
      RDKit          2D
 
@@ -21264,7 +22346,9 @@ M  END
 CHEMBL748
 
 > <chembl_pref_name>
-PRALIDOXIME CHLORIDE $$$$
+PRALIDOXIME CHLORIDE
+
+$$$$
 
      RDKit          2D
 
@@ -21289,7 +22373,9 @@ M  END
 CHEMBL1200682
 
 > <chembl_pref_name>
-SODIUM OXYBATE $$$$
+SODIUM OXYBATE
+
+$$$$
 
      RDKit          2D
 
@@ -21322,7 +22408,9 @@ M  END
 CHEMBL1557
 
 > <chembl_pref_name>
-DOPAMINE HYDROCHLORIDE $$$$
+DOPAMINE HYDROCHLORIDE
+
+$$$$
 
      RDKit          2D
 
@@ -21363,7 +22451,9 @@ M  END
 CHEMBL1723241
 
 > <chembl_pref_name>
-SULFACETAMIDE SODIUM $$$$
+SULFACETAMIDE SODIUM
+
+$$$$
 
      RDKit          2D
 
@@ -21402,7 +22492,9 @@ M  END
 CHEMBL224325
 
 > <chembl_pref_name>
-CHLORQUINALDOL $$$$
+CHLORQUINALDOL
+
+$$$$
 
      RDKit          2D
 
@@ -21449,7 +22541,9 @@ M  END
 CHEMBL1200338
 
 > <chembl_pref_name>
-PINACIDIL $$$$
+PINACIDIL
+
+$$$$
 
      RDKit          2D
 
@@ -21495,7 +22589,9 @@ M  END
 CHEMBL1159
 
 > <chembl_pref_name>
-PINACIDIL $$$$
+PINACIDIL
+
+$$$$
 
      RDKit          2D
 
@@ -21543,7 +22639,9 @@ M  END
 CHEMBL973
 
 > <chembl_pref_name>
-TERIFLUNOMIDE $$$$
+TERIFLUNOMIDE
+
+$$$$
 
      RDKit          2D
 
@@ -21564,7 +22662,9 @@ M  END
 CHEMBL3833314
 
 > <chembl_pref_name>
-ALUMINUM CHLORIDE $$$$
+ALUMINUM CHLORIDE
+
+$$$$
 
      RDKit          2D
 
@@ -21621,7 +22721,9 @@ M  END
 CHEMBL46
 
 > <chembl_pref_name>
-ONDANSETRON $$$$
+ONDANSETRON
+
+$$$$
 
      RDKit          2D
 
@@ -21660,7 +22762,9 @@ M  END
 CHEMBL1355
 
 > <chembl_pref_name>
-SODIUM CITRATE $$$$
+SODIUM CITRATE
+
+$$$$
 
      RDKit          2D
 
@@ -21705,7 +22809,9 @@ M  END
 CHEMBL1200944
 
 > <chembl_pref_name>
-SULBACTAM SODIUM $$$$
+SULBACTAM SODIUM
+
+$$$$
 
      RDKit          2D
 
@@ -21756,7 +22862,9 @@ M  END
 CHEMBL1407915
 
 > <chembl_pref_name>
-NEFOPAM HYDROCHLORIDE $$$$
+NEFOPAM HYDROCHLORIDE
+
+$$$$
 
      RDKit          2D
 
@@ -21795,7 +22903,9 @@ M  END
 CHEMBL12856
 
 > <chembl_pref_name>
-INAMRINONE $$$$
+INAMRINONE
+
+$$$$
 
      RDKit          2D
 
@@ -21835,7 +22945,9 @@ M  END
 CHEMBL1454
 
 > <chembl_pref_name>
-LEVAMISOLE $$$$
+LEVAMISOLE
+
+$$$$
 
      RDKit          2D
 
@@ -21885,7 +22997,9 @@ M  END
 CHEMBL1323699
 
 > <chembl_pref_name>
-PADIMATE O $$$$
+PADIMATE O
+
+$$$$
 
      RDKit          2D
 
@@ -21928,7 +23042,9 @@ M  END
 CHEMBL1200748
 
 > <chembl_pref_name>
-CARBIDOPA $$$$
+CARBIDOPA
+
+$$$$
 
      RDKit          2D
 
@@ -21973,7 +23089,9 @@ M  END
 CHEMBL842
 
 > <chembl_pref_name>
-CHLOROTHIAZIDE $$$$
+CHLOROTHIAZIDE
+
+$$$$
 
      RDKit          2D
 
@@ -21999,7 +23117,9 @@ M  END
 CHEMBL1757
 
 > <chembl_pref_name>
-FOSFOMYCIN $$$$
+FOSFOMYCIN
+
+$$$$
 
      RDKit          2D
 
@@ -22044,7 +23164,9 @@ M  END
 CHEMBL849
 
 > <chembl_pref_name>
-TRICLOSAN $$$$
+TRICLOSAN
+
+$$$$
 
      RDKit          2D
 
@@ -22088,7 +23210,9 @@ M  END
 CHEMBL1908307
 
 > <chembl_pref_name>
-FLOSEQUINAN $$$$
+FLOSEQUINAN
+
+$$$$
 
      RDKit          2D
 
@@ -22126,7 +23250,9 @@ M  END
 CHEMBL420
 
 > <chembl_pref_name>
-GUANABENZ $$$$
+GUANABENZ
+
+$$$$
 
      RDKit          2D
 
@@ -22166,7 +23292,9 @@ M  END
 CHEMBL776
 
 > <chembl_pref_name>
-METAPROTERENOL $$$$
+METAPROTERENOL
+
+$$$$
 
      RDKit          2D
 
@@ -22211,7 +23339,9 @@ M  END
 CHEMBL1200841
 
 > <chembl_pref_name>
-PROCAINE HYDROCHLORIDE $$$$
+PROCAINE HYDROCHLORIDE
+
+$$$$
 
      RDKit          2D
 
@@ -22260,7 +23390,9 @@ M  END
 CHEMBL446
 
 > <chembl_pref_name>
-SULFAMETHAZINE $$$$
+SULFAMETHAZINE
+
+$$$$
 
      RDKit          2D
 
@@ -22312,7 +23444,9 @@ M  END
 CHEMBL1474963
 
 > <chembl_pref_name>
-BENZARONE $$$$
+BENZARONE
+
+$$$$
 
      RDKit          2D
 
@@ -22361,7 +23495,9 @@ M  END
 CHEMBL277522
 
 > <chembl_pref_name>
-FENBUFEN $$$$
+FENBUFEN
+
+$$$$
 
      RDKit          2D
 
@@ -22380,7 +23516,9 @@ M  END
 CHEMBL1200539
 
 > <chembl_pref_name>
-CALCIUM CARBONATE $$$$
+CALCIUM CARBONATE
+
+$$$$
 
      RDKit          2D
 
@@ -22431,7 +23569,9 @@ M  END
 CHEMBL1129
 
 > <chembl_pref_name>
-TRIFLURIDINE $$$$
+TRIFLURIDINE
+
+$$$$
 
      RDKit          2D
 
@@ -22486,7 +23626,9 @@ M  END
 CHEMBL1256841
 
 > <chembl_pref_name>
-NIALAMIDE $$$$
+NIALAMIDE
+
+$$$$
 
      RDKit          2D
 
@@ -22540,7 +23682,9 @@ M  END
 CHEMBL311498
 
 > <chembl_pref_name>
-CIANIDANOL $$$$
+CIANIDANOL
+
+$$$$
 
      RDKit          2D
 
@@ -22579,7 +23723,9 @@ M  END
 CHEMBL1594
 
 > <chembl_pref_name>
-PANTOTHENIC ACID $$$$
+PANTOTHENIC ACID
+
+$$$$
 
      RDKit          2D
 
@@ -22621,7 +23767,9 @@ M  END
 CHEMBL1200330
 
 > <chembl_pref_name>
-PILOCARPINE HYDROCHLORIDE $$$$
+PILOCARPINE HYDROCHLORIDE
+
+$$$$
 
      RDKit          2D
 
@@ -22668,7 +23816,9 @@ M  END
 CHEMBL3237547
 
 > <chembl_pref_name>
-CEDAZURIDINE $$$$
+CEDAZURIDINE
+
+$$$$
 
      RDKit          2D
 
@@ -22712,7 +23862,9 @@ M  END
 CHEMBL569
 
 > <chembl_pref_name>
-PROCAINE $$$$
+PROCAINE
+
+$$$$
 
      RDKit          2D
 
@@ -22771,7 +23923,9 @@ M  END
 CHEMBL135
 
 > <chembl_pref_name>
-ESTRADIOL $$$$
+ESTRADIOL
+
+$$$$
 
      RDKit          2D
 
@@ -22824,7 +23978,9 @@ M  END
 CHEMBL1200332
 
 > <chembl_pref_name>
-PROTRIPTYLINE HYDROCHLORIDE $$$$
+PROTRIPTYLINE HYDROCHLORIDE
+
+$$$$
 
      RDKit          2D
 
@@ -22870,7 +24026,9 @@ M  END
 CHEMBL1200903
 
 > <chembl_pref_name>
-SECOBARBITAL SODIUM $$$$
+SECOBARBITAL SODIUM
+
+$$$$
 
      RDKit          2D
 
@@ -22905,7 +24063,9 @@ M  END
 CHEMBL2142890
 
 > <chembl_pref_name>
-ACEGLUMATE $$$$
+ACEGLUMATE
+
+$$$$
 
      RDKit          2D
 
@@ -22944,7 +24104,9 @@ M  END
 CHEMBL1697751
 
 > <chembl_pref_name>
-ISAXONINE PHOSPHATE $$$$
+ISAXONINE PHOSPHATE
+
+$$$$
 
      RDKit          2D
 
@@ -22990,7 +24152,9 @@ M  END
 CHEMBL1190
 
 > <chembl_pref_name>
-DECAMETHONIUM $$$$
+DECAMETHONIUM
+
+$$$$
 
      RDKit          2D
 
@@ -23024,7 +24188,9 @@ M  END
 CHEMBL1286
 
 > <chembl_pref_name>
-LEVETIRACETAM $$$$
+LEVETIRACETAM
+
+$$$$
 
      RDKit          2D
 
@@ -23039,7 +24205,9 @@ M  END
 CHEMBL1161681
 
 > <chembl_pref_name>
-NITROUS ACID $$$$
+NITROUS ACID
+
+$$$$
 
      RDKit          2D
 
@@ -23091,7 +24259,9 @@ M  END
 CHEMBL445
 
 > <chembl_pref_name>
-NORTRIPTYLINE $$$$
+NORTRIPTYLINE
+
+$$$$
 
      RDKit          2D
 
@@ -23121,7 +24291,9 @@ M  END
 CHEMBL1089
 
 > <chembl_pref_name>
-PHENELZINE $$$$
+PHENELZINE
+
+$$$$
 
      RDKit          2D
 
@@ -23158,7 +24330,9 @@ M  END
 CHEMBL820
 
 > <chembl_pref_name>
-BUSULFAN $$$$
+BUSULFAN
+
+$$$$
 
      RDKit          2D
 
@@ -23208,7 +24382,9 @@ M  END
 CHEMBL110
 
 > <chembl_pref_name>
-BENZNIDAZOLE $$$$
+BENZNIDAZOLE
+
+$$$$
 
      RDKit          2D
 
@@ -23258,7 +24434,9 @@ M  END
 CHEMBL282052
 
 > <chembl_pref_name>
-METHAQUALONE $$$$
+METHAQUALONE
+
+$$$$
 
      RDKit          2D
 
@@ -23298,7 +24476,9 @@ M  END
 CHEMBL1987462
 
 > <chembl_pref_name>
-BAMETHAN $$$$
+BAMETHAN
+
+$$$$
 
      RDKit          2D
 
@@ -23339,7 +24519,9 @@ M  END
 CHEMBL853
 
 > <chembl_pref_name>
-ZALCITABINE $$$$
+ZALCITABINE
+
+$$$$
 
      RDKit          2D
 
@@ -23371,7 +24553,9 @@ M  END
 CHEMBL1149
 
 > <chembl_pref_name>
-LEVOCARNITINE $$$$
+LEVOCARNITINE
+
+$$$$
 
      RDKit          2D
 
@@ -23425,7 +24609,9 @@ M  END
 CHEMBL1185
 
 > <chembl_pref_name>
-ZOLMITRIPTAN $$$$
+ZOLMITRIPTAN
+
+$$$$
 
      RDKit          2D
 
@@ -23478,7 +24664,9 @@ M  END
 CHEMBL191083
 
 > <chembl_pref_name>
-METHYLENE BLUE $$$$
+METHYLENE BLUE
+
+$$$$
 
      RDKit          2D
 
@@ -23510,7 +24698,9 @@ M  END
 CHEMBL59
 
 > <chembl_pref_name>
-DOPAMINE $$$$
+DOPAMINE
+
+$$$$
 
      RDKit          2D
 
@@ -23521,7 +24711,9 @@ M  END
 CHEMBL1160819
 
 > <chembl_pref_name>
-AMMONIA SOLUTION, STRONG $$$$
+AMMONIA SOLUTION, STRONG
+
+$$$$
 
      RDKit          2D
 
@@ -23543,7 +24735,9 @@ M  END
 CHEMBL2021424
 
 > <chembl_pref_name>
-POTASSIUM SULFATE $$$$
+POTASSIUM SULFATE
+
+$$$$
 
      RDKit          2D
 
@@ -23583,7 +24777,9 @@ M  END
 CHEMBL945
 
 > <chembl_pref_name>
-AMILORIDE $$$$
+AMILORIDE
+
+$$$$
 
      RDKit          2D
 
@@ -23629,7 +24825,9 @@ M  END
 CHEMBL1201198
 
 > <chembl_pref_name>
-PEMIROLAST $$$$
+PEMIROLAST
+
+$$$$
 
      RDKit          2D
 
@@ -23685,7 +24883,9 @@ M  END
 CHEMBL1444
 
 > <chembl_pref_name>
-LETROZOLE $$$$
+LETROZOLE
+
+$$$$
 
      RDKit          2D
 
@@ -23734,7 +24934,9 @@ M  END
 CHEMBL806
 
 > <chembl_pref_name>
-FLUTAMIDE $$$$
+FLUTAMIDE
+
+$$$$
 
      RDKit          2D
 
@@ -23770,7 +24972,9 @@ M  END
 CHEMBL918
 
 > <chembl_pref_name>
-PHENACEMIDE $$$$
+PHENACEMIDE
+
+$$$$
 
      RDKit          2D
 
@@ -23821,7 +25025,9 @@ M  END
 CHEMBL411
 
 > <chembl_pref_name>
-DIETHYLSTILBESTROL $$$$
+DIETHYLSTILBESTROL
+
+$$$$
 
      RDKit          2D
 
@@ -23834,7 +25040,9 @@ M  END
 CHEMBL3988900
 
 > <chembl_pref_name>
-ZINC OXIDE $$$$
+ZINC OXIDE
+
+$$$$
 
      RDKit          2D
 
@@ -23897,7 +25105,9 @@ M  END
 CHEMBL1387
 
 > <chembl_pref_name>
-NORETHYNODREL $$$$
+NORETHYNODREL
+
+$$$$
 
      RDKit          2D
 
@@ -23937,7 +25147,9 @@ M  END
 CHEMBL1488
 
 > <chembl_pref_name>
-URACIL MUSTARD $$$$
+URACIL MUSTARD
+
+$$$$
 
      RDKit          2D
 
@@ -23965,7 +25177,9 @@ M  END
 CHEMBL1463
 
 > <chembl_pref_name>
-FLUCYTOSINE $$$$
+FLUCYTOSINE
+
+$$$$
 
      RDKit          2D
 
@@ -24005,7 +25219,9 @@ M  END
 CHEMBL434
 
 > <chembl_pref_name>
-ISOPROTERENOL $$$$
+ISOPROTERENOL
+
+$$$$
 
      RDKit          2D
 
@@ -24037,7 +25253,9 @@ M  END
 CHEMBL1518
 
 > <chembl_pref_name>
-PROPYLTHIOURACIL $$$$
+PROPYLTHIOURACIL
+
+$$$$
 
      RDKit          2D
 
@@ -24083,7 +25301,9 @@ M  END
 CHEMBL1208646
 
 > <chembl_pref_name>
-THEOPHYLLINE GLYCINATE $$$$
+THEOPHYLLINE GLYCINATE
+
+$$$$
 
      RDKit          2D
 
@@ -24132,7 +25352,9 @@ M  END
 CHEMBL139
 
 > <chembl_pref_name>
-DICLOFENAC $$$$
+DICLOFENAC
+
+$$$$
 
      RDKit          2D
 
@@ -24176,7 +25398,9 @@ M  END
 CHEMBL2104095
 
 > <chembl_pref_name>
-CHOLINE SALICYLATE $$$$
+CHOLINE SALICYLATE
+
+$$$$
 
      RDKit          2D
 
@@ -24191,7 +25415,9 @@ M  END
 CHEMBL1200625
 
 > <chembl_pref_name>
-STRONTIUM CHLORIDE SR 89 $$$$
+STRONTIUM CHLORIDE SR 89
+
+$$$$
 
      RDKit          2D
 
@@ -24246,7 +25472,9 @@ M  END
 CHEMBL412873
 
 > <chembl_pref_name>
-SPARTEINE $$$$
+SPARTEINE
+
+$$$$
 
      RDKit          2D
 
@@ -24294,7 +25522,9 @@ M  END
 CHEMBL13
 
 > <chembl_pref_name>
-METOPROLOL $$$$
+METOPROLOL
+
+$$$$
 
      RDKit          2D
 
@@ -24320,7 +25550,9 @@ M  END
 CHEMBL1200928
 
 > <chembl_pref_name>
-ZINC ACETATE $$$$
+ZINC ACETATE
+
+$$$$
 
      RDKit          2D
 
@@ -24368,7 +25600,9 @@ M  END
 CHEMBL6622
 
 > <chembl_pref_name>
-ISOSORBIDE DINITRATE $$$$
+ISOSORBIDE DINITRATE
+
+$$$$
 
      RDKit          2D
 
@@ -24394,7 +25628,9 @@ M  END
 CHEMBL95889
 
 > <chembl_pref_name>
-BETAINE $$$$
+BETAINE
+
+$$$$
 
      RDKit          2D
 
@@ -24445,7 +25681,9 @@ M  END
 CHEMBL1106
 
 > <chembl_pref_name>
-EPINASTINE $$$$
+EPINASTINE
+
+$$$$
 
      RDKit          2D
 
@@ -24464,7 +25702,9 @@ M  END
 CHEMBL16080
 
 > <chembl_pref_name>
-TRICHLOROETHANE $$$$
+TRICHLOROETHANE
+
+$$$$
 
      RDKit          2D
 
@@ -24514,7 +25754,9 @@ M  END
 CHEMBL1218
 
 > <chembl_pref_name>
-RAMELTEON $$$$
+RAMELTEON
+
+$$$$
 
      RDKit          2D
 
@@ -24578,7 +25820,9 @@ M  END
 CHEMBL1457
 
 > <chembl_pref_name>
-HYDROCODONE $$$$
+HYDROCODONE
+
+$$$$
 
      RDKit          2D
 
@@ -24616,7 +25860,9 @@ M  END
 CHEMBL168815
 
 > <chembl_pref_name>
-CEVIMELINE $$$$
+CEVIMELINE
+
+$$$$
 
      RDKit          2D
 
@@ -24647,7 +25893,9 @@ M  END
 CHEMBL3707334
 
 > <chembl_pref_name>
-PERBORIC ACID $$$$
+PERBORIC ACID
+
+$$$$
 
      RDKit          2D
 
@@ -24700,7 +25948,9 @@ M  END
 CHEMBL83063
 
 > <chembl_pref_name>
-RITODRINE $$$$
+RITODRINE
+
+$$$$
 
      RDKit          2D
 
@@ -24752,7 +26002,9 @@ M  END
 CHEMBL3183184
 
 > <chembl_pref_name>
-OCTINOXATE $$$$
+OCTINOXATE
+
+$$$$
 
      RDKit          2D
 
@@ -24788,7 +26040,9 @@ M  END
 CHEMBL925
 
 > <chembl_pref_name>
-TYROSINE $$$$
+TYROSINE
+
+$$$$
 
      RDKit          2D
 
@@ -24837,7 +26091,9 @@ M  END
 CHEMBL1237044
 
 > <chembl_pref_name>
-TRAMADOL $$$$
+TRAMADOL
+
+$$$$
 
      RDKit          2D
 
@@ -24890,7 +26146,9 @@ M  END
 CHEMBL3187365
 
 > <chembl_pref_name>
-ASENAPINE $$$$
+ASENAPINE
+
+$$$$
 
      RDKit          2D
 
@@ -24938,7 +26196,9 @@ M  END
 CHEMBL4297064
 
 > <chembl_pref_name>
-MILNACIPRAN HYDROCHLORIDE $$$$
+MILNACIPRAN HYDROCHLORIDE
+
+$$$$
 
      RDKit          2D
 
@@ -24976,7 +26236,9 @@ M  END
 CHEMBL341812
 
 > <chembl_pref_name>
-IBUFENAC $$$$
+IBUFENAC
+
+$$$$
 
      RDKit          2D
 
@@ -25014,7 +26276,9 @@ M  END
 CHEMBL972
 
 > <chembl_pref_name>
-SELEGILINE $$$$
+SELEGILINE
+
+$$$$
 
      RDKit          2D
 
@@ -25031,7 +26295,9 @@ M  END
 CHEMBL42403
 
 > <chembl_pref_name>
-BORIC ACID $$$$
+BORIC ACID
+
+$$$$
 
      RDKit          2D
 
@@ -25069,7 +26335,9 @@ M  END
 CHEMBL959
 
 > <chembl_pref_name>
-RIMANTADINE $$$$
+RIMANTADINE
+
+$$$$
 
      RDKit          2D
 
@@ -25090,7 +26358,9 @@ M  END
 CHEMBL1200929
 
 > <chembl_pref_name>
-ZINC SULFATE $$$$
+ZINC SULFATE
+
+$$$$
 
      RDKit          2D
 
@@ -25119,7 +26389,9 @@ M  END
 CHEMBL600
 
 > <chembl_pref_name>
-ACETYLCYSTEINE $$$$
+ACETYLCYSTEINE
+
+$$$$
 
      RDKit          2D
 
@@ -25164,7 +26436,9 @@ M  END
 CHEMBL1200759
 
 > <chembl_pref_name>
-ANAGRELIDE HYDROCHLORIDE $$$$
+ANAGRELIDE HYDROCHLORIDE
+
+$$$$
 
      RDKit          2D
 
@@ -25194,7 +26468,9 @@ M  END
 CHEMBL695
 
 > <chembl_pref_name>
-TRIMETHADIONE $$$$
+TRIMETHADIONE
+
+$$$$
 
      RDKit          2D
 
@@ -25221,7 +26497,9 @@ M  END
 CHEMBL1046
 
 > <chembl_pref_name>
-AMINOCAPROIC ACID $$$$
+AMINOCAPROIC ACID
+
+$$$$
 
      RDKit          2D
 
@@ -25269,7 +26547,9 @@ M  END
 CHEMBL3544906
 
 > <chembl_pref_name>
-BENZPHETAMINE HYDROCHLORIDE $$$$
+BENZPHETAMINE HYDROCHLORIDE
+
+$$$$
 
      RDKit          2D
 
@@ -25297,7 +26577,9 @@ M  END
 CHEMBL544
 
 > <chembl_pref_name>
-MEQUINOL $$$$
+MEQUINOL
+
+$$$$
 
      RDKit          2D
 
@@ -25345,7 +26627,9 @@ M  END
 CHEMBL2104793
 
 > <chembl_pref_name>
-PYROVALERONE HYDROCHLORIDE $$$$
+PYROVALERONE HYDROCHLORIDE
+
+$$$$
 
      RDKit          2D
 
@@ -25394,7 +26678,9 @@ M  END
 CHEMBL505
 
 > <chembl_pref_name>
-CHLORPHENIRAMINE $$$$
+CHLORPHENIRAMINE
+
+$$$$
 
      RDKit          2D
 
@@ -25426,7 +26712,9 @@ M  END
 CHEMBL1200751
 
 > <chembl_pref_name>
-MERCAPTOPURINE $$$$
+MERCAPTOPURINE
+
+$$$$
 
      RDKit          2D
 
@@ -25483,7 +26771,9 @@ M  END
 CHEMBL1110
 
 > <chembl_pref_name>
-ALOSETRON $$$$
+ALOSETRON
+
+$$$$
 
      RDKit          2D
 
@@ -25528,7 +26818,9 @@ M  END
 CHEMBL435
 
 > <chembl_pref_name>
-HYDROCHLOROTHIAZIDE $$$$
+HYDROCHLOROTHIAZIDE
+
+$$$$
 
      RDKit          2D
 
@@ -25556,7 +26848,9 @@ M  END
 CHEMBL185
 
 > <chembl_pref_name>
-FLUOROURACIL $$$$
+FLUOROURACIL
+
+$$$$
 
      RDKit          2D
 
@@ -25601,7 +26895,9 @@ M  END
 CHEMBL249856
 
 > <chembl_pref_name>
-ENOXIMONE $$$$
+ENOXIMONE
+
+$$$$
 
      RDKit          2D
 
@@ -25640,7 +26936,9 @@ M  END
 CHEMBL979
 
 > <chembl_pref_name>
-MEPROBAMATE $$$$
+MEPROBAMATE
+
+$$$$
 
      RDKit          2D
 
@@ -25675,7 +26973,9 @@ M  END
 CHEMBL834
 
 > <chembl_pref_name>
-PAMIDRONIC ACID $$$$
+PAMIDRONIC ACID
+
+$$$$
 
      RDKit          2D
 
@@ -25700,7 +27000,9 @@ M  END
 CHEMBL503160
 
 > <chembl_pref_name>
-FUMARIC ACID $$$$
+FUMARIC ACID
+
+$$$$
 
      RDKit          2D
 
@@ -25740,7 +27042,9 @@ M  END
 CHEMBL2103827
 
 > <chembl_pref_name>
-DROXIDOPA $$$$
+DROXIDOPA
+
+$$$$
 
      RDKit          2D
 
@@ -25787,7 +27091,9 @@ M  END
 CHEMBL438
 
 > <chembl_pref_name>
-SULFAMERAZINE $$$$
+SULFAMERAZINE
+
+$$$$
 
      RDKit          2D
 
@@ -25842,7 +27148,9 @@ M  END
 CHEMBL21731
 
 > <chembl_pref_name>
-MAPROTILINE $$$$
+MAPROTILINE
+
+$$$$
 
      RDKit          2D
 
@@ -25875,7 +27183,9 @@ M  END
 CHEMBL1485
 
 > <chembl_pref_name>
-ARGININE $$$$
+ARGININE
+
+$$$$
 
      RDKit          2D
 
@@ -25906,7 +27216,9 @@ M  END
 CHEMBL39736
 
 > <chembl_pref_name>
-BUFORMIN $$$$
+BUFORMIN
+
+$$$$
 
      RDKit          2D
 
@@ -25933,7 +27245,9 @@ M  END
 CHEMBL1430
 
 > <chembl_pref_name>
-PENICILLAMINE $$$$
+PENICILLAMINE
+
+$$$$
 
      RDKit          2D
 
@@ -25988,7 +27302,9 @@ M  END
 CHEMBL148
 
 > <chembl_pref_name>
-IMIPENEM $$$$
+IMIPENEM
+
+$$$$
 
      RDKit          2D
 
@@ -26022,7 +27338,9 @@ M  END
 CHEMBL278172
 
 > <chembl_pref_name>
-BENZOCAINE $$$$
+BENZOCAINE
+
+$$$$
 
      RDKit          2D
 
@@ -26078,7 +27396,9 @@ M  END
 CHEMBL685
 
 > <chembl_pref_name>
-MEBENDAZOLE $$$$
+MEBENDAZOLE
+
+$$$$
 
      RDKit          2D
 
@@ -26129,7 +27449,9 @@ M  END
 CHEMBL1542
 
 > <chembl_pref_name>
-AZATHIOPRINE $$$$
+AZATHIOPRINE
+
+$$$$
 
      RDKit          2D
 
@@ -26174,7 +27496,9 @@ M  END
 CHEMBL5
 
 > <chembl_pref_name>
-NALIDIXIC ACID $$$$
+NALIDIXIC ACID
+
+$$$$
 
      RDKit          2D
 
@@ -26222,7 +27546,9 @@ M  END
 CHEMBL53418
 
 > <chembl_pref_name>
-DANTHRON $$$$
+DANTHRON
+
+$$$$
 
      RDKit          2D
 
@@ -26246,7 +27572,9 @@ M  END
 CHEMBL771
 
 > <chembl_pref_name>
-CYCLOSERINE $$$$
+CYCLOSERINE
+
+$$$$
 
      RDKit          2D
 
@@ -26307,7 +27635,9 @@ M  END
 CHEMBL90593
 
 > <chembl_pref_name>
-PRASTERONE $$$$
+PRASTERONE
+
+$$$$
 
      RDKit          2D
 
@@ -26352,7 +27682,9 @@ M  END
 CHEMBL1625
 
 > <chembl_pref_name>
-OXYBENZONE $$$$
+OXYBENZONE
+
+$$$$
 
      RDKit          2D
 
@@ -26386,7 +27718,9 @@ M  END
 CHEMBL33864
 
 > <chembl_pref_name>
-LIPOIC ACID, ALPHA $$$$
+LIPOIC ACID, ALPHA
+
+$$$$
 
      RDKit          2D
 
@@ -26449,7 +27783,9 @@ M  END
 CHEMBL1200374
 
 > <chembl_pref_name>
-EXEMESTANE $$$$
+EXEMESTANE
+
+$$$$
 
      RDKit          2D
 
@@ -26466,7 +27802,9 @@ M  END
 CHEMBL985
 
 > <chembl_pref_name>
-UREA $$$$
+UREA
+
+$$$$
 
      RDKit          2D
 
@@ -26501,7 +27839,9 @@ M  END
 CHEMBL1201780
 
 > <chembl_pref_name>
-CARGLUMIC ACID $$$$
+CARGLUMIC ACID
+
+$$$$
 
      RDKit          2D
 
@@ -26533,7 +27873,9 @@ M  END
 CHEMBL1609
 
 > <chembl_pref_name>
-MANDELIC ACID $$$$
+MANDELIC ACID
+
+$$$$
 
      RDKit          2D
 
@@ -26581,7 +27923,9 @@ M  END
 CHEMBL1701
 
 > <chembl_pref_name>
-MEPERIDINE HYDROCHLORIDE $$$$
+MEPERIDINE HYDROCHLORIDE
+
+$$$$
 
      RDKit          2D
 
@@ -26630,7 +27974,9 @@ M  END
 CHEMBL1241
 
 > <chembl_pref_name>
-TRIPELENNAMINE $$$$
+TRIPELENNAMINE
+
+$$$$
 
      RDKit          2D
 
@@ -26657,7 +28003,9 @@ M  END
 CHEMBL1455497
 
 > <chembl_pref_name>
-MALIC ACID $$$$
+MALIC ACID
+
+$$$$
 
      RDKit          2D
 
@@ -26675,7 +28023,9 @@ M  END
 CHEMBL2096648
 
 > <chembl_pref_name>
-UREA C 13 $$$$
+UREA C 13
+
+$$$$
 
      RDKit          2D
 
@@ -26704,7 +28054,9 @@ M  END
 CHEMBL1697841
 
 > <chembl_pref_name>
-ISOMETHEPTENE $$$$
+ISOMETHEPTENE
+
+$$$$
 
      RDKit          2D
 
@@ -26751,7 +28103,9 @@ M  END
 CHEMBL1532
 
 > <chembl_pref_name>
-QUINETHAZONE $$$$
+QUINETHAZONE
+
+$$$$
 
      RDKit          2D
 
@@ -26797,7 +28151,9 @@ M  END
 CHEMBL1651906
 
 > <chembl_pref_name>
-STREPTOZOCIN $$$$
+STREPTOZOCIN
+
+$$$$
 
      RDKit          2D
 
@@ -26835,7 +28191,9 @@ M  END
 CHEMBL4594393
 
 > <chembl_pref_name>
-CALCIUM OXYBATE $$$$
+CALCIUM OXYBATE
+
+$$$$
 
      RDKit          2D
 
@@ -26877,7 +28235,9 @@ M  END
 CHEMBL1200982
 
 > <chembl_pref_name>
-BUTABARBITAL SODIUM $$$$
+BUTABARBITAL SODIUM
+
+$$$$
 
      RDKit          2D
 
@@ -26934,7 +28294,9 @@ M  END
 CHEMBL52440
 
 > <chembl_pref_name>
-DEXTROMETHORPHAN $$$$
+DEXTROMETHORPHAN
+
+$$$$
 
      RDKit          2D
 
@@ -26987,7 +28349,9 @@ M  END
 CHEMBL363295
 
 > <chembl_pref_name>
-TERODILINE $$$$
+TERODILINE
+
+$$$$
 
      RDKit          2D
 
@@ -27049,7 +28413,9 @@ M  END
 CHEMBL398707
 
 > <chembl_pref_name>
-HYDROMORPHONE $$$$
+HYDROMORPHONE
+
+$$$$
 
      RDKit          2D
 
@@ -27097,7 +28463,9 @@ M  END
 CHEMBL1200874
 
 > <chembl_pref_name>
-TOLBUTAMIDE SODIUM, STERILE $$$$
+TOLBUTAMIDE SODIUM, STERILE
+
+$$$$
 
      RDKit          2D
 
@@ -27150,7 +28518,9 @@ M  END
 CHEMBL6437
 
 > <chembl_pref_name>
-MIANSERIN $$$$
+MIANSERIN
+
+$$$$
 
      RDKit          2D
 
@@ -27201,7 +28571,9 @@ M  END
 CHEMBL462605
 
 > <chembl_pref_name>
-PITOLISANT $$$$
+PITOLISANT
+
+$$$$
 
      RDKit          2D
 
@@ -27253,7 +28625,9 @@ M  END
 CHEMBL668
 
 > <chembl_pref_name>
-PROTRIPTYLINE $$$$
+PROTRIPTYLINE
+
+$$$$
 
      RDKit          2D
 
@@ -27302,7 +28676,9 @@ M  END
 CHEMBL1200387
 
 > <chembl_pref_name>
-AMPHETAMINE ADIPATE $$$$
+AMPHETAMINE ADIPATE
+
+$$$$
 
      RDKit          2D
 
@@ -27355,7 +28731,9 @@ M  END
 CHEMBL1301
 
 > <chembl_pref_name>
-HYDROXYSTILBAMIDINE $$$$
+HYDROXYSTILBAMIDINE
+
+$$$$
 
      RDKit          2D
 
@@ -27405,7 +28783,9 @@ M  END
 CHEMBL579205
 
 > <chembl_pref_name>
-FLUTEMETAMOL $$$$
+FLUTEMETAMOL
+
+$$$$
 
      RDKit          2D
 
@@ -27454,7 +28834,9 @@ M  END
 CHEMBL1197
 
 > <chembl_pref_name>
-HEXYLCAINE $$$$
+HEXYLCAINE
+
+$$$$
 
      RDKit          2D
 
@@ -27484,7 +28866,9 @@ M  END
 CHEMBL1255943
 
 > <chembl_pref_name>
-GLUTAMIC ACID HYDROCHLORIDE $$$$
+GLUTAMIC ACID HYDROCHLORIDE
+
+$$$$
 
      RDKit          2D
 
@@ -27515,7 +28899,9 @@ M  END
 CHEMBL1184
 
 > <chembl_pref_name>
-ACETYLCHOLINE CHLORIDE $$$$
+ACETYLCHOLINE CHLORIDE
+
+$$$$
 
      RDKit          2D
 
@@ -27538,7 +28924,9 @@ M  END
 CHEMBL931
 
 > <chembl_pref_name>
-HALOTHANE $$$$
+HALOTHANE
+
+$$$$
 
      RDKit          2D
 
@@ -27575,7 +28963,9 @@ M  END
 CHEMBL498847
 
 > <chembl_pref_name>
-SECNIDAZOLE $$$$
+SECNIDAZOLE
+
+$$$$
 
      RDKit          2D
 
@@ -27625,7 +29015,9 @@ M  END
 CHEMBL1068
 
 > <chembl_pref_name>
-OXCARBAZEPINE $$$$
+OXCARBAZEPINE
+
+$$$$
 
      RDKit          2D
 
@@ -27673,7 +29065,9 @@ M  END
 CHEMBL1256400
 
 > <chembl_pref_name>
-XYLOMETAZOLINE HYDROCHLORIDE $$$$
+XYLOMETAZOLINE HYDROCHLORIDE
+
+$$$$
 
      RDKit          2D
 
@@ -27722,7 +29116,9 @@ M  END
 CHEMBL1200359
 
 > <chembl_pref_name>
-SULFAMETER $$$$
+SULFAMETER
+
+$$$$
 
      RDKit          2D
 
@@ -27739,7 +29135,9 @@ M  END
 CHEMBL457299
 
 > <chembl_pref_name>
-MACROGOL $$$$
+MACROGOL
+
+$$$$
 
      RDKit          2D
 
@@ -27765,7 +29163,9 @@ M  END
 CHEMBL1200691
 
 > <chembl_pref_name>
-MAGNESIUM ACETATE $$$$
+MAGNESIUM ACETATE
+
+$$$$
 
      RDKit          2D
 
@@ -27802,7 +29202,9 @@ M  END
 CHEMBL870
 
 > <chembl_pref_name>
-ALENDRONIC ACID $$$$
+ALENDRONIC ACID
+
+$$$$
 
      RDKit          2D
 
@@ -27831,7 +29233,9 @@ M  END
 CHEMBL2107333
 
 > <chembl_pref_name>
-DIMETHYL FUMARATE $$$$
+DIMETHYL FUMARATE
+
+$$$$
 
      RDKit          2D
 
@@ -27885,7 +29289,9 @@ M  END
 CHEMBL1201112
 
 > <chembl_pref_name>
-NELARABINE $$$$
+NELARABINE
+
+$$$$
 
      RDKit          2D
 
@@ -27910,7 +29316,9 @@ M  END
 CHEMBL1341
 
 > <chembl_pref_name>
-METHOXYFLURANE $$$$
+METHOXYFLURANE
+
+$$$$
 
      RDKit          2D
 
@@ -27946,7 +29354,9 @@ M  END
 CHEMBL2062263
 
 > <chembl_pref_name>
-CYSTEAMINE BITARTRATE $$$$
+CYSTEAMINE BITARTRATE
+
+$$$$
 
      RDKit          2D
 
@@ -27988,7 +29398,9 @@ M  END
 CHEMBL454
 
 > <chembl_pref_name>
-BUTALBITAL $$$$
+BUTALBITAL
+
+$$$$
 
      RDKit          2D
 
@@ -28006,7 +29418,9 @@ M  END
 CHEMBL1200728
 
 > <chembl_pref_name>
-GUANIDINE HYDROCHLORIDE $$$$
+GUANIDINE HYDROCHLORIDE
+
+$$$$
 
      RDKit          2D
 
@@ -28044,7 +29458,9 @@ M  END
 CHEMBL1200814
 
 > <chembl_pref_name>
-ACETAZOLAMIDE SODIUM $$$$
+ACETAZOLAMIDE SODIUM
+
+$$$$
 
      RDKit          2D
 
@@ -28089,7 +29505,9 @@ M  END
 CHEMBL1201061
 
 > <chembl_pref_name>
-LEVALBUTEROL HYDROCHLORIDE $$$$
+LEVALBUTEROL HYDROCHLORIDE
+
+$$$$
 
      RDKit          2D
 
@@ -28136,7 +29554,9 @@ M  END
 CHEMBL681
 
 > <chembl_pref_name>
-ETOMIDATE $$$$
+ETOMIDATE
+
+$$$$
 
      RDKit          2D
 
@@ -28181,7 +29601,9 @@ M  END
 CHEMBL268164
 
 > <chembl_pref_name>
-CYCLOBARBITAL $$$$
+CYCLOBARBITAL
+
+$$$$
 
      RDKit          2D
 
@@ -28215,7 +29637,9 @@ M  END
 CHEMBL1364
 
 > <chembl_pref_name>
-PYRIDOXINE $$$$
+PYRIDOXINE
+
+$$$$
 
      RDKit          2D
 
@@ -28255,7 +29679,9 @@ M  END
 CHEMBL170988
 
 > <chembl_pref_name>
-PHENFORMIN $$$$
+PHENFORMIN
+
+$$$$
 
      RDKit          2D
 
@@ -28295,7 +29721,9 @@ M  END
 CHEMBL459
 
 > <chembl_pref_name>
-METHYLDOPA $$$$
+METHYLDOPA
+
+$$$$
 
      RDKit          2D
 
@@ -28310,7 +29738,9 @@ M  END
 CHEMBL1334078
 
 > <chembl_pref_name>
-SODIUM HYPOCHLORITE $$$$
+SODIUM HYPOCHLORITE
+
+$$$$
 
      RDKit          2D
 
@@ -28336,7 +29766,9 @@ M  END
 CHEMBL1201323
 
 > <chembl_pref_name>
-BETAZOLE $$$$
+BETAZOLE
+
+$$$$
 
      RDKit          2D
 
@@ -28392,7 +29824,9 @@ M  END
 CHEMBL1442422
 
 > <chembl_pref_name>
-DIBENZEPIN $$$$
+DIBENZEPIN
+
+$$$$
 
      RDKit          2D
 
@@ -28431,7 +29865,9 @@ M  END
 CHEMBL810
 
 > <chembl_pref_name>
-TEMOZOLOMIDE $$$$
+TEMOZOLOMIDE
+
+$$$$
 
      RDKit          2D
 
@@ -28480,7 +29916,9 @@ M  END
 CHEMBL1479848
 
 > <chembl_pref_name>
-ACETOMENAPHTHONE $$$$
+ACETOMENAPHTHONE
+
+$$$$
 
      RDKit          2D
 
@@ -28524,7 +29962,9 @@ M  END
 CHEMBL1103
 
 > <chembl_pref_name>
-FURAZOLIDONE $$$$
+FURAZOLIDONE
+
+$$$$
 
      RDKit          2D
 
@@ -28552,7 +29992,9 @@ M  END
 CHEMBL541
 
 > <chembl_pref_name>
-BENZOIC ACID $$$$
+BENZOIC ACID
+
+$$$$
 
      RDKit          2D
 
@@ -28599,7 +30041,9 @@ M  END
 CHEMBL365795
 
 > <chembl_pref_name>
-TIAPROFENIC ACID $$$$
+TIAPROFENIC ACID
+
+$$$$
 
      RDKit          2D
 
@@ -28643,7 +30087,9 @@ M  END
 CHEMBL760
 
 > <chembl_pref_name>
-ANAGRELIDE $$$$
+ANAGRELIDE
+
+$$$$
 
      RDKit          2D
 
@@ -28673,7 +30119,9 @@ M  END
 CHEMBL1229846
 
 > <chembl_pref_name>
-PHENOXYETHANOL $$$$
+PHENOXYETHANOL
+
+$$$$
 
      RDKit          2D
 
@@ -28727,7 +30175,9 @@ M  END
 CHEMBL11
 
 > <chembl_pref_name>
-IMIPRAMINE $$$$
+IMIPRAMINE
+
+$$$$
 
      RDKit          2D
 
@@ -28777,7 +30227,9 @@ M  END
 CHEMBL159226
 
 > <chembl_pref_name>
-MOXISYLYTE $$$$
+MOXISYLYTE
+
+$$$$
 
      RDKit          2D
 
@@ -28814,7 +30266,9 @@ M  END
 CHEMBL1199080
 
 > <chembl_pref_name>
-BRETYLIUM $$$$
+BRETYLIUM
+
+$$$$
 
      RDKit          2D
 
@@ -28861,7 +30315,9 @@ M  END
 CHEMBL149972
 
 > <chembl_pref_name>
-PHENOBARBITAL SODIUM $$$$
+PHENOBARBITAL SODIUM
+
+$$$$
 
      RDKit          2D
 
@@ -28905,7 +30361,9 @@ M  END
 CHEMBL1201233
 
 > <chembl_pref_name>
-METHYLDOPATE $$$$
+METHYLDOPATE
+
+$$$$
 
      RDKit          2D
 
@@ -28951,7 +30409,9 @@ M  END
 CHEMBL1179047
 
 > <chembl_pref_name>
-CHLOROPROCAINE $$$$
+CHLOROPROCAINE
+
+$$$$
 
      RDKit          2D
 
@@ -28984,7 +30444,9 @@ M  END
 CHEMBL1200705
 
 > <chembl_pref_name>
-HYDROXYAMPHETAMINE HYDROBROMIDE $$$$
+HYDROXYAMPHETAMINE HYDROBROMIDE
+
+$$$$
 
      RDKit          2D
 
@@ -29030,7 +30492,9 @@ M  END
 CHEMBL782
 
 > <chembl_pref_name>
-TOLBUTAMIDE $$$$
+TOLBUTAMIDE
+
+$$$$
 
   SciTegic12091219252D
 
@@ -29053,7 +30517,9 @@ M  END
 CHEMBL1342
 
 > <chembl_pref_name>
-OXYBATE $$$$
+OXYBATE
+
+$$$$
 
      RDKit          2D
 
@@ -29096,7 +30562,9 @@ M  END
 CHEMBL189
 
 > <chembl_pref_name>
-MILRINONE $$$$
+MILRINONE
+
+$$$$
 
      RDKit          2D
 
@@ -29132,7 +30600,9 @@ M  END
 CHEMBL1200790
 
 > <chembl_pref_name>
-METHYPRYLON $$$$
+METHYPRYLON
+
+$$$$
 
      RDKit          2D
 
@@ -29179,7 +30649,9 @@ M  END
 CHEMBL99946
 
 > <chembl_pref_name>
-LEVOMILNACIPRAN $$$$
+LEVOMILNACIPRAN
+
+$$$$
 
      RDKit          2D
 
@@ -29225,7 +30697,9 @@ M  END
 CHEMBL2105002
 
 > <chembl_pref_name>
-ISOAMINILE $$$$
+ISOAMINILE
+
+$$$$
 
      RDKit          2D
 
@@ -29266,7 +30740,9 @@ M  END
 CHEMBL778
 
 > <chembl_pref_name>
-DEXMEDETOMIDINE $$$$
+DEXMEDETOMIDINE
+
+$$$$
 
      RDKit          2D
 
@@ -29306,7 +30782,9 @@ M  END
 CHEMBL2107062
 
 > <chembl_pref_name>
-PHENETURIDE $$$$
+PHENETURIDE
+
+$$$$
 
      RDKit          2D
 
@@ -29346,7 +30824,9 @@ M  END
 CHEMBL1201341
 
 > <chembl_pref_name>
-ECHOTHIOPHATE $$$$
+ECHOTHIOPHATE
+
+$$$$
 
      RDKit          2D
 
@@ -29375,7 +30855,9 @@ M  END
 CHEMBL1201317
 
 > <chembl_pref_name>
-TRICLOFOS $$$$
+TRICLOFOS
+
+$$$$
 
      RDKit          2D
 
@@ -29420,7 +30902,9 @@ M  END
 CHEMBL36
 
 > <chembl_pref_name>
-PYRIMETHAMINE $$$$
+PYRIMETHAMINE
+
+$$$$
 
      RDKit          2D
 
@@ -29456,7 +30940,9 @@ M  END
 CHEMBL1746
 
 > <chembl_pref_name>
-SODIUM PHENYLBUTYRATE $$$$
+SODIUM PHENYLBUTYRATE
+
+$$$$
 
      RDKit          2D
 
@@ -29487,7 +30973,9 @@ M  END
 CHEMBL1663
 
 > <chembl_pref_name>
-PERFLUTREN $$$$
+PERFLUTREN
+
+$$$$
 
      RDKit          2D
 
@@ -29532,7 +31020,9 @@ M  END
 CHEMBL1200380
 
 > <chembl_pref_name>
-ACYCLOVIR SODIUM $$$$
+ACYCLOVIR SODIUM
+
+$$$$
 
      RDKit          2D
 
@@ -29575,7 +31065,9 @@ M  END
 CHEMBL1887891
 
 > <chembl_pref_name>
-DEXFENFLURAMINE HYDROCHLORIDE $$$$
+DEXFENFLURAMINE HYDROCHLORIDE
+
+$$$$
 
      RDKit          2D
 
@@ -29614,7 +31106,9 @@ M  END
 CHEMBL1699
 
 > <chembl_pref_name>
-MEMANTINE HYDROCHLORIDE $$$$
+MEMANTINE HYDROCHLORIDE
+
+$$$$
 
      RDKit          2D
 
@@ -29644,7 +31138,9 @@ M  END
 CHEMBL696
 
 > <chembl_pref_name>
-ETHOSUXIMIDE $$$$
+ETHOSUXIMIDE
+
+$$$$
 
      RDKit          2D
 
@@ -29693,7 +31189,9 @@ M  END
 CHEMBL75435
 
 > <chembl_pref_name>
-DEXKETOPROFEN $$$$
+DEXKETOPROFEN
+
+$$$$
 
      RDKit          2D
 
@@ -29716,7 +31214,9 @@ M  END
 CHEMBL1098319
 
 > <chembl_pref_name>
-MESNA $$$$
+MESNA
+
+$$$$
 
      RDKit          2D
 
@@ -29766,7 +31266,9 @@ M  END
 CHEMBL315985
 
 > <chembl_pref_name>
-ESLICARBAZEPINE $$$$
+ESLICARBAZEPINE
+
+$$$$
 
      RDKit          2D
 
@@ -29809,7 +31311,9 @@ M  END
 CHEMBL1239
 
 > <chembl_pref_name>
-BENZYL BENZOATE $$$$
+BENZYL BENZOATE
+
+$$$$
 
      RDKit          2D
 
@@ -29843,7 +31347,9 @@ M  END
 CHEMBL818
 
 > <chembl_pref_name>
-IOBENGUANE $$$$
+IOBENGUANE
+
+$$$$
 
      RDKit          2D
 
@@ -29880,7 +31386,9 @@ M  END
 CHEMBL44884
 
 > <chembl_pref_name>
-ETHAMBUTOL $$$$
+ETHAMBUTOL
+
+$$$$
 
      RDKit          2D
 
@@ -29905,7 +31413,9 @@ M  END
 CHEMBL282468
 
 > <chembl_pref_name>
-CHOLINE CHLORIDE $$$$
+CHOLINE CHLORIDE
+
+$$$$
 
      RDKit          2D
 
@@ -29950,7 +31460,9 @@ M  END
 CHEMBL40
 
 > <chembl_pref_name>
-PHENOBARBITAL $$$$
+PHENOBARBITAL
+
+$$$$
 
      RDKit          2D
 
@@ -30001,7 +31513,9 @@ M  END
 CHEMBL1018
 
 > <chembl_pref_name>
-DIENESTROL $$$$
+DIENESTROL
+
+$$$$
 
      RDKit          2D
 
@@ -30047,7 +31561,9 @@ M  END
 CHEMBL1329455
 
 > <chembl_pref_name>
-MOLSIDOMINE $$$$
+MOLSIDOMINE
+
+$$$$
 
      RDKit          2D
 
@@ -30094,7 +31610,9 @@ M  END
 CHEMBL1898387
 
 > <chembl_pref_name>
-MEXENONE $$$$
+MEXENONE
+
+$$$$
 
      RDKit          2D
 
@@ -30147,7 +31665,9 @@ M  END
 CHEMBL1201193
 
 > <chembl_pref_name>
-LEVOBUPIVACAINE $$$$
+LEVOBUPIVACAINE
+
+$$$$
 
      RDKit          2D
 
@@ -30174,7 +31694,9 @@ M  END
 CHEMBL1200345
 
 > <chembl_pref_name>
-SODIUM SUCCINATE $$$$
+SODIUM SUCCINATE
+
+$$$$
 
      RDKit          2D
 
@@ -30200,7 +31722,9 @@ M  END
 CHEMBL1650619
 
 > <chembl_pref_name>
-PYRITHIONE $$$$
+PYRITHIONE
+
+$$$$
 
      RDKit          2D
 
@@ -30253,7 +31777,9 @@ M  END
 CHEMBL278398
 
 > <chembl_pref_name>
-PHENINDAMINE $$$$
+PHENINDAMINE
+
+$$$$
 
      RDKit          2D
 
@@ -30290,7 +31816,9 @@ M  END
 CHEMBL887
 
 > <chembl_pref_name>
-RASAGILINE $$$$
+RASAGILINE
+
+$$$$
 
      RDKit          2D
 
@@ -30332,7 +31860,9 @@ M  END
 CHEMBL448
 
 > <chembl_pref_name>
-PENTOBARBITAL $$$$
+PENTOBARBITAL
+
+$$$$
 
      RDKit          2D
 
@@ -30371,7 +31901,9 @@ M  END
 CHEMBL3140361
 
 > <chembl_pref_name>
-ETHAMBUTOL HYDROCHLORIDE $$$$
+ETHAMBUTOL HYDROCHLORIDE
+
+$$$$
 
      RDKit          2D
 
@@ -30419,7 +31951,9 @@ M  END
 CHEMBL7413
 
 > <chembl_pref_name>
-METHOHEXITAL $$$$
+METHOHEXITAL
+
+$$$$
 
      RDKit          2D
 
@@ -30449,7 +31983,9 @@ M  END
 CHEMBL542
 
 > <chembl_pref_name>
-AMINOBENZOIC ACID $$$$
+AMINOBENZOIC ACID
+
+$$$$
 
      RDKit          2D
 
@@ -30481,7 +32017,9 @@ M  END
 CHEMBL978
 
 > <chembl_pref_name>
-METHACHOLINE $$$$
+METHACHOLINE
+
+$$$$
 
      RDKit          2D
 
@@ -30528,7 +32066,9 @@ M  END
 CHEMBL460287
 
 > <chembl_pref_name>
-ETOGLUCID $$$$
+ETOGLUCID
+
+$$$$
 
      RDKit          2D
 
@@ -30585,7 +32125,9 @@ M  END
 CHEMBL946
 
 > <chembl_pref_name>
-AZATADINE $$$$
+AZATADINE
+
+$$$$
 
      RDKit          2D
 
@@ -30644,7 +32186,9 @@ M  END
 CHEMBL1201235
 
 > <chembl_pref_name>
-METHYLHOMATROPINE $$$$
+METHYLHOMATROPINE
+
+$$$$
 
      RDKit          2D
 
@@ -30698,7 +32242,9 @@ M  END
 CHEMBL829
 
 > <chembl_pref_name>
-METHYLPROMAZINE $$$$
+METHYLPROMAZINE
+
+$$$$
 
      RDKit          2D
 
@@ -30757,7 +32303,9 @@ M  END
 CHEMBL252518
 
 > <chembl_pref_name>
-ARTENIMOL $$$$
+ARTENIMOL
+
+$$$$
 
      RDKit          2D
 
@@ -30771,7 +32319,9 @@ M  END
 CHEMBL1200679
 
 > <chembl_pref_name>
-ZINC CHLORIDE $$$$
+ZINC CHLORIDE
+
+$$$$
 
      RDKit          2D
 
@@ -30804,7 +32354,9 @@ M  END
 CHEMBL689
 
 > <chembl_pref_name>
-MANNITOL $$$$
+MANNITOL
+
+$$$$
 
      RDKit          2D
 
@@ -30848,7 +32400,9 @@ M  END
 CHEMBL435966
 
 > <chembl_pref_name>
-NIMORAZOLE $$$$
+NIMORAZOLE
+
+$$$$
 
      RDKit          2D
 
@@ -30875,7 +32429,9 @@ M  END
 CHEMBL601
 
 > <chembl_pref_name>
-AMINOLEVULINIC ACID $$$$
+AMINOLEVULINIC ACID
+
+$$$$
 
      RDKit          2D
 
@@ -30926,7 +32482,9 @@ M  END
 CHEMBL628
 
 > <chembl_pref_name>
-PENTOXIFYLLINE $$$$
+PENTOXIFYLLINE
+
+$$$$
 
      RDKit          2D
 
@@ -30976,7 +32534,9 @@ M  END
 CHEMBL1373
 
 > <chembl_pref_name>
-MODAFINIL $$$$
+MODAFINIL
+
+$$$$
 
      RDKit          2D
 
@@ -31024,7 +32584,9 @@ M  END
 CHEMBL1201222
 
 > <chembl_pref_name>
-LISDEXAMFETAMINE $$$$
+LISDEXAMFETAMINE
+
+$$$$
 
      RDKit          2D
 
@@ -31073,7 +32635,9 @@ M  END
 CHEMBL464982
 
 > <chembl_pref_name>
-GAMOLENIC ACID $$$$
+GAMOLENIC ACID
+
+$$$$
 
      RDKit          2D
 
@@ -31113,7 +32677,9 @@ M  END
 CHEMBL625
 
 > <chembl_pref_name>
-THIABENDAZOLE $$$$
+THIABENDAZOLE
+
+$$$$
 
      RDKit          2D
 
@@ -31152,7 +32718,9 @@ M  END
 CHEMBL1200773
 
 > <chembl_pref_name>
-TOCAINIDE HYDROCHLORIDE $$$$
+TOCAINIDE HYDROCHLORIDE
+
+$$$$
 
      RDKit          2D
 
@@ -31200,7 +32768,9 @@ M  END
 CHEMBL98
 
 > <chembl_pref_name>
-VORINOSTAT $$$$
+VORINOSTAT
+
+$$$$
 
      RDKit          2D
 
@@ -31228,7 +32798,9 @@ M  END
 CHEMBL315795
 
 > <chembl_pref_name>
-CLOMETHIAZOLE $$$$
+CLOMETHIAZOLE
+
+$$$$
 
      RDKit          2D
 
@@ -31256,7 +32828,9 @@ M  END
 CHEMBL3184986
 
 > <chembl_pref_name>
-ZINC ACETATE $$$$
+ZINC ACETATE
+
+$$$$
 
      RDKit          2D
 
@@ -31291,7 +32865,9 @@ M  END
 CHEMBL137
 
 > <chembl_pref_name>
-METRONIDAZOLE $$$$
+METRONIDAZOLE
+
+$$$$
 
      RDKit          2D
 
@@ -31310,7 +32886,9 @@ M  END
 CHEMBL1201058
 
 > <chembl_pref_name>
-POTASSIUM ACETATE $$$$
+POTASSIUM ACETATE
+
+$$$$
 
      RDKit          2D
 
@@ -31344,7 +32922,9 @@ M  END
 CHEMBL493287
 
 > <chembl_pref_name>
-GLUCOSAMINE $$$$
+GLUCOSAMINE
+
+$$$$
 
      RDKit          2D
 
@@ -31394,7 +32974,9 @@ M  END
 CHEMBL1580
 
 > <chembl_pref_name>
-PENTOSTATIN $$$$
+PENTOSTATIN
+
+$$$$
 
      RDKit          2D
 
@@ -31440,7 +33022,9 @@ M  END
 CHEMBL3833347
 
 > <chembl_pref_name>
-DEANOL ACEGLUMATE $$$$
+DEANOL ACEGLUMATE
+
+$$$$
 
      RDKit          2D
 
@@ -31488,7 +33072,9 @@ M  END
 CHEMBL1547
 
 > <chembl_pref_name>
-THIAMINE $$$$
+THIAMINE
+
+$$$$
 
      RDKit          2D
 
@@ -31520,7 +33106,9 @@ M  END
 CHEMBL2219738
 
 > <chembl_pref_name>
-POTASSIUM SODIUM TARTRATE $$$$
+POTASSIUM SODIUM TARTRATE
+
+$$$$
 
      RDKit          2D
 
@@ -31579,7 +33167,9 @@ M  END
 CHEMBL1405
 
 > <chembl_pref_name>
-ESTRONE $$$$
+ESTRONE
+
+$$$$
 
      RDKit          2D
 
@@ -31622,7 +33212,9 @@ M  END
 CHEMBL1698
 
 > <chembl_pref_name>
-BUPROPION HYDROCHLORIDE $$$$
+BUPROPION HYDROCHLORIDE
+
+$$$$
 
      RDKit          2D
 
@@ -31651,7 +33243,9 @@ M  END
 CHEMBL109
 
 > <chembl_pref_name>
-VALPROIC ACID $$$$
+VALPROIC ACID
+
+$$$$
 
      RDKit          2D
 
@@ -31697,7 +33291,9 @@ M  END
 CHEMBL1477274
 
 > <chembl_pref_name>
-MEPTAZINOL HYDROCHLORIDE $$$$
+MEPTAZINOL HYDROCHLORIDE
+
+$$$$
 
      RDKit          2D
 
@@ -31734,7 +33330,9 @@ M  END
 CHEMBL1200606
 
 > <chembl_pref_name>
-MEXILETINE HYDROCHLORIDE $$$$
+MEXILETINE HYDROCHLORIDE
+
+$$$$
 
      RDKit          2D
 
@@ -31748,7 +33346,9 @@ M  END
 CHEMBL1200718
 
 > <chembl_pref_name>
-MAGNESIA, [MILK OF] $$$$
+MAGNESIA, [MILK OF]
+
+$$$$
 
      RDKit          2D
 
@@ -31787,7 +33387,9 @@ M  END
 CHEMBL1200895
 
 > <chembl_pref_name>
-PHENELZINE SULFATE $$$$
+PHENELZINE SULFATE
+
+$$$$
 
      RDKit          2D
 
@@ -31831,7 +33433,9 @@ M  END
 CHEMBL923
 
 > <chembl_pref_name>
-RISEDRONIC ACID $$$$
+RISEDRONIC ACID
+
+$$$$
 
      RDKit          2D
 
@@ -31862,7 +33466,9 @@ M  END
 CHEMBL2109882
 
 > <chembl_pref_name>
-TRISILICATE $$$$
+TRISILICATE
+
+$$$$
 
      RDKit          2D
 
@@ -31909,7 +33515,9 @@ M  END
 CHEMBL1200806
 
 > <chembl_pref_name>
-NAPROXEN SODIUM $$$$
+NAPROXEN SODIUM
+
+$$$$
 
      RDKit          2D
 
@@ -31920,7 +33528,9 @@ M  END
 CHEMBL1236802
 
 > <chembl_pref_name>
-XENON $$$$
+XENON
+
+$$$$
 
      RDKit          2D
 
@@ -31965,7 +33575,9 @@ M  END
 CHEMBL1489
 
 > <chembl_pref_name>
-AZACITIDINE $$$$
+AZACITIDINE
+
+$$$$
 
      RDKit          2D
 
@@ -32012,7 +33624,9 @@ M  END
 CHEMBL1200351
 
 > <chembl_pref_name>
-SULFADIAZINE SODIUM $$$$
+SULFADIAZINE SODIUM
+
+$$$$
 
      RDKit          2D
 
@@ -32073,7 +33687,9 @@ M  END
 CHEMBL566534
 
 > <chembl_pref_name>
-ARTEMETHER $$$$
+ARTEMETHER
+
+$$$$
 
      RDKit          2D
 
@@ -32096,7 +33712,9 @@ M  END
 CHEMBL1357
 
 > <chembl_pref_name>
-SODIUM LACTATE $$$$
+SODIUM LACTATE
+
+$$$$
 
      RDKit          2D
 
@@ -32134,7 +33752,9 @@ M  END
 CHEMBL88
 
 > <chembl_pref_name>
-CYCLOPHOSPHAMIDE $$$$
+CYCLOPHOSPHAMIDE
+
+$$$$
 
      RDKit          2D
 
@@ -32184,7 +33804,9 @@ M  END
 CHEMBL465026
 
 > <chembl_pref_name>
-NEFOPAM $$$$
+NEFOPAM
+
+$$$$
 
      RDKit          2D
 
@@ -32234,7 +33856,9 @@ M  END
 CHEMBL1702
 
 > <chembl_pref_name>
-ATOMOXETINE HYDROCHLORIDE $$$$
+ATOMOXETINE HYDROCHLORIDE
+
+$$$$
 
      RDKit          2D
 
@@ -32266,7 +33890,9 @@ M  END
 CHEMBL1482
 
 > <chembl_pref_name>
-BETHANECHOL $$$$
+BETHANECHOL
+
+$$$$
 
      RDKit          2D
 
@@ -32300,7 +33926,9 @@ M  END
 CHEMBL1437
 
 > <chembl_pref_name>
-NOREPINEPHRINE $$$$
+NOREPINEPHRINE
+
+$$$$
 
      RDKit          2D
 
@@ -32350,7 +33978,9 @@ M  END
 CHEMBL1237065
 
 > <chembl_pref_name>
-TRAMADOL HYDROCHLORIDE $$$$
+TRAMADOL HYDROCHLORIDE
+
+$$$$
 
      RDKit          2D
 
@@ -32363,7 +33993,9 @@ M  END
 CHEMBL1141
 
 > <chembl_pref_name>
-POTASSIUM IODIDE $$$$
+POTASSIUM IODIDE
+
+$$$$
 
      RDKit          2D
 
@@ -32389,7 +34021,9 @@ M  END
 CHEMBL1201001
 
 > <chembl_pref_name>
-MECHLORETHAMINE HYDROCHLORIDE $$$$
+MECHLORETHAMINE HYDROCHLORIDE
+
+$$$$
 
      RDKit          2D
 
@@ -32434,7 +34068,9 @@ M  END
 CHEMBL2105420
 
 > <chembl_pref_name>
-TAUROLIDINE $$$$
+TAUROLIDINE
+
+$$$$
 
      RDKit          2D
 
@@ -32484,7 +34120,9 @@ M  END
 CHEMBL1619
 
 > <chembl_pref_name>
-CLADRIBINE $$$$
+CLADRIBINE
+
+$$$$
 
      RDKit          2D
 
@@ -32515,7 +34153,9 @@ M  END
 CHEMBL1425
 
 > <chembl_pref_name>
-MERCAPTOPURINE $$$$
+MERCAPTOPURINE
+
+$$$$
 
      RDKit          2D
 
@@ -32558,7 +34198,9 @@ M  END
 CHEMBL2103738
 
 > <chembl_pref_name>
-LITHIUM CITRATE $$$$
+LITHIUM CITRATE
+
+$$$$
 
      RDKit          2D
 
@@ -32612,7 +34254,9 @@ M  END
 CHEMBL622
 
 > <chembl_pref_name>
-ETODOLAC $$$$
+ETODOLAC
+
+$$$$
 
      RDKit          2D
 
@@ -32645,7 +34289,9 @@ M  END
 CHEMBL727
 
 > <chembl_pref_name>
-THIOGUANINE $$$$
+THIOGUANINE
+
+$$$$
 
      RDKit          2D
 
@@ -32682,7 +34328,9 @@ M  END
 CHEMBL590540
 
 > <chembl_pref_name>
-CYSTINE $$$$
+CYSTINE
+
+$$$$
 
      RDKit          2D
 
@@ -32711,7 +34359,9 @@ M  END
 CHEMBL1200861
 
 > <chembl_pref_name>
-TARTARIC ACID $$$$
+TARTARIC ACID
+
+$$$$
 
      RDKit          2D
 
@@ -32752,7 +34402,9 @@ M  END
 CHEMBL697
 
 > <chembl_pref_name>
-METHSUXIMIDE $$$$
+METHSUXIMIDE
+
+$$$$
 
      RDKit          2D
 
@@ -32787,7 +34439,9 @@ M  END
 CHEMBL1200339
 
 > <chembl_pref_name>
-PHENYLEPHRINE HYDROCHLORIDE $$$$
+PHENYLEPHRINE HYDROCHLORIDE
+
+$$$$
 
      RDKit          2D
 
@@ -32806,7 +34460,9 @@ M  END
 CHEMBL1187
 
 > <chembl_pref_name>
-PHOSPHORIC ACID $$$$
+PHOSPHORIC ACID
+
+$$$$
 
      RDKit          2D
 
@@ -32850,7 +34506,9 @@ M  END
 CHEMBL498
 
 > <chembl_pref_name>
-CHLORPROPAMIDE $$$$
+CHLORPROPAMIDE
+
+$$$$
 
      RDKit          2D
 
@@ -32874,7 +34532,9 @@ M  END
 CHEMBL284348
 
 > <chembl_pref_name>
-DALFAMPRIDINE $$$$
+DALFAMPRIDINE
+
+$$$$
 
      RDKit          2D
 
@@ -32920,7 +34580,9 @@ M  END
 CHEMBL1201142
 
 > <chembl_pref_name>
-RASAGILINE MESYLATE $$$$
+RASAGILINE MESYLATE
+
+$$$$
 
      RDKit          2D
 
@@ -32962,7 +34624,9 @@ M  END
 CHEMBL441
 
 > <chembl_pref_name>
-THIOPENTAL $$$$
+THIOPENTAL
+
+$$$$
 
      RDKit          2D
 
@@ -33004,7 +34668,9 @@ M  END
 CHEMBL267894
 
 > <chembl_pref_name>
-AMOBARBITAL $$$$
+AMOBARBITAL
+
+$$$$
 
      RDKit          2D
 
@@ -33047,7 +34713,9 @@ M  END
 CHEMBL706
 
 > <chembl_pref_name>
-CETYL ALCOHOL $$$$
+CETYL ALCOHOL
+
+$$$$
 
      RDKit          2D
 
@@ -33104,7 +34772,9 @@ M  END
 CHEMBL1371770
 
 > <chembl_pref_name>
-PIRIBEDIL $$$$
+PIRIBEDIL
+
+$$$$
 
      RDKit          2D
 
@@ -33144,7 +34814,9 @@ M  END
 CHEMBL1455
 
 > <chembl_pref_name>
-ALTRETAMINE $$$$
+ALTRETAMINE
+
+$$$$
 
      RDKit          2D
 
@@ -33196,7 +34868,9 @@ M  END
 CHEMBL43452
 
 > <chembl_pref_name>
-POMALIDOMIDE $$$$
+POMALIDOMIDE
+
+$$$$
 
      RDKit          2D
 
@@ -33233,7 +34907,9 @@ M  END
 CHEMBL190
 
 > <chembl_pref_name>
-THEOPHYLLINE $$$$
+THEOPHYLLINE
+
+$$$$
 
      RDKit          2D
 
@@ -33282,7 +34958,9 @@ M  END
 CHEMBL1021
 
 > <chembl_pref_name>
-NEPAFENAC $$$$
+NEPAFENAC
+
+$$$$
 
      RDKit          2D
 
@@ -33324,7 +35002,9 @@ M  END
 CHEMBL94394
 
 > <chembl_pref_name>
-BUFEXAMAC $$$$
+BUFEXAMAC
+
+$$$$
 
      RDKit          2D
 
@@ -33360,7 +35040,9 @@ M  END
 CHEMBL229128
 
 > <chembl_pref_name>
-MEPHENESIN $$$$
+MEPHENESIN
+
+$$$$
 
      RDKit          2D
 
@@ -33388,7 +35070,9 @@ M  END
 CHEMBL1703
 
 > <chembl_pref_name>
-METFORMIN HYDROCHLORIDE $$$$
+METFORMIN HYDROCHLORIDE
+
+$$$$
 
      RDKit          2D
 
@@ -33429,7 +35113,9 @@ M  END
 CHEMBL1201161
 
 > <chembl_pref_name>
-MAFENIDE ACETATE $$$$
+MAFENIDE ACETATE
+
+$$$$
 
      RDKit          2D
 
@@ -33449,7 +35135,9 @@ M  END
 CHEMBL3185229
 
 > <chembl_pref_name>
-MAGNESIUM CHLORIDE $$$$
+MAGNESIUM CHLORIDE
+
+$$$$
 
      RDKit          2D
 
@@ -33494,7 +35182,9 @@ M  END
 CHEMBL803
 
 > <chembl_pref_name>
-CYTARABINE $$$$
+CYTARABINE
+
+$$$$
 
      RDKit          2D
 
@@ -33534,7 +35224,9 @@ M  END
 CHEMBL1200709
 
 > <chembl_pref_name>
-CROTAMITON $$$$
+CROTAMITON
+
+$$$$
 
      RDKit          2D
 
@@ -33576,7 +35268,9 @@ M  END
 CHEMBL1266
 
 > <chembl_pref_name>
-TETRAHYDROZOLINE $$$$
+TETRAHYDROZOLINE
+
+$$$$
 
      RDKit          2D
 
@@ -33612,7 +35306,9 @@ M  END
 CHEMBL1689
 
 > <chembl_pref_name>
-TOLAZOLINE HYDROCHLORIDE $$$$
+TOLAZOLINE HYDROCHLORIDE
+
+$$$$
 
      RDKit          2D
 
@@ -33648,7 +35344,9 @@ M  END
 CHEMBL2096646
 
 > <chembl_pref_name>
-AMINOSALICYLATE SODIUM $$$$
+AMINOSALICYLATE SODIUM
+
+$$$$
 
      RDKit          2D
 
@@ -33688,7 +35386,9 @@ M  END
 CHEMBL862
 
 > <chembl_pref_name>
-GUANFACINE $$$$
+GUANFACINE
+
+$$$$
 
      RDKit          2D
 
@@ -33711,7 +35411,9 @@ M  END
 CHEMBL666
 
 > <chembl_pref_name>
-FOSCARNET $$$$
+FOSCARNET
+
+$$$$
 
      RDKit          2D
 
@@ -33761,7 +35463,9 @@ M  END
 CHEMBL1200715
 
 > <chembl_pref_name>
-HEXYLCAINE HYDROCHLORIDE $$$$
+HEXYLCAINE HYDROCHLORIDE
+
+$$$$
 
      RDKit          2D
 
@@ -33805,7 +35509,9 @@ M  END
 CHEMBL1788132
 
 > <chembl_pref_name>
-LOFEXIDINE HYDROCHLORIDE $$$$
+LOFEXIDINE HYDROCHLORIDE
+
+$$$$
 
      RDKit          2D
 
@@ -33826,7 +35532,9 @@ M  END
 CHEMBL1200925
 
 > <chembl_pref_name>
-POTASSIUM PHOSPHATE, MONOBASIC $$$$
+POTASSIUM PHOSPHATE, MONOBASIC
+
+$$$$
 
      RDKit          2D
 
@@ -33856,7 +35564,9 @@ M  END
 CHEMBL70927
 
 > <chembl_pref_name>
-DEFERIPRONE $$$$
+DEFERIPRONE
+
+$$$$
 
      RDKit          2D
 
@@ -33906,7 +35616,9 @@ M  END
 CHEMBL16
 
 > <chembl_pref_name>
-PHENYTOIN $$$$
+PHENYTOIN
+
+$$$$
 
      RDKit          2D
 
@@ -33923,7 +35635,9 @@ M  END
 CHEMBL602
 
 > <chembl_pref_name>
-CYSTEAMINE $$$$
+CYSTEAMINE
+
+$$$$
 
      RDKit          2D
 
@@ -33966,7 +35680,9 @@ M  END
 CHEMBL885
 
 > <chembl_pref_name>
-EMTRICITABINE $$$$
+EMTRICITABINE
+
+$$$$
 
      RDKit          2D
 
@@ -34019,7 +35735,9 @@ M  END
 CHEMBL1290
 
 > <chembl_pref_name>
-PENBUTOLOL $$$$
+PENBUTOLOL
+
+$$$$
 
      RDKit          2D
 
@@ -34073,7 +35791,9 @@ M  END
 CHEMBL1465
 
 > <chembl_pref_name>
-PHENPROCOUMON $$$$
+PHENPROCOUMON
+
+$$$$
 
      RDKit          2D
 
@@ -34116,7 +35836,9 @@ M  END
 CHEMBL2106794
 
 > <chembl_pref_name>
-NAFTAZONE $$$$
+NAFTAZONE
+
+$$$$
 
      RDKit          2D
 
@@ -34152,7 +35874,9 @@ M  END
 CHEMBL1201260
 
 > <chembl_pref_name>
-BETHANIDINE $$$$
+BETHANIDINE
+
+$$$$
 
      RDKit          2D
 
@@ -34202,7 +35926,9 @@ M  END
 CHEMBL30219
 
 > <chembl_pref_name>
-METHOHEXITAL SODIUM $$$$
+METHOHEXITAL SODIUM
+
+$$$$
 
      RDKit          2D
 
@@ -34214,7 +35940,9 @@ M  END
 CHEMBL1200685
 
 > <chembl_pref_name>
-XENON XE 133 $$$$
+XENON XE 133
+
+$$$$
 
      RDKit          2D
 
@@ -34249,7 +35977,9 @@ M  END
 CHEMBL770
 
 > <chembl_pref_name>
-TOLAZOLINE $$$$
+TOLAZOLINE
+
+$$$$
 
      RDKit          2D
 
@@ -34260,7 +35990,9 @@ M  END
 CHEMBL1796997
 
 > <chembl_pref_name>
-HELIUM $$$$
+HELIUM
+
+$$$$
 
      RDKit          2D
 
@@ -34298,7 +36030,9 @@ M  END
 CHEMBL1762
 
 > <chembl_pref_name>
-TOCAINIDE $$$$
+TOCAINIDE
+
+$$$$
 
      RDKit          2D
 
@@ -34344,7 +36078,9 @@ M  END
 CHEMBL1096979
 
 > <chembl_pref_name>
-BENSERAZIDE $$$$
+BENSERAZIDE
+
+$$$$
 
      RDKit          2D
 
@@ -34382,7 +36118,9 @@ M  END
 CHEMBL1200483
 
 > <chembl_pref_name>
-PHENMETRAZINE HYDROCHLORIDE $$$$
+PHENMETRAZINE HYDROCHLORIDE
+
+$$$$
 
      RDKit          2D
 
@@ -34430,7 +36168,9 @@ M  END
 CHEMBL2103822
 
 > <chembl_pref_name>
-TASIMELTEON $$$$
+TASIMELTEON
+
+$$$$
 
      RDKit          2D
 
@@ -34481,7 +36221,9 @@ M  END
 CHEMBL1184360
 
 > <chembl_pref_name>
-DIAMTHAZOLE $$$$
+DIAMTHAZOLE
+
+$$$$
 
      RDKit          2D
 
@@ -34502,7 +36244,9 @@ M  END
 CHEMBL2107567
 
 > <chembl_pref_name>
-CALCIUM PHOSPHATE, DIBASIC $$$$
+CALCIUM PHOSPHATE, DIBASIC
+
+$$$$
 
      RDKit          2D
 
@@ -34515,7 +36259,9 @@ M  END
 CHEMBL1200574
 
 > <chembl_pref_name>
-SODIUM CHLORIDE $$$$
+SODIUM CHLORIDE
+
+$$$$
 
      RDKit          2D
 
@@ -34541,7 +36287,9 @@ M  END
 CHEMBL90
 
 > <chembl_pref_name>
-HISTAMINE $$$$
+HISTAMINE
+
+$$$$
 
      RDKit          2D
 
@@ -34582,7 +36330,9 @@ M  END
 CHEMBL1711
 
 > <chembl_pref_name>
-ISOPROTERENOL HYDROCHLORIDE $$$$
+ISOPROTERENOL HYDROCHLORIDE
+
+$$$$
 
      RDKit          2D
 
@@ -34599,7 +36349,9 @@ M  END
 CHEMBL539
 
 > <chembl_pref_name>
-ACETIC ACID $$$$
+ACETIC ACID
+
+$$$$
 
      RDKit          2D
 
@@ -34614,7 +36366,9 @@ M  END
 CHEMBL46058
 
 > <chembl_pref_name>
-ETHYL CHLORIDE $$$$
+ETHYL CHLORIDE
+
+$$$$
 
      RDKit          2D
 
@@ -34657,7 +36411,9 @@ M  END
 CHEMBL190677
 
 > <chembl_pref_name>
-BENZOIN $$$$
+BENZOIN
+
+$$$$
 
      RDKit          2D
 
@@ -34687,7 +36443,9 @@ M  END
 CHEMBL405
 
 > <chembl_pref_name>
-AMPHETAMINE $$$$
+AMPHETAMINE
+
+$$$$
 
      RDKit          2D
 
@@ -34716,7 +36474,9 @@ M  END
 CHEMBL1201073
 
 > <chembl_pref_name>
-SUCCIMER $$$$
+SUCCIMER
+
+$$$$
 
      RDKit          2D
 
@@ -34759,7 +36519,9 @@ M  END
 CHEMBL1200586
 
 > <chembl_pref_name>
-PRILOCAINE HYDROCHLORIDE $$$$
+PRILOCAINE HYDROCHLORIDE
+
+$$$$
 
      RDKit          2D
 
@@ -34806,7 +36568,9 @@ M  END
 CHEMBL1411979
 
 > <chembl_pref_name>
-METHAPYRILENE $$$$
+METHAPYRILENE
+
+$$$$
 
      RDKit          2D
 
@@ -34846,7 +36610,9 @@ M  END
 CHEMBL1029
 
 > <chembl_pref_name>
-MIGLUSTAT $$$$
+MIGLUSTAT
+
+$$$$
 
      RDKit          2D
 
@@ -34893,7 +36659,9 @@ M  END
 CHEMBL1201345
 
 > <chembl_pref_name>
-TETRADECYL SULFURIC ACID $$$$
+TETRADECYL SULFURIC ACID
+
+$$$$
 
      RDKit          2D
 
@@ -34922,7 +36690,9 @@ M  END
 CHEMBL1257
 
 > <chembl_pref_name>
-ENFLURANE $$$$
+ENFLURANE
+
+$$$$
 
      RDKit          2D
 
@@ -34966,7 +36736,9 @@ M  END
 CHEMBL1094
 
 > <chembl_pref_name>
-FELBAMATE $$$$
+FELBAMATE
+
+$$$$
 
      RDKit          2D
 
@@ -35017,7 +36789,9 @@ M  END
 CHEMBL1077896
 
 > <chembl_pref_name>
-ROPIVACAINE $$$$
+ROPIVACAINE
+
+$$$$
 
      RDKit          2D
 
@@ -35060,7 +36834,9 @@ M  END
 CHEMBL741
 
 > <chembl_pref_name>
-LAMOTRIGINE $$$$
+LAMOTRIGINE
+
+$$$$
 
      RDKit          2D
 
@@ -35099,7 +36875,9 @@ M  END
 CHEMBL750
 
 > <chembl_pref_name>
-ZONISAMIDE $$$$
+ZONISAMIDE
+
+$$$$
 
      RDKit          2D
 
@@ -35121,7 +36899,9 @@ M  END
 CHEMBL1908359
 
 > <chembl_pref_name>
-SODIUM MONOFLUOROPHOSPHATE $$$$
+SODIUM MONOFLUOROPHOSPHATE
+
+$$$$
 
      RDKit          2D
 
@@ -35168,7 +36948,9 @@ M  END
 CHEMBL1345
 
 > <chembl_pref_name>
-GUANETHIDINE MONOSULFATE $$$$
+GUANETHIDINE MONOSULFATE
+
+$$$$
 
      RDKit          2D
 
@@ -35202,7 +36984,9 @@ M  END
 CHEMBL1200584
 
 > <chembl_pref_name>
-AMINOSALICYLATE POTASSIUM $$$$
+AMINOSALICYLATE POTASSIUM
+
+$$$$
 
      RDKit          2D
 
@@ -35252,7 +37036,9 @@ M  END
 CHEMBL703
 
 > <chembl_pref_name>
-SUXAMETHONIUM $$$$
+SUXAMETHONIUM
+
+$$$$
 
      RDKit          2D
 
@@ -35306,7 +37092,9 @@ M  END
 CHEMBL86715
 
 > <chembl_pref_name>
-PROCYCLIDINE $$$$
+PROCYCLIDINE
+
+$$$$
 
      RDKit          2D
 
@@ -35357,7 +37145,9 @@ M  END
 CHEMBL3317857
 
 > <chembl_pref_name>
-VABORBACTAM $$$$
+VABORBACTAM
+
+$$$$
 
      RDKit          2D
 
@@ -35401,7 +37191,9 @@ M  END
 CHEMBL3989408
 
 > <chembl_pref_name>
-IBUPROFEN SODIUM $$$$
+IBUPROFEN SODIUM
+
+$$$$
 
      RDKit          2D
 
@@ -35423,7 +37215,9 @@ M  END
 CHEMBL1412
 
 > <chembl_pref_name>
-PIPERAZINE $$$$
+PIPERAZINE
+
+$$$$
 
      RDKit          2D
 
@@ -35473,7 +37267,9 @@ M  END
 CHEMBL1201192
 
 > <chembl_pref_name>
-ARMODAFINIL $$$$
+ARMODAFINIL
+
+$$$$
 
      RDKit          2D
 
@@ -35514,7 +37310,9 @@ M  END
 CHEMBL1528839
 
 > <chembl_pref_name>
-PHENFORMIN HYDROCHLORIDE $$$$
+PHENFORMIN HYDROCHLORIDE
+
+$$$$
 
      RDKit          2D
 
@@ -35557,7 +37355,9 @@ M  END
 CHEMBL1201777
 
 > <chembl_pref_name>
-TAPENTADOL HYDROCHLORIDE $$$$
+TAPENTADOL HYDROCHLORIDE
+
+$$$$
 
      RDKit          2D
 
@@ -35569,7 +37369,9 @@ M  END
 CHEMBL1200939
 
 > <chembl_pref_name>
-AMMONIUM CHLORIDE $$$$
+AMMONIUM CHLORIDE
+
+$$$$
 
      RDKit          2D
 
@@ -35611,7 +37413,9 @@ M  END
 CHEMBL802
 
 > <chembl_pref_name>
-MINOXIDIL $$$$
+MINOXIDIL
+
+$$$$
 
      RDKit          2D
 
@@ -35630,7 +37434,9 @@ M  END
 CHEMBL2106975
 
 > <chembl_pref_name>
-POTASSIUM BICARBONATE $$$$
+POTASSIUM BICARBONATE
+
+$$$$
 
      RDKit          2D
 
@@ -35679,7 +37485,9 @@ M  END
 CHEMBL268869
 
 > <chembl_pref_name>
-SULFAMETHOXYPYRIDAZINE $$$$
+SULFAMETHOXYPYRIDAZINE
+
+$$$$
 
      RDKit          2D
 
@@ -35692,7 +37500,9 @@ M  END
 CHEMBL1200731
 
 > <chembl_pref_name>
-POTASSIUM CHLORIDE $$$$
+POTASSIUM CHLORIDE
+
+$$$$
 
      RDKit          2D
 
@@ -35736,7 +37546,9 @@ M  END
 CHEMBL1002
 
 > <chembl_pref_name>
-LEVOSALBUTAMOL $$$$
+LEVOSALBUTAMOL
+
+$$$$
 
      RDKit          2D
 
@@ -35781,7 +37593,9 @@ M  END
 CHEMBL1201754
 
 > <chembl_pref_name>
-RUFINAMIDE $$$$
+RUFINAMIDE
+
+$$$$
 
      RDKit          2D
 
@@ -35823,7 +37637,9 @@ M  END
 CHEMBL1201776
 
 > <chembl_pref_name>
-TAPENTADOL $$$$
+TAPENTADOL
+
+$$$$
 
      RDKit          2D
 
@@ -35856,7 +37672,9 @@ M  END
 CHEMBL1768
 
 > <chembl_pref_name>
-BETHANECHOL CHLORIDE $$$$
+BETHANECHOL CHLORIDE
+
+$$$$
 
      RDKit          2D
 
@@ -35889,7 +37707,9 @@ M  END
 CHEMBL1006
 
 > <chembl_pref_name>
-AMIFOSTINE $$$$
+AMIFOSTINE
+
+$$$$
 
      RDKit          2D
 
@@ -35906,7 +37726,9 @@ M  END
 CHEMBL821
 
 > <chembl_pref_name>
-GUANIDINE $$$$
+GUANIDINE
+
+$$$$
 
      RDKit          2D
 
@@ -35939,7 +37761,9 @@ M  END
 CHEMBL513
 
 > <chembl_pref_name>
-CARMUSTINE $$$$
+CARMUSTINE
+
+$$$$
 
      RDKit          2D
 
@@ -35956,7 +37780,9 @@ M  END
 CHEMBL582
 
 > <chembl_pref_name>
-ISOPROPYL ALCOHOL $$$$
+ISOPROPYL ALCOHOL
+
+$$$$
 
      RDKit          2D
 
@@ -36005,7 +37831,9 @@ M  END
 CHEMBL589
 
 > <chembl_pref_name>
-ROPINIROLE $$$$
+ROPINIROLE
+
+$$$$
 
      RDKit          2D
 
@@ -36043,7 +37871,9 @@ M  END
 CHEMBL455
 
 > <chembl_pref_name>
-SULFACETAMIDE $$$$
+SULFACETAMIDE
+
+$$$$
 
      RDKit          2D
 
@@ -36083,7 +37913,9 @@ M  END
 CHEMBL524
 
 > <chembl_pref_name>
-METHOXAMINE $$$$
+METHOXAMINE
+
+$$$$
 
      RDKit          2D
 
@@ -36108,7 +37940,9 @@ M  END
 CHEMBL1439973
 
 > <chembl_pref_name>
-CHLOROBUTANOL $$$$
+CHLOROBUTANOL
+
+$$$$
 
      RDKit          2D
 
@@ -36143,7 +37977,9 @@ M  END
 CHEMBL1200570
 
 > <chembl_pref_name>
-MEGLUMINE $$$$
+MEGLUMINE
+
+$$$$
 
      RDKit          2D
 
@@ -36171,7 +38007,9 @@ M  END
 CHEMBL1200582
 
 > <chembl_pref_name>
-AMINOLEVULINIC ACID HYDROCHLORIDE $$$$
+AMINOLEVULINIC ACID HYDROCHLORIDE
+
+$$$$
 
      RDKit          2D
 
@@ -36224,7 +38062,9 @@ M  END
 CHEMBL839
 
 > <chembl_pref_name>
-CARTEOLOL $$$$
+CARTEOLOL
+
+$$$$
 
      RDKit          2D
 
@@ -36253,7 +38093,9 @@ M  END
 CHEMBL254468
 
 > <chembl_pref_name>
-FLUCICLOVINE F18 $$$$
+FLUCICLOVINE F18
+
+$$$$
 
      RDKit          2D
 
@@ -36294,7 +38136,9 @@ M  END
 CHEMBL777
 
 > <chembl_pref_name>
-CLAVULANIC ACID $$$$
+CLAVULANIC ACID
+
+$$$$
 
      RDKit          2D
 
@@ -36334,7 +38178,9 @@ M  END
 CHEMBL607400
 
 > <chembl_pref_name>
-BRIVARACETAM $$$$
+BRIVARACETAM
+
+$$$$
 
      RDKit          2D
 
@@ -36372,7 +38218,9 @@ M  END
 CHEMBL807
 
 > <chembl_pref_name>
-MEMANTINE $$$$
+MEMANTINE
+
+$$$$
 
      RDKit          2D
 
@@ -36409,7 +38257,9 @@ M  END
 CHEMBL1200596
 
 > <chembl_pref_name>
-CHLOROXINE $$$$
+CHLOROXINE
+
+$$$$
 
      RDKit          2D
 
@@ -36452,7 +38302,9 @@ M  END
 CHEMBL742
 
 > <chembl_pref_name>
-KETAMINE $$$$
+KETAMINE
+
+$$$$
 
      RDKit          2D
 
@@ -36468,7 +38320,9 @@ M  END
 CHEMBL2107816
 
 > <chembl_pref_name>
-RADIUM RA 223 DICHLORIDE $$$$
+RADIUM RA 223 DICHLORIDE
+
+$$$$
 
      RDKit          2D
 
@@ -36516,7 +38370,9 @@ M  END
 CHEMBL546
 
 > <chembl_pref_name>
-OXPRENOLOL $$$$
+OXPRENOLOL
+
+$$$$
 
      RDKit          2D
 
@@ -36559,7 +38415,9 @@ M  END
 CHEMBL93
 
 > <chembl_pref_name>
-ZILEUTON $$$$
+ZILEUTON
+
+$$$$
 
      RDKit          2D
 
@@ -36614,7 +38472,9 @@ M  END
 CHEMBL592
 
 > <chembl_pref_name>
-LEVORPHANOL $$$$
+LEVORPHANOL
+
+$$$$
 
      RDKit          2D
 
@@ -36657,7 +38517,9 @@ M  END
 CHEMBL403
 
 > <chembl_pref_name>
-SULBACTAM $$$$
+SULBACTAM
+
+$$$$
 
      RDKit          2D
 
@@ -36704,7 +38566,9 @@ M  END
 CHEMBL3989949
 
 > <chembl_pref_name>
-CENOBAMATE $$$$
+CENOBAMATE
+
+$$$$
 
      RDKit          2D
 
@@ -36760,7 +38624,9 @@ M  END
 CHEMBL278819
 
 > <chembl_pref_name>
-MINAPRINE $$$$
+MINAPRINE
+
+$$$$
 
      RDKit          2D
 
@@ -36808,7 +38674,9 @@ M  END
 CHEMBL1093
 
 > <chembl_pref_name>
-ARTICAINE $$$$
+ARTICAINE
+
+$$$$
 
      RDKit          2D
 
@@ -36867,7 +38735,9 @@ M  END
 CHEMBL1254682
 
 > <chembl_pref_name>
-LEVALLORPHAN $$$$
+LEVALLORPHAN
+
+$$$$
 
      RDKit          2D
 
@@ -36895,7 +38765,9 @@ M  END
 CHEMBL1201054
 
 > <chembl_pref_name>
-SELENOMETHIONINE SE 75 $$$$
+SELENOMETHIONINE SE 75
+
+$$$$
 
      RDKit          2D
 
@@ -36931,7 +38803,9 @@ M  END
 CHEMBL196
 
 > <chembl_pref_name>
-ASCORBIC ACID $$$$
+ASCORBIC ACID
+
+$$$$
 
      RDKit          2D
 
@@ -36965,7 +38839,9 @@ M  END
 CHEMBL1215
 
 > <chembl_pref_name>
-PHENYLEPHRINE $$$$
+PHENYLEPHRINE
+
+$$$$
 
      RDKit          2D
 
@@ -36999,7 +38875,9 @@ M  END
 CHEMBL15891
 
 > <chembl_pref_name>
-LINDANE $$$$
+LINDANE
+
+$$$$
 
      RDKit          2D
 
@@ -37050,7 +38928,9 @@ M  END
 CHEMBL900
 
 > <chembl_pref_name>
-ORPHENADRINE $$$$
+ORPHENADRINE
+
+$$$$
 
      RDKit          2D
 
@@ -37097,7 +38977,9 @@ M  END
 CHEMBL45029
 
 > <chembl_pref_name>
-MEPHOBARBITAL $$$$
+MEPHOBARBITAL
+
+$$$$
 
      RDKit          2D
 
@@ -37127,7 +39009,9 @@ M  END
 CHEMBL2105827
 
 > <chembl_pref_name>
-GLYCEROL, IODINATED $$$$
+GLYCEROL, IODINATED
+
+$$$$
 
      RDKit          2D
 
@@ -37177,7 +39061,9 @@ M  END
 CHEMBL28333
 
 > <chembl_pref_name>
-MEDAZEPAM $$$$
+MEDAZEPAM
+
+$$$$
 
      RDKit          2D
 
@@ -37228,7 +39114,9 @@ M  END
 CHEMBL1200613
 
 > <chembl_pref_name>
-TOLMETIN SODIUM $$$$
+TOLMETIN SODIUM
+
+$$$$
 
      RDKit          2D
 
@@ -37274,7 +39162,9 @@ M  END
 CHEMBL3099695
 
 > <chembl_pref_name>
-OSILODROSTAT $$$$
+OSILODROSTAT
+
+$$$$
 
      RDKit          2D
 
@@ -37304,7 +39194,9 @@ M  END
 CHEMBL612
 
 > <chembl_pref_name>
-DEXTROAMPHETAMINE $$$$
+DEXTROAMPHETAMINE
+
+$$$$
 
      RDKit          2D
 
@@ -37342,7 +39234,9 @@ M  END
 CHEMBL4594394
 
 > <chembl_pref_name>
-MAGNESIUM OXYBATE $$$$
+MAGNESIUM OXYBATE
+
+$$$$
 
      RDKit          2D
 
@@ -37367,7 +39261,9 @@ M  END
 CHEMBL427
 
 > <chembl_pref_name>
-MECHLORETHAMINE $$$$
+MECHLORETHAMINE
+
+$$$$
 
      RDKit          2D
 
@@ -37429,7 +39325,9 @@ M  END
 CHEMBL4594261
 
 > <chembl_pref_name>
-FLUOROESTRADIOL F-18 $$$$
+FLUOROESTRADIOL F-18
+
+$$$$
 
      RDKit          2D
 
@@ -37473,7 +39371,9 @@ M  END
 CHEMBL30
 
 > <chembl_pref_name>
-CIMETIDINE $$$$
+CIMETIDINE
+
+$$$$
 
      RDKit          2D
 
@@ -37500,7 +39400,9 @@ M  END
 CHEMBL1431
 
 > <chembl_pref_name>
-METFORMIN $$$$
+METFORMIN
+
+$$$$
 
      RDKit          2D
 
@@ -37552,7 +39454,9 @@ M  END
 CHEMBL568
 
 > <chembl_pref_name>
-OXAZEPAM $$$$
+OXAZEPAM
+
+$$$$
 
      RDKit          2D
 
@@ -37572,7 +39476,9 @@ M  END
 CHEMBL186314
 
 > <chembl_pref_name>
-SODIUM CARBONATE $$$$
+SODIUM CARBONATE
+
+$$$$
 
      RDKit          2D
 
@@ -37600,7 +39506,9 @@ M  END
 CHEMBL473159
 
 > <chembl_pref_name>
-PHLOROGLUCINOL $$$$
+PHLOROGLUCINOL
+
+$$$$
 
      RDKit          2D
 
@@ -37621,7 +39529,9 @@ M  END
 CHEMBL462547
 
 > <chembl_pref_name>
-URETHANE $$$$
+URETHANE
+
+$$$$
 
      RDKit          2D
 
@@ -37666,7 +39576,9 @@ M  END
 CHEMBL1043
 
 > <chembl_pref_name>
-DAPSONE $$$$
+DAPSONE
+
+$$$$
 
      RDKit          2D
 
@@ -37709,7 +39621,9 @@ M  END
 CHEMBL1220
 
 > <chembl_pref_name>
-TINIDAZOLE $$$$
+TINIDAZOLE
+
+$$$$
 
      RDKit          2D
 
@@ -37724,7 +39638,9 @@ M  END
 CHEMBL1200680
 
 > <chembl_pref_name>
-SELENIUM SULFIDE $$$$
+SELENIUM SULFIDE
+
+$$$$
 
      RDKit          2D
 
@@ -37758,7 +39674,9 @@ M  END
 CHEMBL508102
 
 > <chembl_pref_name>
-CARBIMAZOLE $$$$
+CARBIMAZOLE
+
+$$$$
 
      RDKit          2D
 
@@ -37793,7 +39711,9 @@ M  END
 CHEMBL504760
 
 > <chembl_pref_name>
-CAMPHOR $$$$
+CAMPHOR
+
+$$$$
 
      RDKit          2D
 
@@ -37839,7 +39759,9 @@ M  END
 CHEMBL1200409
 
 > <chembl_pref_name>
-LIDOCAINE HYDROCHLORIDE $$$$
+LIDOCAINE HYDROCHLORIDE
+
+$$$$
 
      RDKit          2D
 
@@ -37862,7 +39784,9 @@ M  END
 CHEMBL501613
 
 > <chembl_pref_name>
-MEPARFYNOL $$$$
+MEPARFYNOL
+
+$$$$
 
      RDKit          2D
 
@@ -37895,7 +39819,9 @@ M  END
 CHEMBL2107355
 
 > <chembl_pref_name>
-MIGALASTAT HYDROCHLORIDE $$$$
+MIGALASTAT HYDROCHLORIDE
+
+$$$$
 
      RDKit          2D
 
@@ -37920,7 +39846,9 @@ M  END
 CHEMBL1200391
 
 > <chembl_pref_name>
-TROMETHAMINE $$$$
+TROMETHAMINE
+
+$$$$
 
      RDKit          2D
 
@@ -37972,7 +39900,9 @@ M  END
 CHEMBL460
 
 > <chembl_pref_name>
-MOLINDONE $$$$
+MOLINDONE
+
+$$$$
 
      RDKit          2D
 
@@ -38019,7 +39949,9 @@ M  END
 CHEMBL259209
 
 > <chembl_pref_name>
-MILNACIPRAN $$$$
+MILNACIPRAN
+
+$$$$
 
      RDKit          2D
 
@@ -38058,7 +39990,9 @@ M  END
 CHEMBL501
 
 > <chembl_pref_name>
-AMPHETAMINE SULFATE $$$$
+AMPHETAMINE SULFATE
+
+$$$$
 
      RDKit          2D
 
@@ -38096,7 +40030,9 @@ M  END
 CHEMBL2068884
 
 > <chembl_pref_name>
-SODIUM GLUCONATE $$$$
+SODIUM GLUCONATE
+
+$$$$
 
      RDKit          2D
 
@@ -38139,7 +40075,9 @@ M  END
 CHEMBL88055
 
 > <chembl_pref_name>
-RIMITEROL $$$$
+RIMITEROL
+
+$$$$
 
      RDKit          2D
 
@@ -38186,7 +40124,9 @@ M  END
 CHEMBL3545985
 
 > <chembl_pref_name>
-BENZPHETAMINE $$$$
+BENZPHETAMINE
+
+$$$$
 
      RDKit          2D
 
@@ -38231,7 +40171,9 @@ M  END
 CHEMBL1200329
 
 > <chembl_pref_name>
-TIZANIDINE HYDROCHLORIDE $$$$
+TIZANIDINE HYDROCHLORIDE
+
+$$$$
 
      RDKit          2D
 
@@ -38286,7 +40228,9 @@ M  END
 CHEMBL451
 
 > <chembl_pref_name>
-CHLORDIAZEPOXIDE $$$$
+CHLORDIAZEPOXIDE
+
+$$$$
 
      RDKit          2D
 
@@ -38331,7 +40275,9 @@ M  END
 CHEMBL1201168
 
 > <chembl_pref_name>
-ISOCARBOXAZID $$$$
+ISOCARBOXAZID
+
+$$$$
 
      RDKit          2D
 
@@ -38381,7 +40327,9 @@ M  END
 CHEMBL469
 
 > <chembl_pref_name>
-KETOROLAC $$$$
+KETOROLAC
+
+$$$$
 
      RDKit          2D
 
@@ -38415,7 +40363,9 @@ M  END
 CHEMBL604608
 
 > <chembl_pref_name>
-FRUCTOSE $$$$
+FRUCTOSE
+
+$$$$
 
      RDKit          2D
 
@@ -38450,7 +40400,9 @@ M  END
 CHEMBL1238
 
 > <chembl_pref_name>
-AZELAIC ACID $$$$
+AZELAIC ACID
+
+$$$$
 
      RDKit          2D
 
@@ -38496,7 +40448,9 @@ M  END
 CHEMBL636
 
 > <chembl_pref_name>
-RIVASTIGMINE $$$$
+RIVASTIGMINE
+
+$$$$
 
      RDKit          2D
 
@@ -38530,7 +40484,9 @@ M  END
 CHEMBL1590
 
 > <chembl_pref_name>
-PSEUDOEPHEDRINE $$$$
+PSEUDOEPHEDRINE
+
+$$$$
 
      RDKit          2D
 
@@ -38585,7 +40541,9 @@ M  END
 CHEMBL1625607
 
 > <chembl_pref_name>
-MEBHYDROLIN $$$$
+MEBHYDROLIN
+
+$$$$
 
      RDKit          2D
 
@@ -38617,7 +40575,9 @@ M  END
 CHEMBL1169
 
 > <chembl_pref_name>
-AMINOSALICYLIC ACID $$$$
+AMINOSALICYLIC ACID
+
+$$$$
 
      RDKit          2D
 
@@ -38671,7 +40631,9 @@ M  END
 CHEMBL629
 
 > <chembl_pref_name>
-AMITRIPTYLINE $$$$
+AMITRIPTYLINE
+
+$$$$
 
      RDKit          2D
 
@@ -38712,7 +40674,9 @@ M  END
 CHEMBL1200922
 
 > <chembl_pref_name>
-MEBUTAMATE $$$$
+MEBUTAMATE
+
+$$$$
 
      RDKit          2D
 
@@ -38753,7 +40717,9 @@ M  END
 CHEMBL1200331
 
 > <chembl_pref_name>
-FOSFOMYCIN TROMETHAMINE $$$$
+FOSFOMYCIN TROMETHAMINE
+
+$$$$
 
      RDKit          2D
 
@@ -38811,7 +40777,9 @@ M  END
 CHEMBL517712
 
 > <chembl_pref_name>
-ATROPINE $$$$
+ATROPINE
+
+$$$$
 
      RDKit          2D
 
@@ -38845,7 +40813,9 @@ M  END
 CHEMBL1201042
 
 > <chembl_pref_name>
-ETIDRONATE DISODIUM $$$$
+ETIDRONATE DISODIUM
+
+$$$$
 
      RDKit          2D
 
@@ -38899,7 +40869,9 @@ M  END
 CHEMBL256997
 
 > <chembl_pref_name>
-ATALUREN $$$$
+ATALUREN
+
+$$$$
 
      RDKit          2D
 
@@ -38912,7 +40884,9 @@ M  END
 CHEMBL1644695
 
 > <chembl_pref_name>
-SODIUM IODIDE $$$$
+SODIUM IODIDE
+
+$$$$
 
      RDKit          2D
 
@@ -38955,7 +40929,9 @@ M  END
 CHEMBL861
 
 > <chembl_pref_name>
-MEPHENYTOIN $$$$
+MEPHENYTOIN
+
+$$$$
 
      RDKit          2D
 
@@ -39007,7 +40983,9 @@ M  END
 CHEMBL1196
 
 > <chembl_pref_name>
-PROPARACAINE $$$$
+PROPARACAINE
+
+$$$$
 
      RDKit          2D
 
@@ -39047,7 +41025,9 @@ M  END
 CHEMBL1705
 
 > <chembl_pref_name>
-CLONIDINE HYDROCHLORIDE $$$$
+CLONIDINE HYDROCHLORIDE
+
+$$$$
 
      RDKit          2D
 
@@ -39094,7 +41074,9 @@ M  END
 CHEMBL1200461
 
 > <chembl_pref_name>
-MIDODRINE HYDROCHLORIDE $$$$
+MIDODRINE HYDROCHLORIDE
+
+$$$$
 
      RDKit          2D
 
@@ -39130,7 +41112,9 @@ M  END
 CHEMBL25
 
 > <chembl_pref_name>
-ASPIRIN $$$$
+ASPIRIN
+
+$$$$
 
      RDKit          2D
 
@@ -39166,7 +41150,9 @@ M  END
 CHEMBL16073
 
 > <chembl_pref_name>
-PHENACETIN $$$$
+PHENACETIN
+
+$$$$
 
      RDKit          2D
 
@@ -39196,7 +41182,9 @@ M  END
 CHEMBL3989858
 
 > <chembl_pref_name>
-MAGNESIUM ACETATE TETRAHYDRATE $$$$
+MAGNESIUM ACETATE TETRAHYDRATE
+
+$$$$
 
      RDKit          2D
 
@@ -39241,7 +41229,9 @@ M  END
 CHEMBL605
 
 > <chembl_pref_name>
-PROCAINAMIDE HYDROCHLORIDE $$$$
+PROCAINAMIDE HYDROCHLORIDE
+
+$$$$
 
      RDKit          2D
 
@@ -39280,7 +41270,9 @@ M  END
 CHEMBL301265
 
 > <chembl_pref_name>
-PRAMIPEXOLE $$$$
+PRAMIPEXOLE
+
+$$$$
 
      RDKit          2D
 
@@ -39329,7 +41321,9 @@ M  END
 CHEMBL657
 
 > <chembl_pref_name>
-DIPHENHYDRAMINE $$$$
+DIPHENHYDRAMINE
+
+$$$$
 
      RDKit          2D
 
@@ -39370,7 +41364,9 @@ M  END
 CHEMBL744
 
 > <chembl_pref_name>
-RILUZOLE $$$$
+RILUZOLE
+
+$$$$
 
      RDKit          2D
 
@@ -39415,7 +41411,9 @@ M  END
 CHEMBL1191
 
 > <chembl_pref_name>
-SULFAMETHIZOLE $$$$
+SULFAMETHIZOLE
+
+$$$$
 
      RDKit          2D
 
@@ -39458,7 +41456,9 @@ M  END
 CHEMBL1200413
 
 > <chembl_pref_name>
-TETRAHYDROZOLINE HYDROCHLORIDE $$$$
+TETRAHYDROZOLINE HYDROCHLORIDE
+
+$$$$
 
      RDKit          2D
 
@@ -39508,7 +41508,9 @@ M  END
 CHEMBL290960
 
 > <chembl_pref_name>
-NIFURTIMOX $$$$
+NIFURTIMOX
+
+$$$$
 
      RDKit          2D
 
@@ -39551,7 +41553,9 @@ M  END
 CHEMBL1003
 
 > <chembl_pref_name>
-CLAVULANATE POTASSIUM $$$$
+CLAVULANATE POTASSIUM
+
+$$$$
 
      RDKit          2D
 
@@ -39603,7 +41607,9 @@ M  END
 CHEMBL2105527
 
 > <chembl_pref_name>
-TETRAZEPAM $$$$
+TETRAZEPAM
+
+$$$$
 
      RDKit          2D
 
@@ -39622,7 +41628,9 @@ M  END
 CHEMBL1551365
 
 > <chembl_pref_name>
-ETHYL NITRITE [SPIRIT] $$$$
+ETHYL NITRITE [SPIRIT]
+
+$$$$
 
      RDKit          2D
 
@@ -39663,7 +41671,9 @@ M  END
 CHEMBL1388
 
 > <chembl_pref_name>
-MONOBENZONE $$$$
+MONOBENZONE
+
+$$$$
 
      RDKit          2D
 
@@ -39712,7 +41722,9 @@ M  END
 CHEMBL27
 
 > <chembl_pref_name>
-PROPRANOLOL $$$$
+PROPRANOLOL
+
+$$$$
 
      RDKit          2D
 
@@ -39765,7 +41777,9 @@ M  END
 CHEMBL1201338
 
 > <chembl_pref_name>
-CYCLOPENTOLATE $$$$
+CYCLOPENTOLATE
+
+$$$$
 
      RDKit          2D
 
@@ -39797,7 +41811,9 @@ M  END
 CHEMBL447868
 
 > <chembl_pref_name>
-SODIUM SALICYLATE $$$$
+SODIUM SALICYLATE
+
+$$$$
 
      RDKit          2D
 
@@ -39847,7 +41863,9 @@ M  END
 CHEMBL1200791
 
 > <chembl_pref_name>
-OXYMETAZOLINE HYDROCHLORIDE $$$$
+OXYMETAZOLINE HYDROCHLORIDE
+
+$$$$
 
      RDKit          2D
 
@@ -39890,7 +41908,9 @@ M  END
 CHEMBL18
 
 > <chembl_pref_name>
-ETHOXZOLAMIDE $$$$
+ETHOXZOLAMIDE
+
+$$$$
 
      RDKit          2D
 
@@ -39936,7 +41956,9 @@ M  END
 CHEMBL276520
 
 > <chembl_pref_name>
-INDALPINE $$$$
+INDALPINE
+
+$$$$
 
      RDKit          2D
 
@@ -39989,7 +42011,9 @@ M  END
 CHEMBL22
 
 > <chembl_pref_name>
-TRIMETHOPRIM $$$$
+TRIMETHOPRIM
+
+$$$$
 
      RDKit          2D
 
@@ -40003,7 +42027,9 @@ M  END
 CHEMBL1200668
 
 > <chembl_pref_name>
-CALCIUM CHLORIDE $$$$
+CALCIUM CHLORIDE
+
+$$$$
 
      RDKit          2D
 
@@ -40047,7 +42073,9 @@ M  END
 CHEMBL79
 
 > <chembl_pref_name>
-LIDOCAINE $$$$
+LIDOCAINE
+
+$$$$
 
      RDKit          2D
 
@@ -40077,7 +42105,9 @@ M  END
 CHEMBL36715
 
 > <chembl_pref_name>
-PIRACETAM $$$$
+PIRACETAM
+
+$$$$
 
      RDKit          2D
 
@@ -40127,7 +42157,9 @@ M  END
 CHEMBL1200411
 
 > <chembl_pref_name>
-ROPINIROLE HYDROCHLORIDE $$$$
+ROPINIROLE HYDROCHLORIDE
+
+$$$$
 
      RDKit          2D
 
@@ -40146,7 +42178,9 @@ M  END
 CHEMBL1200736
 
 > <chembl_pref_name>
-MAGNESIUM CARBONATE $$$$
+MAGNESIUM CARBONATE
+
+$$$$
 
      RDKit          2D
 
@@ -40185,7 +42219,9 @@ M  END
 CHEMBL3833335
 
 > <chembl_pref_name>
-CHLORAL BETAINE $$$$
+CHLORAL BETAINE
+
+$$$$
 
      RDKit          2D
 
@@ -40235,7 +42271,9 @@ M  END
 CHEMBL484785
 
 > <chembl_pref_name>
-CRISABOROLE $$$$
+CRISABOROLE
+
+$$$$
 
      RDKit          2D
 
@@ -40270,7 +42308,9 @@ M  END
 CHEMBL1092067
 
 > <chembl_pref_name>
-FLUDEOXYGLUCOSE F 18 $$$$
+FLUDEOXYGLUCOSE F 18
+
+$$$$
 
      RDKit          2D
 
@@ -40316,7 +42356,9 @@ M  END
 CHEMBL457
 
 > <chembl_pref_name>
-GEMFIBROZIL $$$$
+GEMFIBROZIL
+
+$$$$
 
      RDKit          2D
 
@@ -40350,7 +42392,9 @@ M  END
 CHEMBL1201319
 
 > <chembl_pref_name>
-METARAMINOL $$$$
+METARAMINOL
+
+$$$$
 
      RDKit          2D
 
@@ -40379,7 +42423,9 @@ M  END
 CHEMBL1096562
 
 > <chembl_pref_name>
-METHYL AMINOLEVULINATE $$$$
+METHYL AMINOLEVULINATE
+
+$$$$
 
      RDKit          2D
 
@@ -40429,7 +42475,9 @@ M  END
 CHEMBL712
 
 > <chembl_pref_name>
-ANISINDIONE $$$$
+ANISINDIONE
+
+$$$$
 
      RDKit          2D
 
@@ -40481,7 +42529,9 @@ M  END
 CHEMBL3989843
 
 > <chembl_pref_name>
-TRANYLCYPROMINE $$$$
+TRANYLCYPROMINE
+
+$$$$
 
      RDKit          2D
 
@@ -40524,7 +42574,9 @@ M  END
 CHEMBL19236
 
 > <chembl_pref_name>
-MOXONIDINE $$$$
+MOXONIDINE
+
+$$$$
 
      RDKit          2D
 
@@ -40571,7 +42623,9 @@ M  END
 CHEMBL500
 
 > <chembl_pref_name>
-PINDOLOL $$$$
+PINDOLOL
+
+$$$$
 
      RDKit          2D
 
@@ -40589,7 +42643,9 @@ M  END
 CHEMBL2096635
 
 > <chembl_pref_name>
-UREA C 14 $$$$
+UREA C 14
+
+$$$$
 
      RDKit          2D
 
@@ -40636,7 +42692,9 @@ M  END
 CHEMBL686
 
 > <chembl_pref_name>
-MEFENAMIC ACID $$$$
+MEFENAMIC ACID
+
+$$$$
 
      RDKit          2D
 
@@ -40690,7 +42748,9 @@ M  END
 CHEMBL1175
 
 > <chembl_pref_name>
-DULOXETINE $$$$
+DULOXETINE
+
+$$$$
 
      RDKit          2D
 
@@ -40701,7 +42761,9 @@ M  END
 CHEMBL1233877
 
 > <chembl_pref_name>
-KRYPTON $$$$
+KRYPTON
+
+$$$$
 
      RDKit          2D
 
@@ -40757,7 +42819,9 @@ M  END
 CHEMBL1618018
 
 > <chembl_pref_name>
-HOMATROPINE $$$$
+HOMATROPINE
+
+$$$$
 
      RDKit          2D
 
@@ -40816,7 +42880,9 @@ M  END
 CHEMBL567597
 
 > <chembl_pref_name>
-ARTEMISININ $$$$
+ARTEMISININ
+
+$$$$
 
      RDKit          2D
 
@@ -40852,7 +42918,9 @@ M  END
 CHEMBL444
 
 > <chembl_pref_name>
-BARBITAL $$$$
+BARBITAL
+
+$$$$
 
      RDKit          2D
 
@@ -40879,7 +42947,9 @@ M  END
 CHEMBL1200949
 
 > <chembl_pref_name>
-BETAZOLE HYDROCHLORIDE $$$$
+BETAZOLE HYDROCHLORIDE
+
+$$$$
 
      RDKit          2D
 
@@ -40929,7 +42999,9 @@ M  END
 CHEMBL576127
 
 > <chembl_pref_name>
-FENSPIRIDE $$$$
+FENSPIRIDE
+
+$$$$
 
      RDKit          2D
 
@@ -40960,7 +43032,9 @@ M  END
 CHEMBL1201293
 
 > <chembl_pref_name>
-ACAMPROSATE $$$$
+ACAMPROSATE
+
+$$$$
 
      RDKit          2D
 
@@ -41002,7 +43076,9 @@ M  END
 CHEMBL924
 
 > <chembl_pref_name>
-ZOLEDRONIC ACID $$$$
+ZOLEDRONIC ACID
+
+$$$$
 
      RDKit          2D
 
@@ -41048,7 +43124,9 @@ M  END
 CHEMBL844
 
 > <chembl_pref_name>
-BRIMONIDINE $$$$
+BRIMONIDINE
+
+$$$$
 
      RDKit          2D
 
@@ -41089,7 +43167,9 @@ M  END
 CHEMBL141
 
 > <chembl_pref_name>
-LAMIVUDINE $$$$
+LAMIVUDINE
+
+$$$$
 
      RDKit          2D
 
@@ -41139,7 +43219,9 @@ M  END
 CHEMBL477
 
 > <chembl_pref_name>
-ADENOSINE $$$$
+ADENOSINE
+
+$$$$
 
      RDKit          2D
 
@@ -41161,7 +43243,9 @@ M  END
 CHEMBL233406
 
 > <chembl_pref_name>
-SODIUM SULFATE $$$$
+SODIUM SULFATE
+
+$$$$
 
      RDKit          2D
 
@@ -41211,7 +43295,9 @@ M  END
 CHEMBL1208
 
 > <chembl_pref_name>
-CINOXACIN $$$$
+CINOXACIN
+
+$$$$
 
      RDKit          2D
 
@@ -41244,7 +43330,9 @@ M  END
 CHEMBL3039567
 
 > <chembl_pref_name>
-SODIUM GLYCEROPHOSPHATE $$$$
+SODIUM GLYCEROPHOSPHATE
+
+$$$$
 
      RDKit          2D
 
@@ -41280,7 +43368,9 @@ M  END
 CHEMBL86882
 
 > <chembl_pref_name>
-ETILEFRINE $$$$
+ETILEFRINE
+
+$$$$
 
      RDKit          2D
 
@@ -41317,7 +43407,9 @@ M  END
 CHEMBL290916
 
 > <chembl_pref_name>
-EDARAVONE $$$$
+EDARAVONE
+
+$$$$
 
      RDKit          2D
 
@@ -41341,7 +43433,9 @@ M  END
 CHEMBL14060
 
 > <chembl_pref_name>
-PHENOL $$$$
+PHENOL
+
+$$$$
 
      RDKit          2D
 
@@ -41384,7 +43478,9 @@ M  END
 CHEMBL413965
 
 > <chembl_pref_name>
-FELBINAC $$$$
+FELBINAC
+
+$$$$
 
      RDKit          2D
 
@@ -41429,7 +43525,9 @@ M  END
 CHEMBL1983350
 
 > <chembl_pref_name>
-STIRIPENTOL $$$$
+STIRIPENTOL
+
+$$$$
 
      RDKit          2D
 
@@ -41481,7 +43579,9 @@ M  END
 CHEMBL648
 
 > <chembl_pref_name>
-CYCLIZINE $$$$
+CYCLIZINE
+
+$$$$
 
      RDKit          2D
 
@@ -41525,7 +43625,9 @@ M  END
 CHEMBL1201022
 
 > <chembl_pref_name>
-PHENAZOPYRIDINE HYDROCHLORIDE $$$$
+PHENAZOPYRIDINE HYDROCHLORIDE
+
+$$$$
 
      RDKit          2D
 
@@ -41577,7 +43679,9 @@ M  END
 CHEMBL72
 
 > <chembl_pref_name>
-DESIPRAMINE $$$$
+DESIPRAMINE
+
+$$$$
 
      RDKit          2D
 
@@ -41609,7 +43713,9 @@ M  END
 CHEMBL21
 
 > <chembl_pref_name>
-SULFANILAMIDE $$$$
+SULFANILAMIDE
+
+$$$$
 
      RDKit          2D
 
@@ -41664,7 +43770,9 @@ M  END
 CHEMBL1200959
 
 > <chembl_pref_name>
-METHDILAZINE $$$$
+METHDILAZINE
+
+$$$$
 
      RDKit          2D
 
@@ -41714,7 +43822,9 @@ M  END
 CHEMBL585
 
 > <chembl_pref_name>
-TRIAMTERENE $$$$
+TRIAMTERENE
+
+$$$$
 
      RDKit          2D
 
@@ -41755,7 +43865,9 @@ M  END
 CHEMBL1491306
 
 > <chembl_pref_name>
-BENZYLTHIOURACIL $$$$
+BENZYLTHIOURACIL
+
+$$$$
 
      RDKit          2D
 
@@ -41787,7 +43899,9 @@ M  END
 CHEMBL1546
 
 > <chembl_pref_name>
-HYDROXYAMPHETAMINE $$$$
+HYDROXYAMPHETAMINE
+
+$$$$
 
      RDKit          2D
 
@@ -41824,7 +43938,9 @@ M  END
 CHEMBL1788385
 
 > <chembl_pref_name>
-TILBROQUINOL $$$$
+TILBROQUINOL
+
+$$$$
 
      RDKit          2D
 
@@ -41884,7 +44000,9 @@ M  END
 CHEMBL1189679
 
 > <chembl_pref_name>
-PALONOSETRON $$$$
+PALONOSETRON
+
+$$$$
 
      RDKit          2D
 
@@ -41911,7 +44029,9 @@ M  END
 CHEMBL2096650
 
 > <chembl_pref_name>
-SODIUM THIOSULFATE $$$$
+SODIUM THIOSULFATE
+
+$$$$
 
      RDKit          2D
 
@@ -41960,7 +44080,9 @@ M  END
 CHEMBL960
 
 > <chembl_pref_name>
-LEFLUNOMIDE $$$$
+LEFLUNOMIDE
+
+$$$$
 
      RDKit          2D
 
@@ -42005,7 +44127,9 @@ M  END
 CHEMBL1233
 
 > <chembl_pref_name>
-CARISOPRODOL $$$$
+CARISOPRODOL
+
+$$$$
 
      RDKit          2D
 
@@ -42038,7 +44162,9 @@ M  END
 CHEMBL167150
 
 > <chembl_pref_name>
-TRICHLORFON $$$$
+TRICHLORFON
+
+$$$$
 
      RDKit          2D
 
@@ -42073,7 +44199,9 @@ M  END
 CHEMBL1200425
 
 > <chembl_pref_name>
-PARGYLINE HYDROCHLORIDE $$$$
+PARGYLINE HYDROCHLORIDE
+
+$$$$
 
      RDKit          2D
 
@@ -42113,7 +44241,9 @@ M  END
 CHEMBL110458
 
 > <chembl_pref_name>
-MIGALASTAT $$$$
+MIGALASTAT
+
+$$$$
 
      RDKit          2D
 
@@ -42161,7 +44291,9 @@ M  END
 CHEMBL108
 
 > <chembl_pref_name>
-CARBAMAZEPINE $$$$
+CARBAMAZEPINE
+
+$$$$
 
      RDKit          2D
 
@@ -42216,7 +44348,9 @@ M  END
 CHEMBL1380
 
 > <chembl_pref_name>
-ABACAVIR $$$$
+ABACAVIR
+
+$$$$
 
      RDKit          2D
 
@@ -42263,7 +44397,9 @@ M  END
 CHEMBL1201774
 
 > <chembl_pref_name>
-SAPROPTERIN $$$$
+SAPROPTERIN
+
+$$$$
 
      RDKit          2D
 
@@ -42304,7 +44440,9 @@ M  END
 CHEMBL1413
 
 > <chembl_pref_name>
-CICLOPIROX $$$$
+CICLOPIROX
+
+$$$$
 
      RDKit          2D
 
@@ -42349,7 +44487,9 @@ M  END
 CHEMBL16476
 
 > <chembl_pref_name>
-PRONETALOL $$$$
+PRONETALOL
+
+$$$$
 
      RDKit          2D
 
@@ -42360,7 +44500,9 @@ M  END
 CHEMBL1231052
 
 > <chembl_pref_name>
-ARSENIC $$$$
+ARSENIC
+
+$$$$
 
      RDKit          2D
 
@@ -42404,7 +44546,9 @@ M  END
 CHEMBL1714
 
 > <chembl_pref_name>
-KETAMINE HYDROCHLORIDE $$$$
+KETAMINE HYDROCHLORIDE
+
+$$$$
 
      RDKit          2D
 
@@ -42449,7 +44593,9 @@ M  END
 CHEMBL1706
 
 > <chembl_pref_name>
-NAPHAZOLINE HYDROCHLORIDE $$$$
+NAPHAZOLINE HYDROCHLORIDE
+
+$$$$
 
      RDKit          2D
 
@@ -42494,7 +44640,9 @@ M  END
 CHEMBL1201059
 
 > <chembl_pref_name>
-CHLOROGUANIDE HYDROCHLORIDE $$$$
+CHLOROGUANIDE HYDROCHLORIDE
+
+$$$$
 
      RDKit          2D
 
@@ -42536,7 +44684,9 @@ M  END
 CHEMBL248702
 
 > <chembl_pref_name>
-DEXFENFLURAMINE $$$$
+DEXFENFLURAMINE
+
+$$$$
 
      RDKit          2D
 
@@ -42568,7 +44718,9 @@ M  END
 CHEMBL1201270
 
 > <chembl_pref_name>
-METHENAMINE $$$$
+METHENAMINE
+
+$$$$
 
      RDKit          2D
 
@@ -42582,7 +44734,9 @@ M  END
 CHEMBL1200727
 
 > <chembl_pref_name>
-RUBIDIUM CHLORIDE RB 82 $$$$
+RUBIDIUM CHLORIDE RB 82
+
+$$$$
 
      RDKit          2D
 
@@ -42613,7 +44767,9 @@ M  END
 CHEMBL1420
 
 > <chembl_pref_name>
-PRALIDOXIME $$$$
+PRALIDOXIME
+
+$$$$
 
      RDKit          2D
 
@@ -42667,7 +44823,9 @@ M  END
 CHEMBL855
 
 > <chembl_pref_name>
-TRIPROLIDINE $$$$
+TRIPROLIDINE
+
+$$$$
 
      RDKit          2D
 
@@ -42708,7 +44866,9 @@ M  END
 CHEMBL1095
 
 > <chembl_pref_name>
-ETHOTOIN $$$$
+ETHOTOIN
+
+$$$$
 
      RDKit          2D
 
@@ -42720,7 +44880,9 @@ M  END
 CHEMBL1201189
 
 > <chembl_pref_name>
-AMMONIA N 13 $$$$
+AMMONIA N 13
+
+$$$$
 
      RDKit          2D
 
@@ -42760,7 +44922,9 @@ M  END
 CHEMBL730
 
 > <chembl_pref_name>
-NITROGLYCERIN $$$$
+NITROGLYCERIN
+
+$$$$
 
      RDKit          2D
 
@@ -42816,7 +44980,9 @@ M  END
 CHEMBL22108
 
 > <chembl_pref_name>
-DIMETHINDENE $$$$
+DIMETHINDENE
+
+$$$$
 
      RDKit          2D
 
@@ -42860,7 +45026,9 @@ M  END
 CHEMBL738
 
 > <chembl_pref_name>
-THIOPENTAL SODIUM $$$$
+THIOPENTAL SODIUM
+
+$$$$
 
      RDKit          2D
 
@@ -42895,7 +45063,9 @@ M  END
 CHEMBL1615779
 
 > <chembl_pref_name>
-IOBENGUANE I 131 $$$$
+IOBENGUANE I 131
+
+$$$$
 
      RDKit          2D
 
@@ -42930,7 +45100,9 @@ M  END
 CHEMBL1200660
 
 > <chembl_pref_name>
-ISOSORBIDE $$$$
+ISOSORBIDE
+
+$$$$
 
      RDKit          2D
 
@@ -42975,7 +45147,9 @@ M  END
 CHEMBL1200560
 
 > <chembl_pref_name>
-GUANABENZ ACETATE $$$$
+GUANABENZ ACETATE
+
+$$$$
 
      RDKit          2D
 
@@ -43022,7 +45196,9 @@ M  END
 CHEMBL956
 
 > <chembl_pref_name>
-SUPROFEN $$$$
+SUPROFEN
+
+$$$$
 
      RDKit          2D
 
@@ -43066,7 +45242,9 @@ M  END
 CHEMBL971
 
 > <chembl_pref_name>
-PENTOBARBITAL SODIUM $$$$
+PENTOBARBITAL SODIUM
+
+$$$$
 
      RDKit          2D
 
@@ -43095,7 +45273,9 @@ M  END
 CHEMBL1200733
 
 > <chembl_pref_name>
-DESFLURANE $$$$
+DESFLURANE
+
+$$$$
 
      RDKit          2D
 
@@ -43142,7 +45322,9 @@ M  END
 CHEMBL1752
 
 > <chembl_pref_name>
-DYPHYLLINE $$$$
+DYPHYLLINE
+
+$$$$
 
      RDKit          2D
 
@@ -43186,7 +45368,9 @@ M  END
 CHEMBL714
 
 > <chembl_pref_name>
-ALBUTEROL $$$$
+ALBUTEROL
+
+$$$$
 
      RDKit          2D
 
@@ -43208,7 +45392,9 @@ M  END
 CHEMBL1060
 
 > <chembl_pref_name>
-SODIUM PHOSPHATE $$$$
+SODIUM PHOSPHATE
+
+$$$$
 
      RDKit          2D
 
@@ -43256,7 +45442,9 @@ M  END
 CHEMBL897
 
 > <chembl_pref_name>
-PROBENECID $$$$
+PROBENECID
+
+$$$$
 
      RDKit          2D
 
@@ -43291,7 +45479,9 @@ M  END
 CHEMBL1707007
 
 > <chembl_pref_name>
-GLUCOSAMINE HYDROCHLORIDE $$$$
+GLUCOSAMINE HYDROCHLORIDE
+
+$$$$
 
      RDKit          2D
 
@@ -43325,7 +45515,9 @@ M  END
 CHEMBL2096633
 
 > <chembl_pref_name>
-MAGNESIUM TRISILICATE $$$$
+MAGNESIUM TRISILICATE
+
+$$$$
 
      RDKit          2D
 
@@ -43338,7 +45530,9 @@ M  END
 CHEMBL1528
 
 > <chembl_pref_name>
-SODIUM FLUORIDE $$$$
+SODIUM FLUORIDE
+
+$$$$
 
      RDKit          2D
 
@@ -43372,7 +45566,9 @@ M  END
 CHEMBL1200829
 
 > <chembl_pref_name>
-GLUCONOLACTONE $$$$
+GLUCONOLACTONE
+
+$$$$
 
      RDKit          2D
 
@@ -43406,7 +45602,9 @@ M  END
 CHEMBL1651998
 
 > <chembl_pref_name>
-TERPIN $$$$
+TERPIN
+
+$$$$
 
      RDKit          2D
 
@@ -43438,7 +45636,9 @@ M  END
 CHEMBL3040581
 
 > <chembl_pref_name>
-SODIUM GLYCEROPHOSPHATE $$$$
+SODIUM GLYCEROPHOSPHATE
+
+$$$$
 
      RDKit          2D
 
@@ -43462,4 +45662,6 @@ M  END
 CHEMBL3990987
 
 > <chembl_pref_name>
-POTASH, SULFURATED $$$$
+POTASH, SULFURATED
+
+$$$$
